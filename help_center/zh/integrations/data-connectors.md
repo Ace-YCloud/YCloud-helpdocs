@@ -14,17 +14,17 @@ description: 连接外部数据库并创建完全自动化的丝滑用户交互�
 
 首先，通过左侧菜单的集成>数据连接器访问该功能。
 
-<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 在这里，您可以设置数据连接器来连接外部数据。您可以通过点击\[+新建数据连接器]按钮来创建一个。您还可以按名称和状态搜索特定的数据连接器。
 
-<figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 名称和描述
 
 为你的数据连接器取一个能清晰表明其特定功能的名称（例如，“retrieve\_order\_id”）。在描述字段中，描述何时使用此连接器以及它将获取哪些数据（例如，“获取提供的订单 ID 的订单详情”）。
 
-<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## API 链接
 
@@ -38,19 +38,19 @@ description: 连接外部数据库并创建完全自动化的丝滑用户交互�
 * **DELETE** - 从第三方系统中移除信息。
 * **PATCH** - 更新第三方系统中的信息。
 
-<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### API headers
 
 您可以通过点击+Add header来选择向此请求添加任何额外参数，然后输入**键值对：**
 
-<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 请求体
 
 如果您正在发起 POST 或 PUT 请求，您将可以选择提供请求体，以包含您希望在请求中发送的任何数据：
 
-<figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 测试响应
 
@@ -62,13 +62,13 @@ description: 连接外部数据库并创建完全自动化的丝滑用户交互�
 
 点击**测试请求**以检查数据连接器是否已正确配置。
 
-<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 激活
 
 一旦测试没有问题，你的数据连接器即可投入使用。点击右上角Set live 进行激活。
 
-<figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 设置为草稿
 
@@ -76,6 +76,6 @@ description: 连接外部数据库并创建完全自动化的丝滑用户交互�
 
 您可以点击想要移至草稿状态的数据连接器，然后选择“设为草稿”，或在列表中关闭状态开关。
 
-<figure><img src="../.gitbook/assets/image (970).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (835).png" alt=""><figcaption></figcaption></figure>
 
 这将检查此数据连接器的所有依赖项。在将其移至草稿状态之前，您需要审查并解决这些依赖项。

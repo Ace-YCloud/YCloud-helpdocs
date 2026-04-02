@@ -8,14 +8,14 @@
 
 登录[YCloud账号](https://www.ycloud.com/console/#/entry/login)，导航至Campaign > Action > Analytics
 
-<figure><img src="../.gitbook/assets/image (659).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (532).png" alt=""><figcaption></figcaption></figure>
 
 ## 步骤2
 
 * 点击Analytics，您可查看Campaign相关数据如：发送；等待返回；送达；失败；已读以及已回复数据；
 * 点击Export可下载相关数据，支持本地分析
 
-<figure><img src="../.gitbook/assets/image (660).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (533).png" alt=""><figcaption></figcaption></figure>
 
 
 

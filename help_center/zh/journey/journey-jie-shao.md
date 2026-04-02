@@ -14,13 +14,13 @@ App的企业，可以使用Journey进行客户的激活。例如当客户注册A
 
 ### Journey包含的组件：
 
-<table><thead><tr><th width="118">组件</th><th width="304">功能</th><th></th></tr></thead><tbody><tr><td>Trigger</td><td><p>Trigger是Journey的核心功能，是用于设置触发的事件和条件。</p><p>满足Trigger中所有条件的用户才会触发Journey</p><p></p></td><td><img src="../.gitbook/assets/image (719).png" alt="" data-size="original"></td></tr><tr><td>Send template</td><td>发送模板组件，设置要发送的内容</td><td><img src="../.gitbook/assets/image (720).png" alt="" data-size="original"></td></tr><tr><td>Message status rule</td><td>判断模板消息的状态</td><td><img src="../.gitbook/assets/image (721).png" alt="" data-size="original"></td></tr><tr><td>Add tag</td><td>打标签</td><td><img src="../.gitbook/assets/image (722).png" alt="" data-size="original"></td></tr><tr><td>Wait</td><td>等待</td><td><img src="../.gitbook/assets/image (723).png" alt="" data-size="original"></td></tr></tbody></table>
+<table><thead><tr><th width="118">组件</th><th width="304">功能</th><th></th></tr></thead><tbody><tr><td>Trigger</td><td><p>Trigger是Journey的核心功能，是用于设置触发的事件和条件。</p><p>满足Trigger中所有条件的用户才会触发Journey</p><p></p></td><td><img src="../.gitbook/assets/image (592).png" alt="" data-size="original"></td></tr><tr><td>Send template</td><td>发送模板组件，设置要发送的内容</td><td><img src="../.gitbook/assets/image (593).png" alt="" data-size="original"></td></tr><tr><td>Message status rule</td><td>判断模板消息的状态</td><td><img src="../.gitbook/assets/image (594).png" alt="" data-size="original"></td></tr><tr><td>Add tag</td><td>打标签</td><td><img src="../.gitbook/assets/image (595).png" alt="" data-size="original"></td></tr><tr><td>Wait</td><td>等待</td><td><img src="../.gitbook/assets/image (596).png" alt="" data-size="original"></td></tr></tbody></table>
 
 ### 组件连接
 
 组件和组件之间需要进行连接，根据连接后的顺序进行执行。
 
-<figure><img src="../.gitbook/assets/image (724).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (597).png" alt=""><figcaption></figcaption></figure>
 
 ### 设置Journey的目标和退出条件
 
@@ -36,4 +36,4 @@ App的企业，可以使用Journey进行客户的激活。例如当客户注册A
 
 当用户进入Journey后，会持续判断用户是否符合了退出条件，符合后无论用户在Journey的哪个阶段，都会立即退出，即不再执行后面的组件。
 
-<figure><img src="../.gitbook/assets/image (726).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (599).png" alt=""><figcaption></figcaption></figure>

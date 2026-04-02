@@ -75,7 +75,7 @@ Inbox支持组合单个或者多个条件对会话进行自定义筛选，并保
 
 在会话列表中查看筛选结果
 
-<figure><img src="../.gitbook/assets/image (602).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (475).png" alt=""><figcaption></figcaption></figure>
 
 ### 筛选批量转接、关闭会话
 
@@ -85,7 +85,7 @@ Inbox 提供批量转接、关闭会话功能。使用鼠标悬浮在您想要�
 
 如果您需要对对话进行批量关闭，点击右上角的关闭按钮，系统将弹出二次确认弹窗，确认后系统将为您批量关闭选中会话。
 
-<figure><img src="../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Inbox聊天区域
 
@@ -94,7 +94,7 @@ Inbox 提供批量转接、关闭会话功能。使用鼠标悬浮在您想要�
 在Inbox中，“会话”是您和特定联系人之间的整个交流过程，包括所有的往来内容。“消息”则是在这个交流过程中每次发送或接收的具体一条内容。
 
 {% hint style="info" %}
-由于Inbox关联了YCloud账号下所有WhatsApp号码中的会话，因此会出现同一个客户有多个会话窗口，请通过聊天区顶部用户名称旁的Inbox名称区分该对话对应的WhatsApp号码。<img src="../.gitbook/assets/image (583).png" alt="" data-size="original">
+由于Inbox关联了YCloud账号下所有WhatsApp号码中的会话，因此会出现同一个客户有多个会话窗口，请通过聊天区顶部用户名称旁的Inbox名称区分该对话对应的WhatsApp号码。<img src="../.gitbook/assets/image (456).png" alt="" data-size="original">
 {% endhint %}
 
 #### **会话状态**
@@ -122,13 +122,13 @@ Conversation status was changed to "Closed" automatically: 当前会话超过24�
 
 #### **消息状态**
 
-<img src="../.gitbook/assets/image (588).png" alt="" data-size="line">已发送：消息已成功发出。
+<img src="../.gitbook/assets/image (461).png" alt="" data-size="line">已发送：消息已成功发出。
 
-<img src="../.gitbook/assets/image (589).png" alt="" data-size="line">已送达：消息已成功送达接收人的手机或任一已连接设备。
+<img src="../.gitbook/assets/image (462).png" alt="" data-size="line">已送达：消息已成功送达接收人的手机或任一已连接设备。
 
-<img src="../.gitbook/assets/image (590).png" alt="" data-size="line">已读：消息已读
+<img src="../.gitbook/assets/image (463).png" alt="" data-size="line">已读：消息已读
 
-<img src="../.gitbook/assets/image (591).png" alt="" data-size="line">发送错误：鼠标悬浮显示错误原因
+<img src="../.gitbook/assets/image (464).png" alt="" data-size="line">发送错误：鼠标悬浮显示错误原因
 
 
 
@@ -136,27 +136,27 @@ Conversation status was changed to "Closed" automatically: 当前会话超过24�
 
 鼠标悬浮到消息上，会出现“三个点的操作按钮”，点击操作按钮可进行相关操作
 
-<figure><img src="../.gitbook/assets/image (604).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (477).png" alt=""><figcaption></figcaption></figure>
 
 * **消息引用（Reply）**：当你在 WhatsApp 上引用一条消息时，它会将原始消息附加到你的新消息中，使其他人可以清楚地看到你在回复哪条消息，避免混淆。
 
-<figure><img src="../.gitbook/assets/image (615).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (488).png" alt=""><figcaption></figcaption></figure>
 
 * **消息反应（React）**：WhatsApp 中的消息反应功能与 Facebook 的 Reaction 表情类似。用户可以对消息进行点赞、表达喜爱、惊讶、伤心等各种反应。这一功能可以让你更快速、直观地表达对消息的感受，而无需输入文字回复。
 
-<figure><img src="../.gitbook/assets/image (616).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (489).png" alt=""><figcaption></figcaption></figure>
 
 #### **发送对象**
 
 通过头像区分发送者
 
-<table><thead><tr><th width="247">发送者</th><th>头像</th></tr></thead><tbody><tr><td>客服</td><td><img src="../.gitbook/assets/image (618).png" alt="" data-size="original"></td></tr><tr><td>Chatbot</td><td><img src="../.gitbook/assets/image (620).png" alt="" data-size="original"></td></tr><tr><td>API</td><td><img src="../.gitbook/assets/image (621).png" alt="" data-size="original"></td></tr><tr><td>Inbox自动回复</td><td><img src="../.gitbook/assets/image (619).png" alt="" data-size="original"></td></tr></tbody></table>
+<table><thead><tr><th width="247">发送者</th><th>头像</th></tr></thead><tbody><tr><td>客服</td><td><img src="../.gitbook/assets/image (491).png" alt="" data-size="original"></td></tr><tr><td>Chatbot</td><td><img src="../.gitbook/assets/image (493).png" alt="" data-size="original"></td></tr><tr><td>API</td><td><img src="../.gitbook/assets/image (494).png" alt="" data-size="original"></td></tr><tr><td>Inbox自动回复</td><td><img src="../.gitbook/assets/image (492).png" alt="" data-size="original"></td></tr></tbody></table>
 
 ### 消息输入区域
 
 **会话转接给我**
 
-<figure><img src="../.gitbook/assets/image (622).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (495).png" alt=""><figcaption></figcaption></figure>
 
 **通过聊天区域图标完成消息添加，支持以下功能：**
 
@@ -164,7 +164,7 @@ Conversation status was changed to "Closed" automatically: 当前会话超过24�
 2. 添加附件
 3. 发送模版
 
-<figure><img src="../.gitbook/assets/image (625).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (498).png" alt=""><figcaption></figcaption></figure>
 
 **添加快捷回复**
 
@@ -188,19 +188,19 @@ Conversation status was changed to "Closed" automatically: 当前会话超过24�
 
 遇到高价值客户，还可以点击星标，收藏这个客户。之后，这个客户会被归到左侧的Starred标签中。
 
-<figure><img src="../.gitbook/assets/image (626).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (499).png" alt=""><figcaption></figcaption></figure>
 
 **会话转接**
 
 点击会话区域顶部用户名称边上的“转接”按钮，在下拉列表中选择要转接的人员，可输入名字快速搜索。
 
-<figure><img src="../.gitbook/assets/image (584).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (457).png" alt=""><figcaption></figcaption></figure>
 
 **会话关闭**
 
 &#x20;点击会话区域顶部用户名称边上的“关闭”按钮，结束会话。会话状态转为“已关闭”。
 
-<figure><img src="../.gitbook/assets/image (585).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (458).png" alt=""><figcaption></figcaption></figure>
 
 ## 客户详情
 
@@ -211,9 +211,9 @@ Conversation status was changed to "Closed" automatically: 当前会话超过24�
 * 添加标签：找到Tags类，点击“➕”按钮选择已有标签
 * 修改属性：点击属性后面的文字修改相关属性。鼠标点击空白区域即可保存（也可按下键盘的回车键进行保存）。
 
-<figure><img src="../.gitbook/assets/image (586).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (459).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (587).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (460).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -18,16 +18,16 @@
 
 操作路径：进入WhatsApp accounts > Settings > Assignment
 
-<figure><img src="../.gitbook/assets/image (980).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (845).png" alt=""><figcaption></figcaption></figure>
 
 在分配规则中选择分配给 Chatbot 并且在二级下拉中选择需要接管会话的 Chatbot。
 
-<figure><img src="../.gitbook/assets/image (981).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (846).png" alt=""><figcaption></figcaption></figure>
 
 ## 复制Chatbot
 
 Chatbot 复制功能，点击需要复制的 Chatbot 右侧的【复制】按钮，填写必要信息后进行复制。注意仅 flow 和profile 中的基础配置支持复制，其余 AI 相关内容暂不支持复制。
 
-<figure><img src="../.gitbook/assets/image (982).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (847).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (983).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (848).png" alt=""><figcaption></figcaption></figure>

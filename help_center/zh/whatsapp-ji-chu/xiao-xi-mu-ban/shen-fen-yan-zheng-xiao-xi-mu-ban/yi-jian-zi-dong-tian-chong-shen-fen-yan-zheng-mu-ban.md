@@ -6,7 +6,7 @@ description: 本篇讲述
 
 一键自动填充身份验证模板允许您向用户发送验证码以及一键自动填充按钮。当 WhatsApp 用户点击自动填充按钮时，WhatsApp 客户端会触发一项活动，打开您的应用并向其发送密码或代码。
 
-<figure><img src="../../../.gitbook/assets/image (656).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (529).png" alt="" width="563"><figcaption></figcaption></figure>
 
 一键自动填充按钮身份验证模板包括：
 

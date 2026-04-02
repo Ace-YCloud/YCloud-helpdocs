@@ -6,7 +6,7 @@
 
 ### 步骤1： 访问[Shopify Journey](https://www.ycloud.com/console/#/app/integrations/shopify/shopifyJourney)
 
-<figure><img src="../../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 ### 步骤2：设置Sender
 
@@ -15,7 +15,7 @@
 3. Send after：放弃支付多久之后进行触发。支持设置10分钟\~24小时后发送。
 4. 默认过滤已经支付的订单。
 
-<figure><img src="../../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 ### 步骤3：保存
 
@@ -25,10 +25,10 @@
 
 ### 步骤4：开启
 
-<figure><img src="../../../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 ## 查看数据
 
 点击Logs进入触发记录页面，查看催付效果。
 
-<figure><img src="../../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>

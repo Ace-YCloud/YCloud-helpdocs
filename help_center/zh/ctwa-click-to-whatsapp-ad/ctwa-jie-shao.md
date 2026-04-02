@@ -32,9 +32,9 @@ CTWA的核心优势：
 
 
 
-<figure><img src="../.gitbook/assets/image (272).png" alt=""><figcaption><p>传统广告投放</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (145).png" alt=""><figcaption><p>传统广告投放</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (273).png" alt=""><figcaption><p>CTWA客户旅程 ( 以meta为例 )</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (146).png" alt=""><figcaption><p>CTWA客户旅程 ( 以meta为例 )</p></figcaption></figure>
 
 
 
@@ -72,7 +72,7 @@ YCloud目前支持在多个广告平台投放CTWA广告，所有平台的访客�
 
 <figure><img src="../.gitbook/assets/img_v3_02ue_09ea8e2c-2b72-40ab-b33d-a3445ffc48cg.gif" alt=""><figcaption></figcaption></figure>
 
-点此了解：[开始授权TikTok广告账户](tiktok-messaging-ad/connect-tiktok-ad-account.md)
+点此了解：[开始授权TikTok广告账户](tiktok-messaging-ad/tiktok-ad-introduction.md)
 
 
 

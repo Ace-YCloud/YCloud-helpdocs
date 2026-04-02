@@ -18,7 +18,7 @@ Inbox 作为 YCloud 中的一项重要功能，为服务团队提供了一个高
 
 ### 设置分配规则
 
-<figure><img src="../../.gitbook/assets/image (667).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (540).png" alt=""><figcaption></figcaption></figure>
 
 * 在号码中选中“依次将新会话自动分配给列表中的在线人员”，将“售前”团队加入列表中。
 * 打开高级分配规则：开启将会话优先分配给上一次接待的坐席。
@@ -44,7 +44,7 @@ Inbox 作为 YCloud 中的一项重要功能，为服务团队提供了一个高
 
 定义团队重点跟进记录的信息，添加为contact属性。例如：定义“备注”，字段为“文本”。客服可在聊天中可记录该项信息。更好的了解客户信息
 
-<figure><img src="../../.gitbook/assets/image (662).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (535).png" alt=""><figcaption></figcaption></figure>
 
 ### 定义快捷回复
 
@@ -86,17 +86,17 @@ Inbox 作为 YCloud 中的一项重要功能，为服务团队提供了一个高
 
 登陆后，状态是“Away”，请将个人状态调整状态为“Available”，新接入的会话才能被自动分配给你。
 
-<figure><img src="../../.gitbook/assets/image (666).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (539).png" alt=""><figcaption></figcaption></figure>
 
 ### 用好客户详情
 
 给客户打标签可以更好的对客户分类管理、优先处理重点客户、提高客户体验。
 
-<figure><img src="../../.gitbook/assets/image (679).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (552).png" alt=""><figcaption></figcaption></figure>
 
 ### 转接会话
 
 当遇到无法处理的客户问题，将会话转交给专业团队或坐席。
 
-<figure><img src="../../.gitbook/assets/image (678).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (551).png" alt=""><figcaption></figcaption></figure>
 

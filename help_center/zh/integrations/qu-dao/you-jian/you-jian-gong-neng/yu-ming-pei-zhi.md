@@ -6,17 +6,17 @@
 
 进入[域名配置页面](https://www.ycloud.com/console/#/app/integrations/email/domains)，点击添加按钮
 
-<figure><img src="../../../../.gitbook/assets/image (696).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (569).png" alt=""><figcaption></figcaption></figure>
 
 输入您的域名，例如：ycloud.com。输入后点击提交。
 
-<figure><img src="../../../../.gitbook/assets/image (697).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (570).png" alt=""><figcaption></figcaption></figure>
 
 ## 步骤2：配置DNS
 
 您需要将所有 TXT 记录添加到您的 DNS 主机。 如果您无权修改公司的 DNS 记录，您可以单击“下载数据”按钮并将文件发送给您的同事。
 
-<figure><img src="../../../../.gitbook/assets/image (698).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (571).png" alt=""><figcaption></figcaption></figure>
 
 ## 步骤3：验证域名
 

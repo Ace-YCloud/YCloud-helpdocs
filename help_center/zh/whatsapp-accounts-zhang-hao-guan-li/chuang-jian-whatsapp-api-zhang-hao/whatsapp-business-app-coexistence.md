@@ -48,7 +48,7 @@ description: 在不离开WhatsApp Business App的情况下，解锁使用高级A
 
 以下表格描述了已加入Cloud API的企业客户可用的功能，以及在加入后WhatsApp Business应用功能的变化。注意：超过14天的媒体消息（如包含图片、视频、音频的消息）将无法进行同步。
 
-<figure><img src="../../.gitbook/assets/image (964).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (829).png" alt=""><figcaption></figcaption></figure>
 
 ## 如何使用WhatsApp Business app 共存？
 
@@ -76,13 +76,13 @@ description: 在不离开WhatsApp Business App的情况下，解锁使用高级A
 
 WhatsApp 消息将引导你使用该应用扫描嵌入式注册页面中显示的二维码。点击该按钮后，您可以选择同步近 6 个月的历史消息记录到平台
 
-<figure><img src="../../.gitbook/assets/image (113).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (115).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (70).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (71).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 进入授权页面，点击继续按钮
 
@@ -92,7 +92,7 @@ WhatsApp 消息将引导你使用该应用扫描嵌入式注册页面中显示�
 
 如果您的业务有官网，请正确复制粘贴网站信息，否则请勾选“我的业务没有网站”
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 点击确认按钮完成授权绑定
 
@@ -108,11 +108,11 @@ WhatsApp 消息将引导你使用该应用扫描嵌入式注册页面中显示�
 
 在完成授权后，如果您授权同步您的聊天记录，我们将立即开始同步您的聊天内容。在同步过程中请保持WhatsApp Business应用程序打开，并注意在同步完成后新消息才会显示在Inbox中。
 
-<figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 您会看到一个特殊的图标，表示这个号码来自WhatsApp Business App。
 
-<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 解绑 WhatsApp Business App
 
@@ -120,19 +120,19 @@ WhatsApp 消息将引导你使用该应用扫描嵌入式注册页面中显示�
 
 **IOS**：
 
-<figure><img src="../../.gitbook/assets/image (956).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (821).png" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (957).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (822).png" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (958).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (823).png" alt="" width="188"><figcaption></figcaption></figure>
 
 **Android**:
 
-<figure><img src="../../.gitbook/assets/image (959).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (824).png" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (960).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (825).png" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (961).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (826).png" alt="" width="188"><figcaption></figcaption></figure>
 
 
 

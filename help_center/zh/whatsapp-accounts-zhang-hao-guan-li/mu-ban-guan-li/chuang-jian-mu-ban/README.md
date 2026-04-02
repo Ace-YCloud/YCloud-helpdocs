@@ -6,11 +6,11 @@
 
 1. 从左侧导航的 Templates中进入。账号内有多个WABA的用户请注意切换右上角的WABA空间。
 
-<figure><img src="../../../.gitbook/assets/image (406).png" alt=""><figcaption><p>Templates</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (279).png" alt=""><figcaption><p>Templates</p></figcaption></figure>
 
 2. 从WhatsApp accounts 中进入Templates。
 
-<figure><img src="../../../.gitbook/assets/image (407).png" alt=""><figcaption><p>WABA>Templates</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (280).png" alt=""><figcaption><p>WABA>Templates</p></figcaption></figure>
 
 ### 步骤2：命名 & 选择模板类型
 
@@ -25,7 +25,7 @@
    2. Marketing：营销模板。所有带有营销意味的消息，以及所有打招呼类的消息。
    3. Authentication：验证码模板。固定内容，仅支持发送验证码。
 
-<figure><img src="../../../.gitbook/assets/image (410).png" alt=""><figcaption><p>Template name &#x26; Category</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (283).png" alt=""><figcaption><p>Template name &#x26; Category</p></figcaption></figure>
 
 ### 步骤3：选择语言
 
@@ -33,11 +33,11 @@
 
 可将多个语言一起编辑完成后进行提交。
 
-<figure><img src="../../../.gitbook/assets/image (409).png" alt=""><figcaption><p>Choose language</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (282).png" alt=""><figcaption><p>Choose language</p></figcaption></figure>
 
 点击语言右侧的Edit按钮可编辑删除语言。
 
-<figure><img src="../../../.gitbook/assets/image (411).png" alt=""><figcaption><p>Edit language</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (284).png" alt=""><figcaption><p>Edit language</p></figcaption></figure>
 
 ### 步骤4：编辑模板内容
 
@@ -57,21 +57,21 @@
       4. Copy offer code（复制代码）
 5. Variables：变量。变量可添加在Header, Body 或者 Visit website 中。添加变量时必须添加Sample，用于审核人员在审核时判断整个模板的发送内容。Sample仅用于审核，实际下发时必须传送变量值。
 
-<figure><img src="../../../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
 详细的模板内容可查看[消息模板](../../../whatsapp-ji-chu/xiao-xi-mu-ban/)文档
 
-<figure><img src="../../../.gitbook/assets/image (234).png" alt=""><figcaption><p>Edit template</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (107).png" alt=""><figcaption><p>Edit template</p></figcaption></figure>
 
 ### 步骤5：提交模板
 
 所有语言编辑完成后，可滚至页面最下方点击提交按钮。
 
-<figure><img src="../../../.gitbook/assets/image (235).png" alt=""><figcaption><p>Submit template</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (108).png" alt=""><figcaption><p>Submit template</p></figcaption></figure>
 
 确认提交模板内容无误后点击Confirm。
 
-<figure><img src="../../../.gitbook/assets/image (236).png" alt=""><figcaption><p>Confirm</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (109).png" alt=""><figcaption><p>Confirm</p></figcaption></figure>
 
 ### 步骤6：等待审核
 
@@ -81,7 +81,7 @@
 
 审核失败：若模板被拒绝，可进入编辑页面查看原因，根据提示来修改模板或进行申诉。
 
-<figure><img src="../../../.gitbook/assets/image (415).png" alt=""><figcaption><p>Rejected template</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (288).png" alt=""><figcaption><p>Rejected template</p></figcaption></figure>
 
 
 
@@ -103,13 +103,13 @@ Code delivery是设置验证码送达的方式，方式有3种，分别为：
 
 选择Copy Code类型的发送方式。可以自定义按钮的名称。[点击查看详细介绍](../../../whatsapp-ji-chu/xiao-xi-mu-ban/shen-fen-yan-zheng-xiao-xi-mu-ban/fu-zhi-yan-zheng-ma-shen-fen-yan-zheng-mu-ban.md)
 
-<figure><img src="../../../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 
 #### 一键填充验证码
 
 选择Autofill类型的发送方式。可以自定义按钮的名。Autofill 模式的验证码需要输入您的App的Package name，以及App signature hash。使用一键填充验证码要求您的应用必须能够启动“握手”[点击查看详细介绍](../../../whatsapp-ji-chu/xiao-xi-mu-ban/shen-fen-yan-zheng-xiao-xi-mu-ban/yi-jian-zi-dong-tian-chong-shen-fen-yan-zheng-mu-ban.md)
 
-<figure><img src="../../../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
 #### 零点击验证码模板
 
@@ -117,13 +117,13 @@ Code delivery是设置验证码送达的方式，方式有3种，分别为：
 
 零点击验证码是一键填充验证码模板的升级，所以同样也要求您的应用必须能够启动“握手”[点击查看详细介绍](./#ling-dian-ji-yan-zheng-ma-mu-ban)
 
-<figure><img src="../../../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
 ### 模板内容设置
 
 虽然验证码模板内容是固定的，您仍然可以通过开关的方式增加验证码时效性提示和安全提示。
 
-<figure><img src="../../../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -139,7 +139,7 @@ _WhatsApp下发了验证码消息给到用户，但由于用户未联网或其�
 
 配置入口 ：
 
-<figure><img src="../../../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
 
 ## 相关阅读
 

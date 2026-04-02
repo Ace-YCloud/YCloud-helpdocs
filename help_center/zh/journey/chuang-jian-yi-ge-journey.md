@@ -6,17 +6,17 @@
 
 入口：[Journey](https://www-prepare.ycloud.com/console/#/app/journey/list)
 
-<figure><img src="../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
 ## 步骤2：创建新的Journey
 
 点击创建Journey按钮后，可选择模板创建，或者 创建一个空白的Journey.
 
-<figure><img src="../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
 ## 步骤3：设置活动名称
 
-<figure><img src="../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 ## 步骤4：设置Trigger
 
@@ -34,7 +34,7 @@ Trigger设置可参考：
 
 拖拽组件并连接组件，根据您的业务场景去设计执行的流程。具体的组件功能可查看[组件介绍](zu-jian-he-gong-neng-jie-shao/)
 
-<figure><img src="../.gitbook/assets/image (727).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (600).png" alt=""><figcaption></figcaption></figure>
 
 ## 步骤6：保存并激活Journey
 
@@ -42,8 +42,8 @@ Trigger设置可参考：
 
 设置完成后点击 弹窗 中的保存按钮。
 
-<figure><img src="../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
 若保存时组件设置有误，可查看红框组件右上角的错误提示，修改后点击右上角检查按钮进行检查。
 
-<figure><img src="../.gitbook/assets/image (729).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (602).png" alt=""><figcaption></figcaption></figure>

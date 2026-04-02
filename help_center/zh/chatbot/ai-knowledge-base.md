@@ -8,6 +8,6 @@
 4. 选择在线数据，点击下一步，您可以输入需要进行数据爬取的网页链接，支持两种爬取模式：仅本网页或深入包含网页的页面，设置更新频率，点击确定即可开始数据爬取
 5. 上传或爬取知识库后，它将显示在列表中。您可以通过上方的筛选项进行筛选，并点击特定条目以显示其详细信息。
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (988).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (853).png" alt=""><figcaption></figcaption></figure>

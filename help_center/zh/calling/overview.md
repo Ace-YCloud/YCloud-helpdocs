@@ -43,7 +43,7 @@ WhatsApp Calling 是 WhatsApp Business Cloud API 提供的一项语音通话（V
 
 开启后，客户可直接点击 “Call” 按钮拨打企业号码。
 
-<figure><img src="../.gitbook/assets/image (1008).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (873).png" alt=""><figcaption></figcaption></figure>
 
 #### 2.呼入链接（Call-in Link）
 
@@ -51,7 +51,7 @@ WhatsApp Calling 是 WhatsApp Business Cloud API 提供的一项语音通话（V
 
 用户点击即可发起语音通话。
 
-<figure><img src="../.gitbook/assets/image (1009).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (874).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -59,7 +59,7 @@ WhatsApp Calling 是 WhatsApp Business Cloud API 提供的一项语音通话（V
 
 在消息模板或互动消息中加入 “Call In” 按钮，引导用户快速拨打。
 
-<figure><img src="../.gitbook/assets/image (1010).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (875).png" alt=""><figcaption></figcaption></figure>
 
 ##
 
@@ -89,7 +89,7 @@ WhatsApp Calling 是 WhatsApp Business Cloud API 提供的一项语音通话（V
 
 消息示例：
 
-<figure><img src="../.gitbook/assets/image (1011).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (876).png" alt=""><figcaption></figcaption></figure>
 
 ##
 
@@ -119,9 +119,9 @@ YCloud 提供两种接入方式（只能二选一）：
 
 打开开关即可开始使用。
 
-<figure><img src="../.gitbook/assets/image (1012).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (877).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1013).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (878).png" alt=""><figcaption></figcaption></figure>
 
 ##
 
@@ -131,7 +131,7 @@ YCloud 提供两种接入方式（只能二选一）：
 
 客户可直接点击进行呼入。
 
-<figure><img src="../.gitbook/assets/image (1014).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (879).png" alt=""><figcaption></figcaption></figure>
 
 ##
 
@@ -141,4 +141,4 @@ YCloud 提供两种接入方式（只能二选一）：
 
 > 提示：此限制仅适用于 YCloud 平台 UI 的外呼功能。 若通过 API 发起 WhatsApp 通话，则不受此限制。
 
-<figure><img src="../.gitbook/assets/image (1015).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (880).png" alt=""><figcaption></figcaption></figure>

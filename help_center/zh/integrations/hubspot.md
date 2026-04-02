@@ -37,11 +37,11 @@
 
 2. &#x20;授权Hubspot账号完成授权
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 当看到以下页面时表示绑定成功，请等待5s后自动跳转到YCloud配置页面
 
-<figure><img src="../.gitbook/assets/image (1045).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (910).png" alt=""><figcaption></figcaption></figure>
 
 ### 第二步：配置同步的Contact 属性
 
@@ -52,7 +52,7 @@
 2. 匹配YCloud属性和Hubspot属性。
    1. 将选择的YCloud属性和Hubspot的属性进行一一匹配。例如，YCloud的 "Phone number"，您可以匹配为Hubspot的"Phone Number"，或者Hubspot 的 "WhatsApp Phone Number"。您可以根据您的业务决定匹配的属性。
 
-<figure><img src="../.gitbook/assets/image (1046).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (911).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -62,7 +62,7 @@
 
 例如：销售 Bob，他在登录Hubspot的邮箱是bob@ycloud.com， 他在登录YCloud时候的邮箱是 bob.zhang@ycloud.com。 那你就需要在该步骤中匹配一下这两个邮箱。
 
-<figure><img src="../.gitbook/assets/image (1047).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (912).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -72,13 +72,13 @@
 
 在此步骤，您可以配置要显示出来的Hubspot的属性和展示的顺序
 
-<figure><img src="../.gitbook/assets/image (1048).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (913).png" alt=""><figcaption></figcaption></figure>
 
 配置完成后在Inbox的效果如下：
 
 &#x20;_该Hubspot组件支持拖动变更顺序，里面的属性值也支持修改（部分属性除外）。_
 
-<figure><img src="../.gitbook/assets/image (1049).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (914).png" alt=""><figcaption></figcaption></figure>
 
 
 

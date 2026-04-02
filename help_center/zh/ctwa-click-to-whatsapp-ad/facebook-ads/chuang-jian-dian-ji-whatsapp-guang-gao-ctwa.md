@@ -4,7 +4,7 @@ description: 了解设置您的第一个 Click-to-WhatsApp 广告活动的简单
 
 # 创建点击WhatsApp广告（CTWA）
 
-## 步骤1：通过YCloud创建WhatsApp Business API账户
+### 步骤1：通过YCloud创建WhatsApp Business API账户
 
 您无法使用个人 WhatsApp 号码承接广告流量。在广告管理器中创建点击 WhatsApp 广告之前，请先通过 YCloud 创建 WhatsApp Business API 帐户。
 
@@ -16,7 +16,7 @@ description: 了解设置您的第一个 Click-to-WhatsApp 广告活动的简单
 
 
 
-## 步骤2：将 WhatsApp Business API 号码连接到您的 Facebook 页面
+### 步骤2：将 WhatsApp Business API 号码连接到您的 Facebook 页面
 
 Meta要求Facebook Page关联 WhatsApp API 账户后才可以创建点击 WhatsApp 广告：
 
@@ -26,7 +26,7 @@ Meta要求Facebook Page关联 WhatsApp API 账户后才可以创建点击 WhatsA
   * 若您的WhatsApp账号跟广告账户归属于同一个BM，可直接完成绑定
   * 若您的WhatsApp账号跟广告账户不属于同一个BM, 则重新登录WhatsApp的BM账号，访问[Request](https://business.facebook.com/settings/requests?)页面，批准绑定的请求
 
-<figure><img src="../../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -34,21 +34,21 @@ _另外，如果您希望在 Instagram 上开展广告活动，您还应该将�
 
 完成以上步骤后，您就可以开始设置您的第一个 Click-to-WhatsApp 广告了。
 
-## 步骤3：在 Facebook 广告管理器上设置 Click-to-WhatsApp 广告
+### 步骤3：在 Facebook 广告管理器上设置 Click-to-WhatsApp 广告
 
-### 1.打开 Facebook 广告管理器
+#### 1.打开 Facebook 广告管理器
 
 访问您的 Facebook 广告管理器并点击“[创建](https://www.facebook.com/micro_site/url/?click_from_context_menu=true\&country=apac\&destination=https%3A%2F%2Fbusiness.facebook.com%2Fads%2Fmanage%2Fpowereditor%2Fcreation\&event_type=click\&last_nav_impression_id=2mCEGZi42LXv9OX7S\&max_percent_page_viewed=66\&max_viewport_height_px=1166\&max_viewport_width_px=2282\&orig_http_referrer=https%3A%2F%2Fwww.twilio.com%2F\&orig_request_uri=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F447934475640650%3Fid%3D371525583593535%26locale%3Den_US%26draft%3D447934475640650\&primary_cmsid=447934475640650\&primary_content_locale=en_US\&region=apac\&scrolled=true\&session_id=1XSz4ltobUuzllphE\&site=fb4b\&extra_data%5Bview_type%5D=v3_initial_view\&extra_data%5Bsite_section%5D=help\&extra_data%5Bplacement%5D=%2Fbusiness%2Fhelp%2F447934475640650)”即可开始。
 
-### 2.选择营销活动目标
+#### 2.选择营销活动目标
 
 投放至WhatsApp，请选&#x62E9;**“互动”**
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 选择Manual sales campaign
 
-<figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 ### 3.填写相关基础信息以创建您的广告系列。这包括：
 
@@ -57,7 +57,7 @@ _另外，如果您希望在 Instagram 上开展广告活动，您还应该将�
 * 定义是否要对广告进行 A/B 测试
 * 注意：该步骤中需要关闭Advantage+ catalog ads
 
-<figure><img src="../../.gitbook/assets/image (275).png" alt=""><figcaption><p>创建广告系列</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (148).png" alt=""><figcaption><p>创建广告系列</p></figcaption></figure>
 
 ### 4.配置广告组详细信息
 
@@ -76,9 +76,9 @@ _另外，如果您希望在 Instagram 上开展广告活动，您还应该将�
 
 
 
-<figure><img src="../../.gitbook/assets/image (519).png" alt=""><figcaption><p>选择 WhatsApp 号码</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (392).png" alt=""><figcaption><p>选择 WhatsApp 号码</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (159).png" alt=""><figcaption><p>选择performance goal</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption><p>选择performance goal</p></figcaption></figure>
 
 ### 5.选择您的受众、展示位置、预算和时间表
 
@@ -100,7 +100,7 @@ _另外，如果您希望在 Instagram 上开展广告活动，您还应该将�
 
 点击“新建”并创建欢迎消息模板，以便在人们点击您的广告后快速聊天。
 
-<figure><img src="../../.gitbook/assets/image (521).png" alt=""><figcaption><p>欢迎消息模板</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (394).png" alt=""><figcaption><p>欢迎消息模板</p></figcaption></figure>
 
 ### 8.发布您的广告&#x20;
 

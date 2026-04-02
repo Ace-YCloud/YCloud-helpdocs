@@ -31,11 +31,11 @@
 
 Chatbot flow 复制功能，在您想要复制的 flow 右侧展开更多，选择【复制】按钮
 
-<figure><img src="../.gitbook/assets/image (952).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (817).png" alt=""><figcaption></figcaption></figure>
 
 在出现的弹窗内指定需要将 flow 复制到哪个 Chatbot，点击确定按钮完成复制
 
-<figure><img src="../.gitbook/assets/image (953).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (818).png" alt=""><figcaption></figcaption></figure>
 
 
 

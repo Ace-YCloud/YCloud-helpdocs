@@ -22,17 +22,17 @@ description: 将过程分解为步骤，让AI帮助您完成复杂任务
 
 访问路径：Chatbot-手册（Manuals）-行动指南，点击“创建新行动指南”按钮。
 
-<figure><img src="../.gitbook/assets/image (984).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (849).png" alt=""><figcaption></figcaption></figure>
 
 在创建完行动指南后，您可以在列表中管理这些行动指南，通过切换状态按钮改变其草稿、在线状态，或通过动作列表中的删除按钮删除特定的行动指南。
 
-<figure><img src="../.gitbook/assets/image (985).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (850).png" alt=""><figcaption></figcaption></figure>
 
 #### 设置行动指南的标题和触发条件
 
 每个行动手册都应该有一个**标题** ，以便您找到它，以及触发条件的描述，用于告知AI何时触发它。这非常重要，这样AI才能在正确的时间触发它。这清楚地描述了AI应该使用该行动手册的情况，也可以指出AI不应该使用该行动手册的情况。
 
-<figure><img src="../.gitbook/assets/image (986).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (851).png" alt=""><figcaption></figcaption></figure>
 
 #### 添加指令
 
@@ -48,7 +48,7 @@ description: 将过程分解为步骤，让AI帮助您完成复杂任务
 
 系统为 AI 提供内置动作，输入“/”唤起下拉菜单。
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 如果您希望AI在执行指令时引用知识库中的内容，可以使用“检索知识”动作来实现此效果。AI将在知识库中搜索内容，并将其与找到的材料相结合形成回答。
 
@@ -60,10 +60,10 @@ description: 将过程分解为步骤，让AI帮助您完成复杂任务
 
 您可以使用已配置生效的数据连接器，让AI查询和更新外部数据，同时丰富AI的回答。只需输入“/”，然后在下拉框中选择您需要的数据连接器即可。
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 预览您的行动指南并激活它
 
 在右侧的预览窗口中测试已配置的行动指南，你可以根据AI的响应调整和优化你的配置。一切设置好后，你现在就可以点击右上角的“激活启用”，让这个行动手册生效了。
 
-<figure><img src="../.gitbook/assets/image (987).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (852).png" alt=""><figcaption></figcaption></figure>

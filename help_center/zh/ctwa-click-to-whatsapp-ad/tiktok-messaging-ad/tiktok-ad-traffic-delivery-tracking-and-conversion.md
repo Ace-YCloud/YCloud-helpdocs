@@ -9,7 +9,7 @@ description: 介绍如何在YClould承接广告流量开启对话、了解如何
 
 其他步骤的操作指引
 
-* 步骤1、2：在YCloud后台配置：[链接广告账户](connect-tiktok-ad-account.md)、[绑定WhatsApp号码](connect-tiktok-ad-account.md)
+* 步骤1、2：在YCloud后台配置：[链接广告账户](tiktok-ad-introduction.md)、[绑定WhatsApp号码](tiktok-ad-introduction.md)
 * 步骤3、4、5：[在TikTok 广告后台 创建TikTok 消息广告](create-tiktok-instant-messaging-ad.md)；
 {% endhint %}
 

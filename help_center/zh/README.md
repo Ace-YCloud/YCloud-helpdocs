@@ -12,7 +12,7 @@ YCloud，一个基于WhatsApp建立的营销/服务/销售平台。
 
 致力于为**深受消费者喜爱的品牌提供一站式WhatsApp解决方案。**
 
-<figure><img src=".gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
 
 

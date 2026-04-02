@@ -8,7 +8,7 @@ hidden: true
 
 n8n与hubspot的集成只允许email作为unique key，这种主键与YCloud的并不兼容。所以在本实战中，会构造http request 来完成相关工作。
 
-<figure><img src="../../.gitbook/assets/image (1038).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (903).png" alt=""><figcaption></figcaption></figure>
 
 ### Useful links：
 
@@ -20,7 +20,7 @@ n8n与hubspot的集成只允许email作为unique key，这种主键与YCloud的�
 
 ### 判断层 1: 过滤
 
-<figure><img src="../../.gitbook/assets/image (1040).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (905).png" alt=""><figcaption></figcaption></figure>
 
 此层使用Code node - Javascript, Python 亦可，但稳定性待知。
 
@@ -96,11 +96,11 @@ return result;
 
 此逻辑会直接判定输出字段内Nextstep是否为True，且Intent是否为Unknown（optional）
 
-<figure><img src="../../.gitbook/assets/image (1041).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (906).png" alt=""><figcaption></figcaption></figure>
 
 ### 判断层 2：确定性肯定
 
-<figure><img src="../../.gitbook/assets/image (1043).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (908).png" alt="" width="563"><figcaption></figcaption></figure>
 
 此层使用Code node - Javascript。在此层中，您可自定义相关的字段匹配。如果is\_lead被判定为true时，会跳过LLM判断以减少token开销。其他并不包含的会进入LLM进行最终判断。
 

@@ -53,4 +53,4 @@ description: 教您如何创建一个店铺，开始经营自己的生意
 点此了解，为店铺添加设置
 
 * [运费设置](shipping.md)
-* [支付设置](payments.md)
+* [支付设置](zhi-fu-she-zhi.md)

@@ -13,7 +13,7 @@
 
 **图例为在WhatsApp营销消息里提供退订选项的常见方法**
 
-<figure><img src="../../.gitbook/assets/image (744).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (617).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 YCloud 支持通过识别用户在 WhatsApp 上回复的关键词自动将用户添加到退订列表。在以后的营销活动中，这些未订阅的用户将被过滤掉。有关详细信息，请参考：

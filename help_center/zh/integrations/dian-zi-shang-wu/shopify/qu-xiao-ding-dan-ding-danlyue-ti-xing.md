@@ -12,7 +12,7 @@
 
 点击edit
 
-<figure><img src="../../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 ### 步骤2：设置活动信息
 
@@ -21,11 +21,11 @@
 
 设置完成到后点击保存
 
-<figure><img src="../../../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 ### 步骤3：开启活动
 
-<figure><img src="../../../.gitbook/assets/image (838).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (711).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -33,5 +33,5 @@
 
 点击Logs查看发送数据
 
-<figure><img src="../../../.gitbook/assets/image (839).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (712).png" alt=""><figcaption></figcaption></figure>
 

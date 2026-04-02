@@ -2,7 +2,7 @@
 
 Sender  ID 显示谁发送了此消息。使用Sender ID，您可以从自定义发件人（品牌名称或网站名称）发送短信，而不是一串随机数字。
 
-<figure><img src="../../../../.gitbook/assets/image (504).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (377).png" alt=""><figcaption></figcaption></figure>
 
 如果您没有注册Sender ID，YCloud 会为您随机分配一个 ID 来发送消息。因此，您无需注册发即可发送消息。
 
@@ -28,7 +28,7 @@ Sender  ID 显示谁发送了此消息。使用Sender ID，您可以从自定义
 4. 典型模板；
 5. 行业;
 
-<figure><img src="../../../../.gitbook/assets/image (505).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (378).png" alt=""><figcaption></figcaption></figure>
 
 **步骤3：**
 

@@ -16,13 +16,13 @@ description: 在Inbox中与客户开启聊天的方法
 
 通过左侧的筛选，conversation列表会展示可进行聊天的会话，选中其中的某个会话，右侧会展开会话窗口。
 
-<figure><img src="../.gitbook/assets/image (568).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (441).png" alt=""><figcaption></figcaption></figure>
 
 ## 将会话转接给自己
 
 点击聊天框上提示按钮，将会话转接给自己
 
-<figure><img src="../.gitbook/assets/image (623).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (496).png" alt=""><figcaption></figcaption></figure>
 
 ## 开启与任何用户的会话
 
@@ -30,23 +30,23 @@ description: 在Inbox中与客户开启聊天的方法
 
 ### 步骤1: 在搜索框内输入客户的手机号码
 
-<figure><img src="../.gitbook/assets/image (569).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (442).png" alt=""><figcaption></figcaption></figure>
 
 ### 步骤2: 点击下方的按钮 “+ Create a new conversation”创建新会话
 
-<figure><img src="../.gitbook/assets/image (570).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (443).png" alt=""><figcaption></figcaption></figure>
 
 ### 步骤3: 选择发送的WhatsApp号码
 
 选择完成后点击“Next”
 
-<figure><img src="../.gitbook/assets/image (572).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (445).png" alt=""><figcaption></figcaption></figure>
 
 ### 步骤4: 选择要发送的模板
 
 可通过模版类目快速筛选模版
 
-<figure><img src="../.gitbook/assets/image (573).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (446).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -54,7 +54,7 @@ description: 在Inbox中与客户开启聊天的方法
 
 确认无误后点击“Send”
 
-<figure><img src="../.gitbook/assets/image (574).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (447).png" alt=""><figcaption></figcaption></figure>
 
 
 

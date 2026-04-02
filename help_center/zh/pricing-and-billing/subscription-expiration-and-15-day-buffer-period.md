@@ -6,7 +6,7 @@
 
 在到期前，如果您账号内的用户坐席数量超出下个周期的套餐限额，我们将向拥有  管理【设置】-【成员与团队】权限的用户弹出保留坐席数据的提示弹窗。
 
-<figure><img src="../.gitbook/assets/image (89).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 订阅到期后，超额的用户坐席被置为“失效”状态。失效的用户账户无法登录该租户。此外，您还将失去原套餐的可添加渠道账号数、生成式 AI 点数、翻译字符数、数据存储时长、自定义角色设置权限、Inbox 高级分配规则设置权限以及客户支持等产品与服务。
 

@@ -30,4 +30,4 @@ Trigger是这个Journey的触发器，需要满足Trigger中所有条件才会�
 
 
 
-<figure><img src="../../.gitbook/assets/image (205).png" alt=""><figcaption><p>设置Trigger</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption><p>设置Trigger</p></figcaption></figure>

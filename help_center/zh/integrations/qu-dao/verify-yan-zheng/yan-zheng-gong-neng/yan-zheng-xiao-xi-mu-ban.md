@@ -8,7 +8,7 @@
 
 Integrations>Verify>Settings, [点击跳转至设置页面](https://www.ycloud.com/console/#/app/integrations/verify/setting)
 
-<figure><img src="../../../../.gitbook/assets/image (700).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (573).png" alt=""><figcaption></figcaption></figure>
 
 ## 自定义消息模板
 

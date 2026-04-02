@@ -11,12 +11,12 @@
 * 登录YCloud后台，[点击访问](https://www.ycloud.com/console/#/entry/login?lastPath=https%3A%2F%2Fwww.ycloud.com%2Fconsole%2F%23%2Fapp%2Fdashboard%2FgetStarted)
 * 点击Home > Templates >  + Add Template
 
-<figure><img src="../.gitbook/assets/image (401).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
 
 * 在Category选择Utility，并命名模版名称和选择模版语言
   * 请注意：**模版名称必须要唯一的**。名称仅支持小写字母a-z、0-9、 下划线（\_)。模版一旦提交，无法进行更改。
 
-<figure><img src="../.gitbook/assets/image (420).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure>
 
 * 输入要发送的内容
 
@@ -27,7 +27,7 @@
 * 账户/账单/付款通知：i.e.: Your payment has been accepted/ Your payment has failed
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (422).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (295).png" alt=""><figcaption></figcaption></figure>
 
 * 点击提交（Submit) & 等待审核通过
   * 如果模版没有通过，可以[申请复审](https://business.facebook.com/accountquality/)
@@ -45,7 +45,7 @@
 * 访问YCloud后台，[点击访问](https://www.ycloud.com/console/?redirect=/edit/getting-started#/app/dashboard/getStarted)&#x20;
 * 如下图，点击+ Add campaign创建发送
 
-<figure><img src="../.gitbook/assets/image (423).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
 
 
 

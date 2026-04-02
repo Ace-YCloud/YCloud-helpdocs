@@ -10,7 +10,7 @@
 
 点击编辑
 
-<figure><img src="../../../.gitbook/assets/image (822).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (695).png" alt=""><figcaption></figcaption></figure>
 
 ### 步骤2：编辑内容
 
@@ -18,29 +18,29 @@
 
 选择一个发送的WhatsApp账号。注意，需要发送的模板必须在这个号码归属的WABA下。
 
-<figure><img src="../../../.gitbook/assets/image (823).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (696).png" alt=""><figcaption></figcaption></figure>
 
 #### 步骤2.2 选择Template
 
 选择要发送的模板
 
-<figure><img src="../../../.gitbook/assets/image (824).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (697).png" alt=""><figcaption></figcaption></figure>
 
 若模板中有变量，可选择shopify中的变量进行替换。
 
-<figure><img src="../../../.gitbook/assets/image (826).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (699).png" alt=""><figcaption></figcaption></figure>
 
 #### 步骤2.3 选择“确认”按钮。
 
 当用户点击该按钮时，YCloud将会给Shopify 的订单打上“已确认” 即 Confirmed 的标签。
 
-<figure><img src="../../../.gitbook/assets/image (827).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (700).png" alt=""><figcaption></figcaption></figure>
 
 #### 步骤2.4 选择“取消”按钮
 
 当用户点击该按钮时，YCloud将会给Shopify 的订单打上“已取消” 即 Canceled 的标签。
 
-<figure><img src="../../../.gitbook/assets/image (828).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (701).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -48,7 +48,7 @@
 
 下单后多久触发这条确认信息
 
-<figure><img src="../../../.gitbook/assets/image (829).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (702).png" alt=""><figcaption></figcaption></figure>
 
 #### 2.6 设置追踪时间
 
@@ -56,7 +56,7 @@
 
 可选项：给未确认的订单打标为“未回复”即 Not reply。
 
-<figure><img src="../../../.gitbook/assets/image (832).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (705).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -64,18 +64,18 @@
 
 确认无误后点击保存按钮。
 
-<figure><img src="../../../.gitbook/assets/image (833).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (706).png" alt=""><figcaption></figcaption></figure>
 
 ### 步骤3：开启COD 订单确认
 
-<figure><img src="../../../.gitbook/assets/image (835).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (708).png" alt=""><figcaption></figcaption></figure>
 
 ## 查看数据
 
 点击Logs查看订单确认情况
 
-<figure><img src="../../../.gitbook/assets/image (837).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (710).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (836).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (709).png" alt=""><figcaption></figcaption></figure>
 
 可进入Shopify订单页面确认订单的Confirmed, Cancelled, Not reply 的标签

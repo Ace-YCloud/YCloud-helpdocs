@@ -27,7 +27,7 @@
 
 您可以通过发送Calling request的模板，请求获取客户的授权。消息示例：<br>
 
-<figure><img src="../.gitbook/assets/image (1016).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (881).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://ycloudteam.feishu.cn/space/api/box/stream/download/asynccode/?code=NjEyY2FkMjc1MGRjMGU0Nzg2NzgzOGQ0ODU1MzgzMjlfeWtjRGVoaFVCREt2WW5aMGtFVXkweGtqM0h2dEMwbERfVG9rZW46STdVcWJOM2phb2xsVkl4Y0g3VWNYQ3ZNblhlXzE3NjM5ODI5MzM6MTc2Mzk4NjUzM19WNA" alt=""><figcaption></figcaption></figure>
 
@@ -37,13 +37,13 @@
 
 入口: Templates> Caling request
 
-<figure><img src="../.gitbook/assets/image (1017).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (882).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://ycloudteam.feishu.cn/space/api/box/stream/download/asynccode/?code=NWMwNTY0N2JlYjhlYzE2OTBiYmQ4NjA2YWNiNTIxNDlfZzhiaU9FeFJjOTNuaW80UU9BTjYzN2hVSUNhVEZIemJfVG9rZW46VFBid2JDOXpOb1lrNTB4Y1loNWNUaGFJbnhiXzE3NjM5ODI5MzM6MTc2Mzk4NjUzM19WNA" alt=""><figcaption></figcaption></figure>
 
 输入模板内容
 
-<figure><img src="../.gitbook/assets/image (1018).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (883).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://ycloudteam.feishu.cn/space/api/box/stream/download/asynccode/?code=Zjk0ZDNkZTU0NzRmNDA3NDVkMmY1MGJiYjhiZTdiZTdfSlJiT29XWXdMYWxHQjdBdFZ1QnZ6dXREUTM4TjN3bFdfVG9rZW46TldsTWIwUnZLb0t1OXN4bHVneGNIMFVybkNkXzE3NjM5ODI5MzM6MTc2Mzk4NjUzM19WNA" alt=""><figcaption></figcaption></figure>
 
@@ -55,13 +55,13 @@
 
 如果您有单个客户需要进行通话，可点击Inbox以下两个按钮分别给新客户和已聊天的客户发送 Calling request模板消息。<br>
 
-<figure><img src="../.gitbook/assets/image (1019).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (884).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://ycloudteam.feishu.cn/space/api/box/stream/download/asynccode/?code=YTA4NDI3ZGRkMzA1OWI3MTJjNjM4MTJjZDlhNzU1YzVfVUdvOWpVTVhMTW84dGJuUW1rallHMlR5UlM4U1JyVEhfVG9rZW46SGJqaWJUSlJob3NFMmx4WHNjeGNmMWdDbk9iXzE3NjM5ODI5MzM6MTc2Mzk4NjUzM19WNA" alt=""><figcaption></figcaption></figure>
 
 选择一个calling request模板
 
-<figure><img src="../.gitbook/assets/image (1020).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (885).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -71,14 +71,14 @@
 
 如果你有大批量的请求，可以使用Campaign进行下发，选择Calling request的模板即可。
 
-<figure><img src="../.gitbook/assets/image (1021).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (886).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://ycloudteam.feishu.cn/space/api/box/stream/download/asynccode/?code=OGQ3N2RjYWJlYWI4YTQ3NTVhZTlmMDc5NzI3MzBjM2Rfcmo2bEFsWE44UlNJQlE2NXpwVXZKQk9scGVUWjhrUnZfVG9rZW46TEZTRWJnb3Zlb1FVSHV4WUpBUWN3Z2g3blZjXzE3NjM5ODI5MzM6MTc2Mzk4NjUzM19WNA" alt=""><figcaption></figcaption></figure>
 
 \
 发送完成后可以在Campaign的统计中查看到客户的授权情况。
 
-<figure><img src="../.gitbook/assets/image (1022).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (887).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://ycloudteam.feishu.cn/space/api/box/stream/download/asynccode/?code=Y2M1N2JiZTliYzJlMTM4ODk0NDZhNjhjYjc3ZWJjZTZfSWp0clNjZUZxTlRMV2dWT2ZXME9iTHVTc0Z6OTVPRVRfVG9rZW46TlJ3MWJVMkhhb0JSeVJ4Mk5MZmMxbnlnbkpjXzE3NjM5ODI5MzM6MTc2Mzk4NjUzM19WNA" alt=""><figcaption></figcaption></figure>
 
@@ -92,7 +92,7 @@
 
 <figure><img src="https://ycloudteam.feishu.cn/space/api/box/stream/download/asynccode/?code=ODlhMmZjYTgyMDRhYzRmOGQ1MjFhOTQ0ZjI5MjJhZjRfMTFxdHpSTHR4MEp6TDFxb0tVTGF3ODFmWTk3NTd3dkpfVG9rZW46QkVwOGJ2SVNPb0w5RHB4NDNUR2NYQ252blJnXzE3NjM5ODI5MzM6MTc2Mzk4NjUzM19WNA" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1023).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (888).png" alt=""><figcaption></figcaption></figure>
 
 ## 发起外呼
 
@@ -100,7 +100,7 @@
 
 客户的授权是有有效性的，企业仅可在有效时间内对他进行外呼。在呼叫前，请确保自己有使用该商业号码进行外呼的权限。配置参考 :  [#pei-zhi-wai-hu-quan-xian](overview.md#pei-zhi-wai-hu-quan-xian "mention")<br>
 
-<figure><img src="../.gitbook/assets/image (1024).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (889).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://ycloudteam.feishu.cn/space/api/box/stream/download/asynccode/?code=NDhkYzQyMTAwNmEyMWQ0Y2Q2NTViOWU1NWZhY2ViZjhfU3ZGR3lrZ2V4S3Vtd3lLWlNmUnc1eDBRdmZYeXlPbmhfVG9rZW46RmV6QWJUWUQwb3pWMmN4TWlud2NCVVdnbmNiXzE3NjM5ODI5MzM6MTc2Mzk4NjUzM19WNA" alt=""><figcaption></figcaption></figure>
 
@@ -117,9 +117,9 @@
 2. 该用户已经接受了您的外呼请求。
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1025).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (890).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1026).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (891).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -127,4 +127,4 @@
 
 [**详细步骤参考**](https://helpdocs.ycloud.com/help-center/zh/inbox/inbox-calling#er-zhu-dong-fa-qi-wai-hu)
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>

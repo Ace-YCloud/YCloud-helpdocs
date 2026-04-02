@@ -20,7 +20,7 @@ YCloud支持您在发送WhatsApp消息的时候使用WhatsApp Flows。本文将�
 
 本指南也可以适应其他相关用例，包括信用卡优惠、贷款/信用额度计算器、购物贷款优惠以及完整的贷款资格审核。
 
-<figure><img src="../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
 ### 定制化优惠券
 
@@ -28,7 +28,7 @@ YCloud支持您在发送WhatsApp消息的时候使用WhatsApp Flows。本文将�
 
 用户将能够选择感兴趣的产品、设定预算，并获得具体的购买推荐。 随后，您可以发送一条消息，提供完成购买的指示。 该Flow非常适合在促销活动中与用户互动。
 
-<figure><img src="../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
 ### 收集购买意向
 
@@ -39,4 +39,4 @@ YCloud支持您在发送WhatsApp消息的时候使用WhatsApp Flows。本文将�
 
 本案例可以适应多种行业， 尤其适用于您希望从用户那里收集信息的场景。<br>
 
-<figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>

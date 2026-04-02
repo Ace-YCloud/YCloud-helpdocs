@@ -17,7 +17,7 @@ WhatsApp pay 能够帮助商家在WhatsApp app中对客户进行收款，以此�
 3. 消费者收到了消息后，点击**查看并支付**按钮。查看了详细的订单。（图2）
 4. 当客户确认订单后点击**继续**按钮。在WhatsApp中唤起了支付方式（图3），消费者可选择自己喜欢的方式完成订单的付款。
 
-<figure><img src="../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 
 

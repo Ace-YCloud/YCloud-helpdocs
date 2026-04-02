@@ -36,7 +36,7 @@ Ask a question代表由商家端主动发起的提问，并且这个组件会等
 
 当开启后，Chatbot只会收集一次用户在当前问题的回复。用户无法在一个问题里选择两次不同的选项，Flow会按照用户第一次选择的选项继续进行。
 
-<figure><img src="../../.gitbook/assets/image (772).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (645).png" alt=""><figcaption></figcaption></figure>
 
 ### 在List message上添加描述
 
@@ -47,8 +47,8 @@ Ask a question代表由商家端主动发起的提问，并且这个组件会等
 请注意：描述限制在72个字符以内
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (773).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (646).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (774).png" alt=""><figcaption><p>在List按钮下添加描述</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (647).png" alt=""><figcaption><p>在List按钮下添加描述</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (775).png" alt=""><figcaption><p>最终展示效果</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (648).png" alt=""><figcaption><p>最终展示效果</p></figcaption></figure>

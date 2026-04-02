@@ -28,7 +28,7 @@ WhatsApp 作为世界上最受欢迎的社交应用程序之一，已经拥有�
 
 YCloud提供的所有WhatsApp服务均基于WhatsApp商业账号，您可以通过YCloud创建WhatsApp 企业帐号，并通过API和开箱即用的工具与客户紧密互动。
 
-<figure><img src="../.gitbook/assets/image (629).png" alt="" width="375"><figcaption><p>三种帐户的区别</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (502).png" alt="" width="375"><figcaption><p>三种帐户的区别</p></figcaption></figure>
 
 ## WhatsApp 商业政策
 
@@ -45,7 +45,7 @@ YCloud提供的所有WhatsApp服务均基于WhatsApp商业账号，您可以通�
 * 充分开放，无论是账户管理、模板管理、号码管理、收发消息，都开放 API 接口，方便与内部系统集成；
 * 有机会被认定为知名企业，即[绿标认证](green-tick-verification.md)。
 
-<figure><img src="../.gitbook/assets/image (630).png" alt="" width="345"><figcaption><p>WhatsApp商业帐号</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (503).png" alt="" width="345"><figcaption><p>WhatsApp商业帐号</p></figcaption></figure>
 
 
 

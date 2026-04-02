@@ -4,7 +4,7 @@
 
 您可以通过以下路径找到新建分组的入口：登录[YCloud账号](https://www.ycloud.com/console/#/entry/login) > 导航至Contact > 点击“添加筛选”。
 
-<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 步骤2 — 设置筛选条件
 
@@ -16,25 +16,25 @@
 
 👉选择“国家”
 
-<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 2.编辑筛选条件
 
 👉选择“China”
 
-<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 3.保存分组
 
 👉点击“完成”，列表即显示筛选过后的联系人数据。
 
-<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉点击“保存分组”，添加分组名字，即可保存该分组 -- -- 该分组显示在左侧的联系人列表中。
 
-<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 您在使用Campaign功能时，可选择Contact segment用户进行定向发送

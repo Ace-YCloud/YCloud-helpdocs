@@ -8,7 +8,7 @@ description: 本文介绍如何在TikTok Ads Manager 创建完整的TikTok消息
 
 {% hint style="info" %}
 1. 开始前必读：[TikTok消息广告](./)
-2. 步骤1、2：[授权TikTok广告账户](connect-tiktok-ad-account.md)
+2. 步骤1、2：[授权TikTok广告账户](tiktok-ad-introduction.md)
 {% endhint %}
 
 ### 第三步：在 TikTok Ads Manager 中创建广告系列

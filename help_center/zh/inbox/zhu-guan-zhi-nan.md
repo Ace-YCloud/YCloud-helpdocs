@@ -10,17 +10,17 @@ description: 主管操作指南
 
 1. 要邀请团队成员，请点击左下角的“账户头像” 依次选择 Settings > Users and teams >[Users](https://www.ycloud.com/console/#/app/settings/usersAndTeams) 点击页面中的 “Invite user”按钮。
 
-<figure><img src="../.gitbook/assets/image (311).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
 
 2. 填写待邀请成员的基本信息，点击按钮 “Add”。系统将向该成员邮箱发送一封激活邮件。
 
-<figure><img src="../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
 
 ### 步骤2: 团队成员接受邀请
 
 成员找到对应激活邮件并点击按钮“激活账号”接受邀请，完成账号的激活。
 
-<figure><img src="../.gitbook/assets/image (322).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 请注意，受邀请的用户无需通过YCloud官网新注册账号。
@@ -60,7 +60,7 @@ description: 主管操作指南
 1. 不希望销售人员拥有部分号码的主动发起会话权限，可将销售人员从授权列表中移除
 2. 代表不同产品线的号码，由不同的员工负责，他们只对自己被分配的号码有发起新会话权限
 
-<figure><img src="../.gitbook/assets/image (932).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (797).png" alt=""><figcaption></figcaption></figure>
 
 ### 基础分配规则配置
 
@@ -76,7 +76,7 @@ description: 主管操作指南
 
 入口：[WhatsApp accounts ](https://www.ycloud.com/console/#/app/dashboard/account)> Settings > Assignment
 
-<figure><img src="../.gitbook/assets/image (312).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
 
 #### **步骤2：设置优先分配规则**
 
@@ -100,15 +100,15 @@ description: 主管操作指南
 如果您在同一租户的其他号码中已配置过高级分配规则，并希望复用其中的部分逻辑，即可在出现的弹窗中选择对应的规则进行【复制】，复制按钮将把选中的规则复制到您的画布中成为草稿，方便您在其基础上继续修改调整。\
 如果您希望从空白画布开始创建，则点击【从草稿开始】按钮，即可进入空白画布。
 
-<figure><img src="../.gitbook/assets/image (934).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (799).png" alt=""><figcaption></figcaption></figure>
 
 #### **高级分配工具箱**
 
 点击模块后的加号节点即可选择条件模块或动作模块，或从左侧选择希望添加的模块，完成配置后进行连线。
 
-<figure><img src="../.gitbook/assets/image (935).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (800).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (936).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (801).png" alt=""><figcaption></figcaption></figure>
 
 #### Condition 条件模块
 
@@ -121,7 +121,7 @@ description: 主管操作指南
 7. 消息进线时间：根据用户消息进线时间，与您设置的时间段进行匹配，符合条件的进入条件分支
 8. 不满足任何您配置条件的进线会话，将进入【其他】条件分支
 
-<figure><img src="../.gitbook/assets/image (937).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (802).png" alt=""><figcaption></figcaption></figure>
 
 #### Agent takeover 坐席接管模块
 
@@ -142,7 +142,7 @@ description: 主管操作指南
 3. 系统将自动为该高级分配规则生成固定规则的名字，您可以在左上角修改它。
 4. 完成检查后点击【保存】按钮保存您的设置。
 
-<figure><img src="../.gitbook/assets/image (940).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (805).png" alt=""><figcaption></figcaption></figure>
 
 5. 完成配置后回到高级配置列表页，点击【编辑】按钮可进入画布编辑规则。
 6. 在您准备好之后，打开高级分配开关即可令其生效。
@@ -153,7 +153,7 @@ description: 主管操作指南
 
 在自动化规则页面设置Inbox的自动应答规则：包括：欢迎消息、新用户破冰、未分配会话的自动回复、接待人员未及时回复时的自动回复、自动关闭会话。
 
-<figure><img src="../.gitbook/assets/image (325).png" alt=""><figcaption><p>通过右侧箭头展开或收起设置内容，通过开关开启或关闭功能</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (198).png" alt=""><figcaption><p>通过右侧箭头展开或收起设置内容，通过开关开启或关闭功能</p></figcaption></figure>
 
 * **欢迎消息：**&#x60A8;可以设置一条欢迎消息,在客户第一次打开对话时自动发送。
 * **破冰提示：**&#x8FD9;是一组可自定义的可点击文本提示,出现在新用户首次的聊天窗口中。它有助于客户快速了解商家提供的服务或且可触发聊天机器人执行特定工作流程。
@@ -169,13 +169,13 @@ description: 主管操作指南
 
 接待人员可以使用已定义好的标签更好的管理并筛选客户
 
-<figure><img src="../.gitbook/assets/image (326).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
 
 ### 快捷回复配置
 
 进入Your preference > [Canned Response](https://www.ycloud.com/console/#/app/userSettings/cannedResponse) 配置账号共用的预置回复，接待人员在聊天中可以快速引用。
 
-<figure><img src="../.gitbook/assets/image (329).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
 
 🎉🎉 恭喜你，已完成了团队Inbox的基础配置，当然您还可以基于工作时间配置更智能的聊天机器人接待流程。详细设置请参考ChatBot
 
@@ -185,6 +185,6 @@ description: 主管操作指南
 
 详细指引请参考文档：[Inbox数据分析](inbox-shu-ju-fen-xi.md)
 
-<figure><img src="../.gitbook/assets/image (330).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (332).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>

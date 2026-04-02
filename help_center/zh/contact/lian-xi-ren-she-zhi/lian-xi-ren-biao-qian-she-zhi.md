@@ -13,15 +13,15 @@
 
 登录[YCloud账号](https://www.ycloud.com/console/#/entry/login)，导航至Contact > Settings > Tags
 
-<figure><img src="../../.gitbook/assets/image (494).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
 
 ### 步骤2
 
 点击Add Tag，添加新的Tag，点击Save完成操作；添加成功后支持再次编辑和删除操作
 
-<figure><img src="../../.gitbook/assets/image (495).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (368).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (496).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>
 
 ## 在Contact list位置添加
 
@@ -29,11 +29,11 @@
 
 登录[YCloud账号](https://www.ycloud.com/console/#/entry/login)，导航至Contact > Contact list > Add tag
 
-<figure><img src="../../.gitbook/assets/image (499).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (372).png" alt=""><figcaption></figcaption></figure>
 
 ### 步骤2
 
 点击Add tag, 输入您想添加的tag，点击Create new tag完成操作
 
-<figure><img src="../../.gitbook/assets/image (498).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (371).png" alt=""><figcaption></figcaption></figure>
 

@@ -23,4 +23,4 @@ Contact支持对联系人进行[按过滤器进行segment](lian-xi-ren-fen-zu.md
 
 登录[YCloud账号](https://www.ycloud.com/console/#/entry/login)，导航至Contact > Contact list 板块，可查看您的联系人列表；您也可根据昵称，国家等参数进行搜索查看
 
-<figure><img src="../.gitbook/assets/image (335).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>

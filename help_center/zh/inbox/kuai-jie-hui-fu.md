@@ -16,7 +16,7 @@ Inbox manager/Admin可创建/修改账户通用的快速回复。要添加新的
 
 ### 步骤1:  从Inbox的Inbox Settings中进入设置菜单，并选中左侧的快捷回复子菜单
 
-<figure><img src="../.gitbook/assets/image (905).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (778).png" alt=""><figcaption></figcaption></figure>
 
 ### 步骤2: 将在左侧新建一条快捷回复，需要填写的内容如图所示。
 
@@ -57,7 +57,7 @@ Inbox manager/Admin可创建/修改账户通用的快速回复。要添加新的
 
 步骤2：选择快捷回复。您可以用鼠标从左侧列表中选择，或者只需输入简码（如果您记得的话）。然后，通过键盘的上下键切换选择的内容，按下键 `Enter` ，您的文本编辑器就会填充回复。
 
-<figure><img src="../.gitbook/assets/image (582).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (455).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -10,7 +10,7 @@ YCloud目前暂不支持在YCloud后台直接创建WhatsApp Flows，您需要进
 
 登陆您的BM后台 > Flows > Create flow
 
-<figure><img src="../../../.gitbook/assets/image (791).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (664).png" alt=""><figcaption></figcaption></figure>
 
 ## 步骤2:
 
@@ -18,19 +18,19 @@ YCloud目前暂不支持在YCloud后台直接创建WhatsApp Flows，您需要进
 
 注意：右下角可以选择不同的模版风格。
 
-<figure><img src="../../../.gitbook/assets/image (793).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (666).png" alt=""><figcaption></figcaption></figure>
 
 ## 步骤3:
 
 点击Publish发布这个模版。
 
-<figure><img src="../../../.gitbook/assets/image (794).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (667).png" alt=""><figcaption></figcaption></figure>
 
 ## 步骤4:
 
 完成Flow创建。当出现以下页面，就代表Flow的创建完成啦！
 
-<figure><img src="../../../.gitbook/assets/image (796).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (669).png" alt=""><figcaption></figcaption></figure>
 
 ### 步骤5: 创建带有WhatsApp Flows的消息模版
 
@@ -40,7 +40,7 @@ YCloud目前暂不支持在YCloud后台直接创建WhatsApp Flows，您需要进
 
 登陆您的YCloud账号 > Templates > 选择好对应的模版类型并编辑好内容后， 点击 Buttons > Call to action > WhatsApp Flow > 选择想要插入的WhatsApp Flow > 编辑按钮中展示的文字 > 点击 "Submit" 提交模版申请。
 
-<figure><img src="../../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 
 

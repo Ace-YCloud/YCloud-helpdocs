@@ -154,7 +154,7 @@
   * [创建点击WhatsApp广告（CTWA）](ctwa-click-to-whatsapp-ad/facebook-ads/chuang-jian-dian-ji-whatsapp-guang-gao-ctwa.md)
   * [转化 API (CAPI)](ctwa-click-to-whatsapp-ad/facebook-ads/zhuan-hua-api-capi.md)
 * [TikTok 消息广告](ctwa-click-to-whatsapp-ad/tiktok-messaging-ad/README.md)
-  * [授权 TikTok 广告账户](ctwa-click-to-whatsapp-ad/tiktok-messaging-ad/connect-tiktok-ad-account.md)
+  * [授权 TikTok 广告账户](ctwa-click-to-whatsapp-ad/tiktok-messaging-ad/tiktok-ad-introduction.md)
   * [创建TikTok 消息广告](ctwa-click-to-whatsapp-ad/tiktok-messaging-ad/create-tiktok-instant-messaging-ad.md)
   * [TikTok：流量承接、广告追踪与转化](ctwa-click-to-whatsapp-ad/tiktok-messaging-ad/tiktok-ad-traffic-delivery-tracking-and-conversion.md)
 * [接待CTWA的访客](ctwa-click-to-whatsapp-ad/jie-dai-ctwa-de-fang-ke.md)
@@ -165,9 +165,9 @@
 * [店铺介绍](shop/overview.md)
 * [创建店铺](shop/creatstore.md)
 * [运费设置](shop/shipping.md)
-* [支付设置](shop/payments.md)
-* [商品管理](shop/products.md)
-* [订单管理](shop/orders/README.md)
+* [支付设置](shop/zhi-fu-she-zhi.md)
+* [商品管理](shop/product.md)
+* [订单管理](shop/ding-dan-guan-li.md)
   * [物流信息批量导入](shop/orders/shipping-import.md)
 
 ## 💰 WhatsApp pay
