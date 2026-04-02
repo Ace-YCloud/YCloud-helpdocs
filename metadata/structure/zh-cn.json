@@ -29,7 +29,7 @@
   {
     "path": "ctwa-click-to-whatsapp-ad",
     "parent_path": null,
-    "display_title": "📢 CTWA（点击WhatsApp广告） <a href=\"#ctwa-click-to-whatsapp-ad\" id=\"ctwa-click-to-whatsapp-ad\"></a>",
+    "display_title": "📢 CTWA（点击WhatsApp广告）",
     "nav_order": 10,
     "node_kind": "container",
     "home_doc_path": null,
@@ -155,7 +155,7 @@
   {
     "path": "pricing-and-billing",
     "parent_path": null,
-    "display_title": "💰 定价和计费 <a href=\"#pricing-and-billing\" id=\"pricing-and-billing\"></a>",
+    "display_title": "💰 定价和计费",
     "nav_order": 1010,
     "node_kind": "container",
     "home_doc_path": null,
