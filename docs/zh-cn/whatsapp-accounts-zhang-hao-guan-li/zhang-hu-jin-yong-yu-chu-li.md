@@ -1,0 +1,139 @@
+---
+doc_id: doc_whatsapp_accounts_zhang_hao_guan_li_zhang_hu_jin_yong_yu_chu_li
+language: zh-CN
+title: "账户禁用与处理"
+slug: zhang-hu-jin-yong-yu-chu-li
+path: whatsapp-accounts-zhang-hao-guan-li/zhang-hu-jin-yong-yu-chu-li
+document_group: whatsapp-accounts-zhang-hao-guan-li
+path_in_group: zhang-hu-jin-yong-yu-chu-li
+parent_id: doc_whatsapp_accounts_zhang_hao_guan_li
+order: 210
+status: published
+translation_status: source
+source_system: gitbook
+source_external_id: 
+source_revision: 
+created_at: 2026-04-02T11:19:00.741Z
+updated_at: 2026-04-02T11:19:00.741Z
+last_synced_at: 2026-04-02T11:19:00.741Z
+tags:
+---
+
+# 账户禁用与处理
+
+## 预防封号
+
+### 1.确定你业务是否符合WhatsApp的政策
+
+如果你从事的业务不属于WhatsApp支持的行业，那么如何开展WhatsApp业务也就无从谈起，这些业务包括：毒品、武器、弹药、处方药、烟草、酒精等，详情请见：https://www.whatsapp.com/legal/commerce-policy/
+
+### 2.申请绿标 ✅
+
+[绿标](../whatsapp-ji-chu/green-tick-verification.md)，或者叫绿勾，正式的名称是官方商业帐号（OBA），代表已经被WhatsApp证实为一家真实存在的著名品牌。大多数企业都可以创建WhatsApp商业账号和开展WhatsApp消息触达，但不是所有的企业都可以被认证绿标，**如果你是一个“知名”企业并顺利的通过了审核，基本上代表你不需要关注封号问题。**&#x57;hatsApp 绿标帐号标准根据众多因素制定，其中最重要的审核依据是要求公司代表的是一家搜索频率高的知名品牌或实体。
+
+<figure><img src="https://ycloudteam.feishu.cn/space/api/box/stream/download/asynccode/?code=MmZjOTc2MWFiOWQyOTQ1NDA3MTFhNzIxNTIxMDgxOWFfV3Uxck16NXd3ejM5UWJOa3JrRFJnREhjTktOZHM2QVlfVG9rZW46WTFQUWJyNTdtb0RIalR4OHhMV2M1TGxlbjBkXzE3MjA3MDY4MDI6MTcyMDcxMDQwMl9WNA" alt=""><figcaption></figcaption></figure>
+
+
+
+### 3.监控模板、号码质量，及时优化调整
+
+WhatsApp的风控策略非常复杂，但总的来说会同时权衡消费者和企业的权益。一般来说，会根据用户反馈（例如消息投诉和屏蔽）来衡量消息质量，如果持续没有发现企业消息质量有所提升，会逐步增加处罚的力度：
+
+* 第一阶段：暂停或封禁消息模板
+* 第二阶段：降低号码质量，进而限制号码的发送限额
+* 第三阶段：封禁WABA，所有的号码和模板不可用，严重的将禁用一个BM下的所有WABA
+
+当发现模板或号码的质量持续降低，要立即进行调整，调整策略包括：
+
+* 编辑模板内容：如果认为模板内容可能被最终用户视为垃圾邮件或网络钓鱼，可以尝试重新修改模板，优化内容。
+* 重塑目标受众：如果您认为信息与当前目标受众不相关，请更换受众。例如，如果模板内容仅与特定忠诚度的用户相关，则仅将模板消息发送给该类型的用户而不是全部用户。
+
+
+
+### 4.做帐号备份
+
+我们无法判断未来会发生什么，即使你当下的发送质量很高，但也许会因为某些意外因素导致封号。出于业务稳定性的考量，我们建议做好帐户的备份（如果有绿标可以忽略这个话题）：
+
+* 在有能力和资源的情况下，可以考虑多创建一个BM帐户和对应的WABA帐号。
+
+
+
+### 5.开展消费者喜爱的对话
+
+消费者对于收到的消息是有喜好区别的，换位思考，每个人都希望收到对自己有用的消息。
+
+但对于企业来说，能产生业务转化的消息才是更有价值的。**这中间需要做好平衡。**&#x542F;动期建议以消费者更喜爱的消息为主（投诉率低的消息），先让消费者明确感受到WhatsApp品牌窗口的价值，逐步培养消费者的消息习惯和品牌信任感，再补充对企业产生更大回报的消息触达。
+
+我们尝试按照消息类别归纳投诉率，从低到高依次是：
+
+* 低投诉率：OTP、订单/物流通知、会员/积分通知、服务类会话
+* 中投诉率：忠诚客户促销、购物车提醒、季节性大促
+* 高投诉率：流失客户召回、新客户营销触达
+
+WhatsApp不会告诉任何人投诉的真实比例，这只是经验观察。实际的投诉率与目标受众、消息内容的质量等都有很大的关系。
+
+
+
+
+
+## 账号解封
+
+### 排查被封禁的原因
+
+#### 大量群发营销信息
+
+企业大量给用户发送营销信息，影响用户的体验感和对企业的满意度。进而产生不满，投诉或者屏蔽企业发送的营销信息。投诉率的上升会导致WhatsApp的封号。<br>
+
+#### 违反了WhatsApp商业政策
+
+WhatsApp不接受[以下商品或者服务](https://business.whatsapp.com/policy)使用WhatsApp API来进行售卖，交换，和推广：
+
+* 枪支
+* 酒精和烟草
+* 药物（无论是处方药、消遣药物还是其他药物）
+* 医疗保健产品
+* 濒危物种（野生动物和植物）
+* 活体非濒危动物（不包括牲畜）
+* 危险品和材料
+* 真实、虚拟或虚假货币，包括 ICO 和二元期权
+* 身体部位和液体
+* WhatsApp确定的商业模式、商品、物品或服务可能具有欺诈性、误导性、攻击性或欺骗性，或者可能具有剥削性、不当性或对目标群体施加不当压力
+* 真钱赌博
+* 成人产品或服务
+* 约会服务
+* 多层次营销
+* 发薪日贷款、预支工资、P2P 借贷、追债和保释金
+
+
+
+#### Facebook管理员账号被标记
+
+创建WhatsApp 商业账户时所需的Facebook账号对有至关重要的作用。需要强调的是，购买的Facebook账号极其容易被封号，且一旦封号，账号申诉回来的概率几乎为零。建议使用自己的“老账户”或其他同事的“老账户”，实在没有可以创建新账号，积极使用数天来让它被Facebook信任。
+
+
+
+### 账户申诉
+
+首先要降低预期，WhatsApp大多时候不会无故封号，尤其是WhatsApp API商业账号，一旦永久封禁，那么能够申诉回来的概率也不会很高。
+
+**之后，你可以访问BM的**[**账户品质页面**](https://business.facebook.com/accountquality)，在这里你可以看到被禁用的WABA账户。
+
+<figure><img src="../.gitbook/assets/image (383).png" alt=""><figcaption></figcaption></figure>
+
+点击被封的WABA，进入详情页查看封号的原因和申诉操作。
+
+<figure><img src="../.gitbook/assets/image (382).png" alt=""><figcaption></figcaption></figure>
+
+上图显示了该帐户是因账号的公司信息不明确而被禁用的。在右侧的What can you do 中会显示您接下来该进行的操作。完成的要求更新资料后，&#x6709;**“1次”机会发起申诉**，建议在申诉内容中声情并茂向支持团队解释情况：
+
+1. 公司/品牌的说明，包括官网地址，主营业务。
+2. 真实的描述注册WhatsApp api 是为了解决哪些业务场景，例如客户支持或者销售活动。并且具体描述你会如何使用它，例如放在官网上让客户来进行咨询或者是对订阅客户发送通知消息等。
+3. 暂停账号对公司业务的影响。若账号暂停对您现有业务极大，建议在申诉中说明，比如影响了大量OTP发送导致客户无法登录。
+4. 保证你已经了解WhatsApp的Policy并且会在接下来的时间中更谨慎的去使用此账号。请重新复查账号并解除限制。
+
+提交后即可等待WhatsApp的回复，一般在1个工作日内。
+
+
+
+
+
