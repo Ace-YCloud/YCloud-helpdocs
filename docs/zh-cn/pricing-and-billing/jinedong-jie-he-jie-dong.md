@@ -1,0 +1,65 @@
+---
+doc_id: doc_pricing_and_billing_jinedong_jie_he_jie_dong
+language: zh-CN
+title: "金额冻结和解冻"
+slug: jinedong-jie-he-jie-dong
+path: pricing-and-billing/jinedong-jie-he-jie-dong
+document_group: pricing-and-billing
+path_in_group: jinedong-jie-he-jie-dong
+parent_id: doc_pricing_and_billing
+order: 1040
+status: published
+translation_status: source
+source_system: gitbook
+source_external_id: 
+source_revision: 
+created_at: 2026-04-02T11:07:17.249Z
+updated_at: 2026-04-02T11:07:17.249Z
+last_synced_at: 2026-04-02T11:07:17.249Z
+tags:
+---
+
+# 金额冻结和解冻
+
+### 资金冻结与解冻政策
+
+我们会根据以下标准扣除或解冻相应的资金。\
+<br>
+
+### 什么时候冻结资金？
+
+当您提交消息发送请求时，YCloud会预估消耗的金额，并在发送之前从您的账户余额中冻结这部分金额。该操作是为了确保已经提交上来的消息能够成功发出。
+
+查看冻结资金：可将鼠标移动至余额旁边的问号图标上查看。
+
+<figure><img src="../.gitbook/assets/image (585).png" alt=""><figcaption></figcaption></figure>
+
+### 什么时候解冻资金？
+
+当消息处理完成时，YCloud会扣除或者解冻每条消息冻结的资金。消息处理完成的详细解释为：
+
+**SMS/Email/Voice Code:**
+
+* 当消息成功从YCloud发出后我们扣除这部分金额。
+* 当消息未从YCloud发出，我们会解冻这笔消息的金额。
+
+**WhatsApp:**
+
+* 当消息成功送达时（delivered or read）时进行扣除。
+* 当消息发送失败时进行解冻（failed）。
+* 当消息一直持续processing的时候，金额会一直处于冻结状态。如果processing状态持续30天，金额会自动解冻。
+
+**举例**\
+1、Campaign提交一个sms的定时活动，预计消耗10美元。我们会从余额中冻结10美元。当到达发送时间，短信被下发时，金额扣除。若这个活动在发送前取消，我们会进行解冻。
+
+2、发送了一个美国的WhatsApp消息，预计消耗10美元。我们会预先冻结10美元。
+
+```
+  ①若消息下发后这条消息一直出于processing状态，消息就会一直被冻结住，直到30天后自动解除。
+
+  ②若消息在30天内到达或已读，会扣除金额
+
+  ③若消息在30天内失败，会解冻金额。
+```
+
+如果您对此政策有任何问题或疑虑，请随时与我们联系。
