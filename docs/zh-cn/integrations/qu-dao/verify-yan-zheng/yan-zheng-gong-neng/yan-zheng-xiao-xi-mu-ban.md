@@ -1,0 +1,152 @@
+---
+doc_id: doc_integrations_qu_dao_verify_yan_zheng_yan_zheng_gong_neng_yan_zheng_xiao_xi_mu_ban
+language: zh-CN
+title: "验证消息模板"
+slug: yan-zheng-xiao-xi-mu-ban
+path: integrations/qu-dao/verify-yan-zheng/yan-zheng-gong-neng/yan-zheng-xiao-xi-mu-ban
+document_group: integrations
+path_in_group: qu-dao/verify-yan-zheng/yan-zheng-gong-neng/yan-zheng-xiao-xi-mu-ban
+parent_id: doc_integrations_qu_dao_verify_yan_zheng_yan_zheng_gong_neng
+order: 0
+status: published
+translation_status: source
+source_system: gitbook
+source_external_id: 
+source_revision: 
+created_at: 2026-04-02T07:27:54.996Z
+updated_at: 2026-04-02T07:27:54.996Z
+last_synced_at: 2026-04-02T07:27:54.996Z
+tags:
+---
+
+# 验证消息模板
+
+该模板是预定义且经批准的文本，用于发送验证消息，支持的渠道包括短信、语音、Whatsapp 和电子邮件。
+
+如果您有其他业务需求，请联系我们。
+
+## 入口
+
+Integrations>Verify>Settings, [点击跳转至设置页面](https://www.ycloud.com/console/#/app/integrations/verify/setting)
+
+<figure><img src="../../../../.gitbook/assets/image (700).png" alt=""><figcaption></figcaption></figure>
+
+## 自定义消息模板
+
+消息模板支持自定义以下内容，可在控制台配置：
+
+| 自定义选项      | 定义                                                                                    | 支持渠道                   |
+| ---------- | ------------------------------------------------------------------------------------- | ---------------------- |
+| 品牌         | 验证消息中显示的品牌名称和图案                                                                       | 除语音外的所有频道。             |
+| 验证码长度      | 消息中验证码的长度越长，安全级别越高。                                                                   | 所有频道。                  |
+| 验证码有效期     | 验证码一旦过期将失效，无法用于验证。                                                                    | 所有频道。                  |
+| “验证码有效期”提醒 | 如果打开，有效期信息将出现在消息末尾。                                                                   | 除语音外的所有频道。             |
+| “请勿分享”警报   | 如果它打开，“请勿与任何人共享此代码。” 将出现在消息的末尾。                                                       | 除语音和 WhatsApp 之外的所有渠道。 |
+| “短信回退”警报   | 如果开启，当 WhatsApp 状态报告返回“失败”时，YCloud 将自动尝试通过短信重新发送验证码。但如果状态报告延迟超过30秒，YCloud将不会通过短信自动重发。 | 仅 WhatsApp 支持自定义此选项。   |
+
+## 支持的语言
+
+我们将自动将所提供的电话号码的国家/地区代码解析为当地语言，并以英语作为后备语言。如果您仍然需要指定语言，可以使用 language 参数覆盖它。
+
+支持的语言包括：
+
+ar：阿拉伯语\
+de：德语&#x20;
+
+en：英语\
+es：西班牙语\
+fr：法语\
+id：印度尼西亚语\
+it：意大利语\
+pt：葡萄牙语\
+ru：俄语\
+tr：土耳其语\
+vi：越南语\
+zh：简体中文\
+zh-hk：繁体中文。
+
+{% hint style="info" %}
+注意，当通道是语音时不适用。
+{% endhint %}
+
+各个国家/地区的验证消息默认语言如下（除下列国家/地区之外的所有国家/地区的验证消息默认为英语）：
+
+| 国家/地区代码 | 国家/地区名称     | 默认语言         |
+| ------- | ----------- | ------------ |
+| TR      | 土耳其         | tr : 土耳其语    |
+| CO      | 哥伦比亚        | es : 西班牙语    |
+| AE      | 阿拉伯联合酋长国    | ar : 阿拉伯语    |
+| ID      | 印度尼西亚       | ID：印度尼西亚语    |
+| SA      | 沙特阿拉伯       | ar : 阿拉伯语    |
+| MX      | 墨西哥         | es : 西班牙语    |
+| MO      | 澳门          | zh-hk : 繁体中文 |
+| LI      | 列支敦士登       | de : 德语      |
+| CG      | 刚果          | fr : 法语      |
+| SV      | 萨尔瓦多        | es : 西班牙语    |
+| GW      | 几内亚比绍       | pt：葡萄牙语      |
+| LU      | 卢森堡         | de : 德语      |
+| GQ      | 赤道几内亚       | es : 西班牙语    |
+| CV      | 佛得角         | pt：葡萄牙语      |
+| RE      | 团圆          | fr : 法语      |
+| SM      | 圣马力诺        | it：意大利语      |
+| MC      | 摩纳哥         | fr : 法语      |
+| PF      | 法属波利尼西亚     | fr : 法语      |
+| SD      | 苏丹          | ar : 阿拉伯语    |
+| GF      | 法属圭亚那       | fr : 法语      |
+| NC      | 新喀里多尼亚      | fr : 法语      |
+| KZ      | 哈萨克斯坦       | ru : 俄语      |
+| MQ      | 马提尼克岛       | fr : 法语      |
+| BR      | 巴西          | pt：葡萄牙语      |
+| AR      | 阿根廷         | es : 西班牙语    |
+| PE      | 秘鲁          | es : 西班牙语    |
+| ES      | 西班牙         | es : 西班牙语    |
+| IT      | 意大利         | it：意大利语      |
+| RU      | 俄罗斯联邦       | ru : 俄语      |
+| PY      | 巴拉圭         | es : 西班牙语    |
+| CR      | 哥斯达黎加       | es : 西班牙语    |
+| HN      | 洪都拉斯        | es : 西班牙语    |
+| NI      | 尼加拉瓜        | es : 西班牙语    |
+| VE      | 委内瑞拉玻利瓦尔共和国 | es : 西班牙语    |
+| UY      | 乌拉圭         | es : 西班牙语    |
+| DO      | 多明尼加共和国     | es : 西班牙语    |
+| PA      | 巴拿马         | es : 西班牙语    |
+| GT      | 危地马拉        | es : 西班牙语    |
+| BO      | 多民族玻利维亚     | es : 西班牙语    |
+| EC      | 厄瓜多尔        | es : 西班牙语    |
+| BH      | 巴林          | ar : 阿拉伯语    |
+| OM      | 阿曼          | ar : 阿拉伯语    |
+| YE      | 也门          | ar : 阿拉伯语    |
+| LB      | 黎巴嫩         | ar : 阿拉伯语    |
+| IQ      | 伊拉克         | ar : 阿拉伯语    |
+| KW      | 科威特         | ar : 阿拉伯语    |
+| JO      | 约旦          | ar : 阿拉伯语    |
+| CN      | 中华人民共和国     | zh : 简体中文    |
+| TW      | 中国台湾省       | zh-hk : 繁体中文 |
+| HK      | 香港          | zh-hk : 繁体中文 |
+| VN      | 越南          | vi : 越南语     |
+| CL      | 智利          | es : 西班牙语    |
+| BY      | 白俄罗斯        | ru : 俄语      |
+| EG      | 埃及          | ar : 阿拉伯语    |
+| TG      | 多哥          | fr : 法语      |
+| MZ      | 莫桑比克        | pt：葡萄牙语      |
+| BF      | 布基纳法索       | fr : 法语      |
+| AO      | 安哥拉         | pt：葡萄牙语      |
+| ST      | 圣多美和普林西比    | pt：葡萄牙语      |
+| BJ      | 贝宁          | fr : 法语      |
+| RW      | 卢旺达         | fr : 法语      |
+| BI      | 布隆迪         | fr : 法语      |
+| NE      | 尼日尔         | fr : 法语      |
+| CD      | 刚果民主共和国     | fr : 法语      |
+| MA      | 摩洛哥         | ar : 阿拉伯语    |
+| GA      | 加蓬          | fr : 法语      |
+| GN      | 几内亚         | fr : 法语      |
+| SN      | 塞内加尔        | fr : 法语      |
+| ML      | 马里          | fr : 法语      |
+| TN      | 突尼斯         | ar : 阿拉伯语    |
+| DZ      | 阿尔及利亚       | ar : 阿拉伯语    |
+| LY      | 利比亚         | ar : 阿拉伯语    |
+| PT      | 葡萄牙         | pt：葡萄牙语      |
+| CH      | 瑞士          | de : 德语      |
+| BE      | 比利时         | de : 德语      |
+| DE      | 德国          | de : 德语      |
+| FR      | 法国          | fr : 法语      |
