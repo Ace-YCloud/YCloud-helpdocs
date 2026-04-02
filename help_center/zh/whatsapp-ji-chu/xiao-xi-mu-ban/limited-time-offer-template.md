@@ -4,10 +4,6 @@ description: 本文档介绍了限时优惠模板及其使用方法。
 
 # 限时优惠模板
 
-{% hint style="info" %}
-限时优惠模板仅支持创建，可通过API发送
-{% endhint %}
-
 限时优惠模板可让您在模板消息中显示优惠代码的到期日期和正在运行的倒计时器，让您轻松传达限时优惠并推动客户参与。限时优惠模版仅适用于营销模版消息。
 
 <figure><img src="../../.gitbook/assets/image (550).png" alt="" width="363"><figcaption></figcaption></figure>
@@ -35,5 +31,9 @@ description: 本文档介绍了限时优惠模板及其使用方法。
 
 ⚠️ 使用 WhatsApp 网页应用程序或桌面应用程序查看限时优惠模板消息的用户将看不到该优惠，但会看到一条消息，表明他们已收到一条消息。
 
-💡您可以通过调用API的方式发送轮播模版。
+💡模板审核通过后，您可以使用 3 种方式发送此模板消息：
+
+1. [Inbox：发送给某1个联系人](../../inbox/fa-qi-xin-liao-tian.md)
+2. [Campaign：群发广播](../../campaign/chuang-jian-whatsapp-ying-xiao-huo-dong.md#bu-zhou-2-fa-song-ying-xiao-xiao-xi)
+3. [通过 API 发送](https://docs.ycloud.com/reference/whatsapp_message-send-directly)
 
