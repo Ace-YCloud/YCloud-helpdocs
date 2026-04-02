@@ -1,0 +1,1838 @@
+[
+  {
+    "path": "",
+    "parent_path": null,
+    "display_title": "欢迎来到YCloud Docs",
+    "nav_order": 10,
+    "node_kind": "container",
+    "home_doc_path": "index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "update-log",
+    "parent_path": null,
+    "display_title": "🆙 更新日志",
+    "nav_order": 20,
+    "node_kind": "container",
+    "home_doc_path": "update-log/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "calling/overview",
+    "parent_path": "calling",
+    "display_title": "WhatsApp Calling 简介",
+    "nav_order": 450,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "calling/quick-start-with-calling",
+    "parent_path": "calling",
+    "display_title": "初识Calling界面",
+    "nav_order": 460,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "calling/outbound_calls",
+    "parent_path": "calling",
+    "display_title": "外呼指南",
+    "nav_order": 470,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "calling/manager-guideline",
+    "parent_path": "calling",
+    "display_title": "主管指南",
+    "nav_order": 480,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "calling/agent-guideline",
+    "parent_path": "calling",
+    "display_title": "客服指南",
+    "nav_order": 490,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "calling/call-logs",
+    "parent_path": "calling",
+    "display_title": "通话日志",
+    "nav_order": 500,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "campaign/chuang-jian-whatsapp-ying-xiao-huo-dong",
+    "parent_path": "campaign",
+    "display_title": "创建WhatsApp营销活动",
+    "nav_order": 510,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "campaign/zhui-zong-an-niu-dian-ji",
+    "parent_path": "campaign",
+    "display_title": "追踪按钮点击",
+    "nav_order": 520,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "campaign/fen-xi-ying-xiao-huo-dong-shu-ju",
+    "parent_path": "campaign",
+    "display_title": "分析营销活动数据",
+    "nav_order": 530,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "chatbot/shen-me-shi-chatbot",
+    "parent_path": "chatbot",
+    "display_title": "什么是Chatbot",
+    "nav_order": 580,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "chatbot/chuang-jian-yi-ge-chatbot",
+    "parent_path": "chatbot",
+    "display_title": "创建一个Chatbot",
+    "nav_order": 590,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "chatbot/reactive-ai-agent",
+    "parent_path": "chatbot",
+    "display_title": "AI智能体",
+    "nav_order": 600,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "chatbot/rule-based-agent",
+    "parent_path": "chatbot",
+    "display_title": "规则机器人",
+    "nav_order": 610,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "chatbot/ai-profile",
+    "parent_path": "chatbot",
+    "display_title": "AI档案",
+    "nav_order": 620,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "chatbot/ai-knowledge-base",
+    "parent_path": "chatbot",
+    "display_title": "AI知识库",
+    "nav_order": 630,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "chatbot/ai-suggestions",
+    "parent_path": "chatbot",
+    "display_title": "AI建议",
+    "nav_order": 640,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "chatbot/ai-actionbooks",
+    "parent_path": "chatbot",
+    "display_title": "AI行动指南",
+    "nav_order": 650,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "chatbot/chuang-jian-yi-ge-flow",
+    "parent_path": "chatbot",
+    "display_title": "创建一个Flow",
+    "nav_order": 660,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "chatbot/chatbot-components",
+    "parent_path": "chatbot",
+    "display_title": "Chatbot组件",
+    "nav_order": 670,
+    "node_kind": "container",
+    "home_doc_path": "chatbot/chatbot-components/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "chatbot/fen-xi-chatbot-shu-ju",
+    "parent_path": "chatbot",
+    "display_title": "分析Chatbot数据",
+    "nav_order": 680,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "chatbot/zui-jia-shi-jian",
+    "parent_path": "chatbot",
+    "display_title": "最佳实践",
+    "nav_order": 690,
+    "node_kind": "container",
+    "home_doc_path": "chatbot/zui-jia-shi-jian/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "chatbot/chatbot-components/trigger",
+    "parent_path": "chatbot/chatbot-components",
+    "display_title": "Trigger",
+    "nav_order": 10,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "chatbot/chatbot-components/ask-a-question",
+    "parent_path": "chatbot/chatbot-components",
+    "display_title": "Ask a question",
+    "nav_order": 20,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "chatbot/chatbot-components/send-messages",
+    "parent_path": "chatbot/chatbot-components",
+    "display_title": "Send messages",
+    "nav_order": 30,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "chatbot/chatbot-components/agent-takeover",
+    "parent_path": "chatbot/chatbot-components",
+    "display_title": "Agent takeover",
+    "nav_order": 40,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "chatbot/chatbot-components/unsubscribe",
+    "parent_path": "chatbot/chatbot-components",
+    "display_title": "Unsubscribe",
+    "nav_order": 50,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "chatbot/chatbot-components/branch",
+    "parent_path": "chatbot/chatbot-components",
+    "display_title": "Branch",
+    "nav_order": 60,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "chatbot/chatbot-components/send-shopify-orders",
+    "parent_path": "chatbot/chatbot-components",
+    "display_title": "Send Shopify orders",
+    "nav_order": 70,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "chatbot/zui-jia-shi-jian/zi-dong-jiang-ke-hu-tian-jia-dao-tui-ding-lie-biao",
+    "parent_path": "chatbot/zui-jia-shi-jian",
+    "display_title": "自动将客户添加到退订列表",
+    "nav_order": 10,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "chatbot/zui-jia-shi-jian/guidance-best-practice",
+    "parent_path": "chatbot/zui-jia-shi-jian",
+    "display_title": "AI引导最佳实践",
+    "nav_order": 20,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "contact/lian-xi-ren-guan-li",
+    "parent_path": "contact",
+    "display_title": "联系人管理",
+    "nav_order": 380,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "contact/xin-jian-dao-ru-lian-xi-ren",
+    "parent_path": "contact",
+    "display_title": "新建/导入联系人",
+    "nav_order": 390,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "contact/lian-xi-ren-fen-zu",
+    "parent_path": "contact",
+    "display_title": "联系人分组",
+    "nav_order": 400,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "contact/pi-liang-cao-zuo",
+    "parent_path": "contact",
+    "display_title": "批量操作",
+    "nav_order": 410,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "contact/tui-ding-lie-biao",
+    "parent_path": "contact",
+    "display_title": "退订列表",
+    "nav_order": 420,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "contact/lian-xi-ren-she-zhi",
+    "parent_path": "contact",
+    "display_title": "联系人设置",
+    "nav_order": 430,
+    "node_kind": "container",
+    "home_doc_path": "contact/lian-xi-ren-she-zhi/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "contact/owner-gui-shu-she-zhi-zhuan-shu-ke-fu-xiao-shou-gui-shu",
+    "parent_path": "contact",
+    "display_title": "Owner归属设置（专属客服/销售归属）",
+    "nav_order": 440,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "contact/lian-xi-ren-she-zhi/lian-xi-ren-shu-xing-she-zhi",
+    "parent_path": "contact/lian-xi-ren-she-zhi",
+    "display_title": "联系人属性设置",
+    "nav_order": 10,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "contact/lian-xi-ren-she-zhi/lian-xi-ren-biao-qian-she-zhi",
+    "parent_path": "contact/lian-xi-ren-she-zhi",
+    "display_title": "联系人标签设置",
+    "nav_order": 20,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "contact/lian-xi-ren-she-zhi/lian-xi-ren-shi-jian",
+    "parent_path": "contact/lian-xi-ren-she-zhi",
+    "display_title": "联系人事件",
+    "nav_order": 30,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "ctwa-click-to-whatsapp-ad/ctwa-jie-shao",
+    "parent_path": "ctwa-click-to-whatsapp-ad",
+    "display_title": "CTWA介绍",
+    "nav_order": 700,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "ctwa-click-to-whatsapp-ad/facebook-ads",
+    "parent_path": "ctwa-click-to-whatsapp-ad",
+    "display_title": "Meta CTWA 广告",
+    "nav_order": 710,
+    "node_kind": "container",
+    "home_doc_path": "ctwa-click-to-whatsapp-ad/facebook-ads/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "ctwa-click-to-whatsapp-ad/tiktok-messaging-ad",
+    "parent_path": "ctwa-click-to-whatsapp-ad",
+    "display_title": "TikTok 消息广告",
+    "nav_order": 720,
+    "node_kind": "container",
+    "home_doc_path": "ctwa-click-to-whatsapp-ad/tiktok-messaging-ad/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "ctwa-click-to-whatsapp-ad/jie-dai-ctwa-de-fang-ke",
+    "parent_path": "ctwa-click-to-whatsapp-ad",
+    "display_title": "接待CTWA的访客",
+    "nav_order": 730,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "ctwa-click-to-whatsapp-ad/ctwa-fen-xi",
+    "parent_path": "ctwa-click-to-whatsapp-ad",
+    "display_title": "CTWA分析",
+    "nav_order": 740,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "ctwa-click-to-whatsapp-ad/facebook-ads/connect-facebook-ad-account",
+    "parent_path": "ctwa-click-to-whatsapp-ad/facebook-ads",
+    "display_title": "连接Meta广告帐户",
+    "nav_order": 10,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "ctwa-click-to-whatsapp-ad/facebook-ads/chuang-jian-dian-ji-whatsapp-guang-gao-ctwa",
+    "parent_path": "ctwa-click-to-whatsapp-ad/facebook-ads",
+    "display_title": "创建点击WhatsApp广告（CTWA）",
+    "nav_order": 20,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "ctwa-click-to-whatsapp-ad/facebook-ads/zhuan-hua-api-capi",
+    "parent_path": "ctwa-click-to-whatsapp-ad/facebook-ads",
+    "display_title": "转化 API (CAPI)",
+    "nav_order": 30,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "ctwa-click-to-whatsapp-ad/tiktok-messaging-ad/tiktok-ad-introduction",
+    "parent_path": "ctwa-click-to-whatsapp-ad/tiktok-messaging-ad",
+    "display_title": "授权 TikTok 广告账户",
+    "nav_order": 10,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "ctwa-click-to-whatsapp-ad/tiktok-messaging-ad/create-tiktok-instant-messaging-ad",
+    "parent_path": "ctwa-click-to-whatsapp-ad/tiktok-messaging-ad",
+    "display_title": "创建TikTok 消息广告",
+    "nav_order": 20,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "ctwa-click-to-whatsapp-ad/tiktok-messaging-ad/tiktok-ad-traffic-delivery-tracking-and-conversion",
+    "parent_path": "ctwa-click-to-whatsapp-ad/tiktok-messaging-ad",
+    "display_title": "TikTok：流量承接、广告追踪与转化",
+    "nav_order": 30,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "developer/webhook",
+    "parent_path": "developer",
+    "display_title": "Webhook",
+    "nav_order": 930,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "developer/ip_whitelist",
+    "parent_path": "developer",
+    "display_title": "IP 白名单",
+    "nav_order": 940,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "huo-ban/he-zuo-huo-ban-wen-dang",
+    "parent_path": "huo-ban",
+    "display_title": "合作伙伴文档",
+    "nav_order": 1070,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "inbox/inbox-jie-shao",
+    "parent_path": "inbox",
+    "display_title": "Inbox介绍",
+    "nav_order": 230,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "inbox/chu-shi-inbox-jie-mian",
+    "parent_path": "inbox",
+    "display_title": "初识Inbox界面",
+    "nav_order": 240,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "inbox/zhu-guan-zhi-nan",
+    "parent_path": "inbox",
+    "display_title": "主管指南",
+    "nav_order": 250,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "inbox/ke-fu-zhi-nan",
+    "parent_path": "inbox",
+    "display_title": "客服指南",
+    "nav_order": 260,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "inbox/fa-qi-xin-liao-tian",
+    "parent_path": "inbox",
+    "display_title": "发起新聊天",
+    "nav_order": 270,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "inbox/kuai-jie-hui-fu",
+    "parent_path": "inbox",
+    "display_title": "快捷回复",
+    "nav_order": 280,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "inbox/huan-ying-xiao-xi",
+    "parent_path": "inbox",
+    "display_title": "欢迎消息",
+    "nav_order": 290,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "inbox/hui-hua-biao-qian",
+    "parent_path": "inbox",
+    "display_title": "会话标签",
+    "nav_order": 300,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "inbox/ai-copilot",
+    "parent_path": "inbox",
+    "display_title": "AI助手",
+    "nav_order": 310,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "inbox/hui-hua-ri-zhi",
+    "parent_path": "inbox",
+    "display_title": "会话日志",
+    "nav_order": 320,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "inbox/message-translation",
+    "parent_path": "inbox",
+    "display_title": "消息翻译",
+    "nav_order": 330,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "inbox/inbox-calling",
+    "parent_path": "inbox",
+    "display_title": "Inbox中发起语音通话",
+    "nav_order": 340,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "inbox/inbox-shu-ju-fen-xi",
+    "parent_path": "inbox",
+    "display_title": "Inbox数据分析",
+    "nav_order": 350,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "inbox/inbox-mobile-client",
+    "parent_path": "inbox",
+    "display_title": "Inbox手机客户端",
+    "nav_order": 360,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "inbox/zui-jia-shi-jian",
+    "parent_path": "inbox",
+    "display_title": "最佳实践",
+    "nav_order": 370,
+    "node_kind": "container",
+    "home_doc_path": "inbox/zui-jia-shi-jian/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "inbox/zui-jia-shi-jian/xiao-shou-tuan-dui-ru-he-shi-yong-inbox",
+    "parent_path": "inbox/zui-jia-shi-jian",
+    "display_title": "销售团队如何使用Inbox",
+    "nav_order": 10,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "inbox/zui-jia-shi-jian/fu-wu-tuan-dui-ru-he-shi-yong-inbox",
+    "parent_path": "inbox/zui-jia-shi-jian",
+    "display_title": "服务团队如何使用Inbox",
+    "nav_order": 20,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao",
+    "parent_path": "integrations",
+    "display_title": "渠道",
+    "nav_order": 850,
+    "node_kind": "container",
+    "home_doc_path": "integrations/qu-dao/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/you-hui-quan",
+    "parent_path": "integrations",
+    "display_title": "优惠券",
+    "nav_order": 860,
+    "node_kind": "container",
+    "home_doc_path": "integrations/you-hui-quan/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/dian-zi-shang-wu",
+    "parent_path": "integrations",
+    "display_title": "电子商务",
+    "nav_order": 870,
+    "node_kind": "container",
+    "home_doc_path": "integrations/dian-zi-shang-wu/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/freshdesk",
+    "parent_path": "integrations",
+    "display_title": "Freshdesk",
+    "nav_order": 880,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/hubspot",
+    "parent_path": "integrations",
+    "display_title": "Hubspot",
+    "nav_order": 890,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/data-connectors",
+    "parent_path": "integrations",
+    "display_title": "数据连接器",
+    "nav_order": 900,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/mm-lite-api",
+    "parent_path": "integrations",
+    "display_title": "MM Lite API",
+    "nav_order": 910,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/integrate_with_n8n",
+    "parent_path": "integrations",
+    "display_title": "通过n8n集成",
+    "nav_order": 920,
+    "node_kind": "container",
+    "home_doc_path": "integrations/integrate_with_n8n/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/dian-zi-shang-wu/shopify",
+    "parent_path": "integrations/dian-zi-shang-wu",
+    "display_title": "Shopify",
+    "nav_order": 10,
+    "node_kind": "container",
+    "home_doc_path": "integrations/dian-zi-shang-wu/shopify/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/dian-zi-shang-wu/shopify/cui-fu",
+    "parent_path": "integrations/dian-zi-shang-wu/shopify",
+    "display_title": "催付",
+    "nav_order": 10,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/dian-zi-shang-wu/shopify/cod-ding-dan-que-ren",
+    "parent_path": "integrations/dian-zi-shang-wu/shopify",
+    "display_title": "COD 订单确认",
+    "nav_order": 20,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/dian-zi-shang-wu/shopify/qu-xiao-ding-dan-ding-danlyue-ti-xing",
+    "parent_path": "integrations/dian-zi-shang-wu/shopify",
+    "display_title": "取消订单/订单履约 提醒",
+    "nav_order": 30,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/dian-zi-shang-wu/shopify/shopify-zui-jia-shi-jian",
+    "parent_path": "integrations/dian-zi-shang-wu/shopify",
+    "display_title": "Shopify最佳实践",
+    "nav_order": 40,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/integrate_with_n8n/n8n_aireply",
+    "parent_path": "integrations/integrate_with_n8n",
+    "display_title": "最佳实践：AI自动回复",
+    "nav_order": 10,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/integrate_with_n8n/n8n_hubspot",
+    "parent_path": "integrations/integrate_with_n8n",
+    "display_title": "最佳实践：HubSpot留资工具",
+    "nav_order": 20,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/quan-qiu-duan-xin",
+    "parent_path": "integrations/qu-dao",
+    "display_title": "全球短信",
+    "nav_order": 10,
+    "node_kind": "container",
+    "home_doc_path": "integrations/qu-dao/quan-qiu-duan-xin/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/verify-yan-zheng",
+    "parent_path": "integrations/qu-dao",
+    "display_title": "Verify验证",
+    "nav_order": 20,
+    "node_kind": "container",
+    "home_doc_path": "integrations/qu-dao/verify-yan-zheng/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/you-jian",
+    "parent_path": "integrations/qu-dao",
+    "display_title": "邮件",
+    "nav_order": 30,
+    "node_kind": "container",
+    "home_doc_path": "integrations/qu-dao/you-jian/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/quan-qiu-duan-xin/ru-men",
+    "parent_path": "integrations/qu-dao/quan-qiu-duan-xin",
+    "display_title": "入门",
+    "nav_order": 10,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/quan-qiu-duan-xin/duan-xin-ji-chu-yuan-li",
+    "parent_path": "integrations/qu-dao/quan-qiu-duan-xin",
+    "display_title": "短信基础原理",
+    "nav_order": 20,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/quan-qiu-duan-xin/duan-xin-gong-neng",
+    "parent_path": "integrations/qu-dao/quan-qiu-duan-xin",
+    "display_title": "短信功能",
+    "nav_order": 30,
+    "node_kind": "container",
+    "home_doc_path": "integrations/qu-dao/quan-qiu-duan-xin/duan-xin-gong-neng/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/quan-qiu-duan-xin/duan-xin-gong-neng/api-jie-kou",
+    "parent_path": "integrations/qu-dao/quan-qiu-duan-xin/duan-xin-gong-neng",
+    "display_title": "API接口",
+    "nav_order": 10,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/quan-qiu-duan-xin/duan-xin-gong-neng/smpp",
+    "parent_path": "integrations/qu-dao/quan-qiu-duan-xin/duan-xin-gong-neng",
+    "display_title": "SMPP",
+    "nav_order": 20,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/quan-qiu-duan-xin/duan-xin-gong-neng/qun-fa-xiao-xi",
+    "parent_path": "integrations/qu-dao/quan-qiu-duan-xin/duan-xin-gong-neng",
+    "display_title": "群发消息",
+    "nav_order": 30,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/quan-qiu-duan-xin/duan-xin-gong-neng/sender-id",
+    "parent_path": "integrations/qu-dao/quan-qiu-duan-xin/duan-xin-gong-neng",
+    "display_title": "Sender ID",
+    "nav_order": 40,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/verify-yan-zheng/ru-men",
+    "parent_path": "integrations/qu-dao/verify-yan-zheng",
+    "display_title": "入门",
+    "nav_order": 10,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/verify-yan-zheng/yan-zheng-gong-neng",
+    "parent_path": "integrations/qu-dao/verify-yan-zheng",
+    "display_title": "验证功能",
+    "nav_order": 20,
+    "node_kind": "container",
+    "home_doc_path": "integrations/qu-dao/verify-yan-zheng/yan-zheng-gong-neng/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/verify-yan-zheng/yan-zheng-zui-jia-shi-jian",
+    "parent_path": "integrations/qu-dao/verify-yan-zheng",
+    "display_title": "验证最佳实践",
+    "nav_order": 30,
+    "node_kind": "container",
+    "home_doc_path": "integrations/qu-dao/verify-yan-zheng/yan-zheng-zui-jia-shi-jian/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/verify-yan-zheng/yan-zheng-gong-neng/yan-zheng-xiao-xi-mu-ban",
+    "parent_path": "integrations/qu-dao/verify-yan-zheng/yan-zheng-gong-neng",
+    "display_title": "验证消息模板",
+    "nav_order": 10,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/verify-yan-zheng/yan-zheng-gong-neng/an-quan-she-zhi",
+    "parent_path": "integrations/qu-dao/verify-yan-zheng/yan-zheng-gong-neng",
+    "display_title": "安全设置",
+    "nav_order": 20,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/verify-yan-zheng/yan-zheng-gong-neng/yan-zheng-fen-xi",
+    "parent_path": "integrations/qu-dao/verify-yan-zheng/yan-zheng-gong-neng",
+    "display_title": "验证分析",
+    "nav_order": 30,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/verify-yan-zheng/yan-zheng-gong-neng/zi-ding-yi-otp",
+    "parent_path": "integrations/qu-dao/verify-yan-zheng/yan-zheng-gong-neng",
+    "display_title": "自定义OTP",
+    "nav_order": 40,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/verify-yan-zheng/yan-zheng-zui-jia-shi-jian/zui-jia-shi-jian",
+    "parent_path": "integrations/qu-dao/verify-yan-zheng/yan-zheng-zui-jia-shi-jian",
+    "display_title": "最佳实践",
+    "nav_order": 10,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/verify-yan-zheng/yan-zheng-zui-jia-shi-jian/yan-zheng-tong-dao-xuan-ze",
+    "parent_path": "integrations/qu-dao/verify-yan-zheng/yan-zheng-zui-jia-shi-jian",
+    "display_title": "验证通道选择",
+    "nav_order": 20,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/verify-yan-zheng/yan-zheng-zui-jia-shi-jian/tong-guo-whatsapp-yan-zheng",
+    "parent_path": "integrations/qu-dao/verify-yan-zheng/yan-zheng-zui-jia-shi-jian",
+    "display_title": "通过WhatsApp验证",
+    "nav_order": 30,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/verify-yan-zheng/yan-zheng-zui-jia-shi-jian/fang-zhi-qi-zha-he-wu-xiao-zhu-ce",
+    "parent_path": "integrations/qu-dao/verify-yan-zheng/yan-zheng-zui-jia-shi-jian",
+    "display_title": "防止欺诈和无效注册",
+    "nav_order": 40,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/you-jian/ru-men",
+    "parent_path": "integrations/qu-dao/you-jian",
+    "display_title": "入门",
+    "nav_order": 10,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/you-jian/ji-chu-yuan-li",
+    "parent_path": "integrations/qu-dao/you-jian",
+    "display_title": "基础原理",
+    "nav_order": 20,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/you-jian/you-jian-gong-neng",
+    "parent_path": "integrations/qu-dao/you-jian",
+    "display_title": "邮件功能",
+    "nav_order": 30,
+    "node_kind": "container",
+    "home_doc_path": "integrations/qu-dao/you-jian/you-jian-gong-neng/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/you-jian/dian-zi-you-jian-de-zui-jia-shi-jian",
+    "parent_path": "integrations/qu-dao/you-jian",
+    "display_title": "电子邮件的最佳实践",
+    "nav_order": 40,
+    "node_kind": "container",
+    "home_doc_path": "integrations/qu-dao/you-jian/dian-zi-you-jian-de-zui-jia-shi-jian/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/you-jian/dian-zi-you-jian-de-zui-jia-shi-jian/du-li-de-ying-xiao-zi-yu-ming",
+    "parent_path": "integrations/qu-dao/you-jian/dian-zi-you-jian-de-zui-jia-shi-jian",
+    "display_title": "独立的营销子域名",
+    "nav_order": 10,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/you-jian/dian-zi-you-jian-de-zui-jia-shi-jian/yu-re-fa-song",
+    "parent_path": "integrations/qu-dao/you-jian/dian-zi-you-jian-de-zui-jia-shi-jian",
+    "display_title": "预热发送",
+    "nav_order": 20,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/you-jian/you-jian-gong-neng/yu-ming-pei-zhi",
+    "parent_path": "integrations/qu-dao/you-jian/you-jian-gong-neng",
+    "display_title": "域名配置",
+    "nav_order": 10,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/you-jian/you-jian-gong-neng/tong-guo-api-fa-song-you-jian",
+    "parent_path": "integrations/qu-dao/you-jian/you-jian-gong-neng",
+    "display_title": "通过API发送邮件",
+    "nav_order": 20,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/qu-dao/you-jian/you-jian-gong-neng/jian-kong-he-you-hua",
+    "parent_path": "integrations/qu-dao/you-jian/you-jian-gong-neng",
+    "display_title": "监控和优化",
+    "nav_order": 30,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations/you-hui-quan/you-hui-quan-gong-ju-shi-yong",
+    "parent_path": "integrations/you-hui-quan",
+    "display_title": "优惠券工具使用",
+    "nav_order": 10,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "journey/journey-jie-shao",
+    "parent_path": "journey",
+    "display_title": "Journey介绍",
+    "nav_order": 540,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "journey/chuang-jian-yi-ge-journey",
+    "parent_path": "journey",
+    "display_title": "创建一个Journey",
+    "nav_order": 550,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "journey/zu-jian-he-gong-neng-jie-shao",
+    "parent_path": "journey",
+    "display_title": "组件和功能介绍",
+    "nav_order": 560,
+    "node_kind": "container",
+    "home_doc_path": "journey/zu-jian-he-gong-neng-jie-shao/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "journey/journey-zui-jia-shi-jian",
+    "parent_path": "journey",
+    "display_title": "Journey最佳实践",
+    "nav_order": 570,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "journey/zu-jian-he-gong-neng-jie-shao/trigger",
+    "parent_path": "journey/zu-jian-he-gong-neng-jie-shao",
+    "display_title": "Trigger",
+    "nav_order": 10,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "journey/zu-jian-he-gong-neng-jie-shao/send-template",
+    "parent_path": "journey/zu-jian-he-gong-neng-jie-shao",
+    "display_title": "Send template",
+    "nav_order": 20,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "journey/zu-jian-he-gong-neng-jie-shao/message-status-rule",
+    "parent_path": "journey/zu-jian-he-gong-neng-jie-shao",
+    "display_title": "Message status rule",
+    "nav_order": 30,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "journey/zu-jian-he-gong-neng-jie-shao/add-tag",
+    "parent_path": "journey/zu-jian-he-gong-neng-jie-shao",
+    "display_title": "Add tag",
+    "nav_order": 40,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "journey/zu-jian-he-gong-neng-jie-shao/wait",
+    "parent_path": "journey/zu-jian-he-gong-neng-jie-shao",
+    "display_title": "Wait",
+    "nav_order": 50,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "kuai-su-ru-men/chuang-jian-whatsapp-business-api-zhang-hu",
+    "parent_path": "kuai-su-ru-men",
+    "display_title": "创建WhatsApp Business API账户",
+    "nav_order": 30,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "kuai-su-ru-men/tong-guo-whatsapp-fa-song-yan-zheng-ma",
+    "parent_path": "kuai-su-ru-men",
+    "display_title": "通过WhatsApp发送验证码",
+    "nav_order": 40,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "kuai-su-ru-men/tong-guo-whatsapp-fa-song-tong-zhi-xiao-xi",
+    "parent_path": "kuai-su-ru-men",
+    "display_title": "通过WhatsApp发送通知消息",
+    "nav_order": 50,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "kuai-su-ru-men/huo-qu-geng-duo-ke-hu-ctwa",
+    "parent_path": "kuai-su-ru-men",
+    "display_title": "获取更多客户（CTWA）",
+    "nav_order": 60,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "kuai-su-ru-men/tong-guo-whatsapp-kai-zhan-ying-xiao",
+    "parent_path": "kuai-su-ru-men",
+    "display_title": "通过 WhatsApp 开展营销",
+    "nav_order": 70,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "kuai-su-ru-men/tong-guo-whatsapp-jin-xing-ke-hu-zhi-chi",
+    "parent_path": "kuai-su-ru-men",
+    "display_title": "通过 WhatsApp 进行客户支持",
+    "nav_order": 80,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "pricing-and-billing/whatsapp-dui-hua-ji-fei-gui-ze",
+    "parent_path": "pricing-and-billing",
+    "display_title": "WhatsApp对话计费规则",
+    "nav_order": 1010,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "pricing-and-billing/billing-rule",
+    "parent_path": "pricing-and-billing",
+    "display_title": "WhatsApp消息计费规则",
+    "nav_order": 1020,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "pricing-and-billing/subscription-expiration-and-15-day-buffer-period",
+    "parent_path": "pricing-and-billing",
+    "display_title": "订阅过期与缓冲期",
+    "nav_order": 1030,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "pricing-and-billing/jinedong-jie-he-jie-dong",
+    "parent_path": "pricing-and-billing",
+    "display_title": "金额冻结和解冻",
+    "nav_order": 1040,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "pricing-and-billing/zhang-dan-he-chong-zhi",
+    "parent_path": "pricing-and-billing",
+    "display_title": "账单和充值",
+    "nav_order": 1050,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "pricing-and-billing/di-yuegao-jing",
+    "parent_path": "pricing-and-billing",
+    "display_title": "低余额告警",
+    "nav_order": 1060,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "shop/overview",
+    "parent_path": "shop",
+    "display_title": "店铺介绍",
+    "nav_order": 750,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "shop/creatstore",
+    "parent_path": "shop",
+    "display_title": "创建店铺",
+    "nav_order": 760,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "shop/shipping",
+    "parent_path": "shop",
+    "display_title": "运费设置",
+    "nav_order": 770,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "shop/zhi-fu-she-zhi",
+    "parent_path": "shop",
+    "display_title": "支付设置",
+    "nav_order": 780,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "shop/product",
+    "parent_path": "shop",
+    "display_title": "商品管理",
+    "nav_order": 790,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "shop/ding-dan-guan-li",
+    "parent_path": "shop",
+    "display_title": "订单管理",
+    "nav_order": 800,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "shop/orders/shipping-import",
+    "parent_path": "shop/orders",
+    "display_title": "物流信息批量导入",
+    "nav_order": 10,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "update-log/update.oct",
+    "parent_path": "update-log",
+    "display_title": "【10月更新】WhatsApp 价格更新 & 消息限额规则更新",
+    "nav_order": 10,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-accounts-zhang-hao-guan-li/chuang-jian-whatsapp-api-zhang-hao",
+    "parent_path": "whatsapp-accounts-zhang-hao-guan-li",
+    "display_title": "创建 WhatsApp API 账号",
+    "nav_order": 180,
+    "node_kind": "container",
+    "home_doc_path": "whatsapp-accounts-zhang-hao-guan-li/chuang-jian-whatsapp-api-zhang-hao/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-accounts-zhang-hao-guan-li/mu-ban-guan-li",
+    "parent_path": "whatsapp-accounts-zhang-hao-guan-li",
+    "display_title": "模板管理",
+    "nav_order": 190,
+    "node_kind": "container",
+    "home_doc_path": "whatsapp-accounts-zhang-hao-guan-li/mu-ban-guan-li/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-accounts-zhang-hao-guan-li/shou-ji-hao-ma-guan-li",
+    "parent_path": "whatsapp-accounts-zhang-hao-guan-li",
+    "display_title": "手机号码管理",
+    "nav_order": 200,
+    "node_kind": "container",
+    "home_doc_path": "whatsapp-accounts-zhang-hao-guan-li/shou-ji-hao-ma-guan-li/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-accounts-zhang-hao-guan-li/zhang-hu-jin-yong-yu-chu-li",
+    "parent_path": "whatsapp-accounts-zhang-hao-guan-li",
+    "display_title": "账户禁用与处理",
+    "nav_order": 210,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-accounts-zhang-hao-guan-li/shu-ju-fen-xi",
+    "parent_path": "whatsapp-accounts-zhang-hao-guan-li",
+    "display_title": "数据分析",
+    "nav_order": 220,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-accounts-zhang-hao-guan-li/chuang-jian-whatsapp-api-zhang-hao/tong-guo-qian-ru-shi-zhu-ce-chuang-jian-waba",
+    "parent_path": "whatsapp-accounts-zhang-hao-guan-li/chuang-jian-whatsapp-api-zhang-hao",
+    "display_title": "通过嵌入式注册创建WABA",
+    "nav_order": 10,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-accounts-zhang-hao-guan-li/chuang-jian-whatsapp-api-zhang-hao/tian-jia-hao-ma",
+    "parent_path": "whatsapp-accounts-zhang-hao-guan-li/chuang-jian-whatsapp-api-zhang-hao",
+    "display_title": "添加号码",
+    "nav_order": 20,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-accounts-zhang-hao-guan-li/chuang-jian-whatsapp-api-zhang-hao/hao-ma-qian-yi",
+    "parent_path": "whatsapp-accounts-zhang-hao-guan-li/chuang-jian-whatsapp-api-zhang-hao",
+    "display_title": "号码迁移",
+    "nav_order": 30,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-accounts-zhang-hao-guan-li/chuang-jian-whatsapp-api-zhang-hao/whatsapp-business-app-coexistence",
+    "parent_path": "whatsapp-accounts-zhang-hao-guan-li/chuang-jian-whatsapp-api-zhang-hao",
+    "display_title": "WhatsApp Business App共存",
+    "nav_order": 40,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-accounts-zhang-hao-guan-li/mu-ban-guan-li/chuang-jian-mu-ban",
+    "parent_path": "whatsapp-accounts-zhang-hao-guan-li/mu-ban-guan-li",
+    "display_title": "创建模板",
+    "nav_order": 10,
+    "node_kind": "container",
+    "home_doc_path": "whatsapp-accounts-zhang-hao-guan-li/mu-ban-guan-li/chuang-jian-mu-ban/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-accounts-zhang-hao-guan-li/mu-ban-guan-li/fu-zhi-mu-ban",
+    "parent_path": "whatsapp-accounts-zhang-hao-guan-li/mu-ban-guan-li",
+    "display_title": "复制模板",
+    "nav_order": 20,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-accounts-zhang-hao-guan-li/mu-ban-guan-li/mu-ban-shu-ju-tong-ji",
+    "parent_path": "whatsapp-accounts-zhang-hao-guan-li/mu-ban-guan-li",
+    "display_title": "模板数据统计",
+    "nav_order": 30,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-accounts-zhang-hao-guan-li/mu-ban-guan-li/chuang-jian-mu-ban/chuang-jian-whatsapp-flows-mo-ban",
+    "parent_path": "whatsapp-accounts-zhang-hao-guan-li/mu-ban-guan-li/chuang-jian-mu-ban",
+    "display_title": "创建WhatsApp Flows模版",
+    "nav_order": 10,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-accounts-zhang-hao-guan-li/mu-ban-guan-li/chuang-jian-mu-ban/chuang-jian-whatsapp-pay-mo-ban",
+    "parent_path": "whatsapp-accounts-zhang-hao-guan-li/mu-ban-guan-li/chuang-jian-mu-ban",
+    "display_title": "创建WhatsApp Pay模版",
+    "nav_order": 20,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-accounts-zhang-hao-guan-li/mu-ban-guan-li/chuang-jian-mu-ban/ai-sheng-cheng-ying-xiao-mu-ban",
+    "parent_path": "whatsapp-accounts-zhang-hao-guan-li/mu-ban-guan-li/chuang-jian-mu-ban",
+    "display_title": "AI生成营销模板",
+    "nav_order": 30,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-accounts-zhang-hao-guan-li/shou-ji-hao-ma-guan-li/hao-ma-ni-cheng-she-zhi",
+    "parent_path": "whatsapp-accounts-zhang-hao-guan-li/shou-ji-hao-ma-guan-li",
+    "display_title": "号码昵称设置",
+    "nav_order": 10,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-accounts-zhang-hao-guan-li/shou-ji-hao-ma-guan-li/hao-ma-jian-jie-she-zhi",
+    "parent_path": "whatsapp-accounts-zhang-hao-guan-li/shou-ji-hao-ma-guan-li",
+    "display_title": "号码简介设置",
+    "nav_order": 20,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-accounts-zhang-hao-guan-li/shou-ji-hao-ma-guan-li/dui-hua-fen-pei-gui-ze",
+    "parent_path": "whatsapp-accounts-zhang-hao-guan-li/shou-ji-hao-ma-guan-li",
+    "display_title": "对话分配规则",
+    "nav_order": 30,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-accounts-zhang-hao-guan-li/shou-ji-hao-ma-guan-li/zi-dong-hua",
+    "parent_path": "whatsapp-accounts-zhang-hao-guan-li/shou-ji-hao-ma-guan-li",
+    "display_title": "自动化",
+    "nav_order": 40,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-accounts-zhang-hao-guan-li/shou-ji-hao-ma-guan-li/liao-tian-lian-jie",
+    "parent_path": "whatsapp-accounts-zhang-hao-guan-li/shou-ji-hao-ma-guan-li",
+    "display_title": "聊天链接",
+    "nav_order": 50,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-ji-chu/whatsapp-shang-ye-zhang-hao-waba",
+    "parent_path": "whatsapp-ji-chu",
+    "display_title": "WhatsApp 商业帐号（WABA）",
+    "nav_order": 90,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-ji-chu/whatsapp-zhang-hu-jie-gou",
+    "parent_path": "whatsapp-ji-chu",
+    "display_title": "WhatsApp帐户结构",
+    "nav_order": 100,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-ji-chu/shou-ji-hao-ma",
+    "parent_path": "whatsapp-ji-chu",
+    "display_title": "手机号码",
+    "nav_order": 110,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-ji-chu/xiao-xi",
+    "parent_path": "whatsapp-ji-chu",
+    "display_title": "消息",
+    "nav_order": 120,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-ji-chu/xiao-xi-mu-ban",
+    "parent_path": "whatsapp-ji-chu",
+    "display_title": "消息模板",
+    "nav_order": 130,
+    "node_kind": "container",
+    "home_doc_path": "whatsapp-ji-chu/xiao-xi-mu-ban/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-ji-chu/whatsapp-flows",
+    "parent_path": "whatsapp-ji-chu",
+    "display_title": "WhatsApp Flows",
+    "nav_order": 140,
+    "node_kind": "container",
+    "home_doc_path": "whatsapp-ji-chu/whatsapp-flows/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-ji-chu/qi-ye-ren-zheng",
+    "parent_path": "whatsapp-ji-chu",
+    "display_title": "BM企业认证",
+    "nav_order": 150,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-ji-chu/green-tick-verification",
+    "parent_path": "whatsapp-ji-chu",
+    "display_title": "官方账号验证",
+    "nav_order": 160,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-ji-chu/he-gui-xin-xi",
+    "parent_path": "whatsapp-ji-chu",
+    "display_title": "合规信息",
+    "nav_order": 170,
+    "node_kind": "container",
+    "home_doc_path": "whatsapp-ji-chu/he-gui-xin-xi/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-ji-chu/he-gui-xin-xi/xuan-ze-ding-yue-whatsappoptin",
+    "parent_path": "whatsapp-ji-chu/he-gui-xin-xi",
+    "display_title": "选择订阅WhatsApp（Opt-in）",
+    "nav_order": 10,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-ji-chu/he-gui-xin-xi/xuan-ze-tui-ding-whatsappoptout",
+    "parent_path": "whatsapp-ji-chu/he-gui-xin-xi",
+    "display_title": "选择退订WhatsApp（Opt-out）",
+    "nav_order": 20,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-ji-chu/whatsapp-flows/chuang-jian-whatsapp-flows",
+    "parent_path": "whatsapp-ji-chu/whatsapp-flows",
+    "display_title": "创建WhatsApp Flows",
+    "nav_order": 10,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-ji-chu/whatsapp-flows/fa-song-whatsapp-flows",
+    "parent_path": "whatsapp-ji-chu/whatsapp-flows",
+    "display_title": "发送WhatsApp Flows",
+    "nav_order": 20,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-ji-chu/whatsapp-flows/fen-xi-whatsapp-flows",
+    "parent_path": "whatsapp-ji-chu/whatsapp-flows",
+    "display_title": "分析WhatsApp Flows",
+    "nav_order": 30,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-ji-chu/xiao-xi-mu-ban/shen-fen-yan-zheng-xiao-xi-mu-ban",
+    "parent_path": "whatsapp-ji-chu/xiao-xi-mu-ban",
+    "display_title": "身份验证消息模板",
+    "nav_order": 10,
+    "node_kind": "container",
+    "home_doc_path": "whatsapp-ji-chu/xiao-xi-mu-ban/shen-fen-yan-zheng-xiao-xi-mu-ban/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-ji-chu/xiao-xi-mu-ban/catalog-mu-ban",
+    "parent_path": "whatsapp-ji-chu/xiao-xi-mu-ban",
+    "display_title": "Catalog模板",
+    "nav_order": 20,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-ji-chu/xiao-xi-mu-ban/carousel-template",
+    "parent_path": "whatsapp-ji-chu/xiao-xi-mu-ban",
+    "display_title": "轮播模板",
+    "nav_order": 30,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-ji-chu/xiao-xi-mu-ban/you-hui-quan-code-mu-ban",
+    "parent_path": "whatsapp-ji-chu/xiao-xi-mu-ban",
+    "display_title": "优惠券Code模板",
+    "nav_order": 40,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-ji-chu/xiao-xi-mu-ban/limited-time-offer-template",
+    "parent_path": "whatsapp-ji-chu/xiao-xi-mu-ban",
+    "display_title": "限时优惠模板",
+    "nav_order": 50,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-ji-chu/xiao-xi-mu-ban/duo-chan-pin-xiao-xi-mu-ban",
+    "parent_path": "whatsapp-ji-chu/xiao-xi-mu-ban",
+    "display_title": "多产品消息模板",
+    "nav_order": 60,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-ji-chu/xiao-xi-mu-ban/shen-fen-yan-zheng-xiao-xi-mu-ban/fu-zhi-yan-zheng-ma-shen-fen-yan-zheng-mu-ban",
+    "parent_path": "whatsapp-ji-chu/xiao-xi-mu-ban/shen-fen-yan-zheng-xiao-xi-mu-ban",
+    "display_title": "复制验证码身份验证模板",
+    "nav_order": 10,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-ji-chu/xiao-xi-mu-ban/shen-fen-yan-zheng-xiao-xi-mu-ban/yi-jian-zi-dong-tian-chong-shen-fen-yan-zheng-mu-ban",
+    "parent_path": "whatsapp-ji-chu/xiao-xi-mu-ban/shen-fen-yan-zheng-xiao-xi-mu-ban",
+    "display_title": "一键自动填充身份验证模板",
+    "nav_order": 20,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-ji-chu/xiao-xi-mu-ban/shen-fen-yan-zheng-xiao-xi-mu-ban/ling-dian-ji-shen-fen-yan-zheng-mu-ban",
+    "parent_path": "whatsapp-ji-chu/xiao-xi-mu-ban/shen-fen-yan-zheng-xiao-xi-mu-ban",
+    "display_title": "零点击身份验证模板",
+    "nav_order": 30,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-pay/overview",
+    "parent_path": "whatsapp-pay",
+    "display_title": "WhatsApp pay介绍",
+    "nav_order": 810,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-pay/link-your-payment-account",
+    "parent_path": "whatsapp-pay",
+    "display_title": "连接你的收款账户",
+    "nav_order": 820,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-pay/send-order-detail",
+    "parent_path": "whatsapp-pay",
+    "display_title": "发送订单详情信息",
+    "nav_order": 830,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-pay/update-order-status",
+    "parent_path": "whatsapp-pay",
+    "display_title": "更新订单状态",
+    "nav_order": 840,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "zhang-hu-guan-li/qi-ye-zhang-hu-xin-xi",
+    "parent_path": "zhang-hu-guan-li",
+    "display_title": "企业账户信息",
+    "nav_order": 950,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "zhang-hu-guan-li/yong-hu-he-tuan-dui",
+    "parent_path": "zhang-hu-guan-li",
+    "display_title": "用户和团队",
+    "nav_order": 960,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "zhang-hu-guan-li/xu-ni-zuo-xi",
+    "parent_path": "zhang-hu-guan-li",
+    "display_title": "虚拟坐席",
+    "nav_order": 970,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "zhang-hu-guan-li/ge-ren-pian-hao-she-zhi",
+    "parent_path": "zhang-hu-guan-li",
+    "display_title": "个人偏好设置",
+    "nav_order": 980,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "zhang-hu-guan-li/an-quan-he-yin-si",
+    "parent_path": "zhang-hu-guan-li",
+    "display_title": "安全和隐私",
+    "nav_order": 990,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "zhang-hu-guan-li/notify",
+    "parent_path": "zhang-hu-guan-li",
+    "display_title": "通知和告警",
+    "nav_order": 1000,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "zhi-chi/ycloud-zhi-chi-tuan-dui",
+    "parent_path": "zhi-chi",
+    "display_title": "YCloud支持团队",
+    "nav_order": 1080,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "zhi-chi/meta-zhi-chi",
+    "parent_path": "zhi-chi",
+    "display_title": "Meta支持",
+    "nav_order": 1090,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "zhi-chi/chang-jian-wen-ti",
+    "parent_path": "zhi-chi",
+    "display_title": "常见问题",
+    "nav_order": 1100,
+    "node_kind": "document",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  }
+]
