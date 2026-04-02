@@ -13,9 +13,9 @@ translation_status: source
 source_system: gitbook
 source_external_id: 
 source_revision: 
-created_at: 2026-04-02T11:07:53.930Z
-updated_at: 2026-04-02T11:07:53.930Z
-last_synced_at: 2026-04-02T11:07:53.930Z
+created_at: 2026-04-02T11:18:35.500Z
+updated_at: 2026-04-02T11:18:35.500Z
+last_synced_at: 2026-04-02T11:18:35.500Z
 tags:
 ---
 
