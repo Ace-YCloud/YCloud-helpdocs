@@ -34,14 +34,14 @@ description: 本文档介绍了限时优惠模板及其使用方法。
 如果发送消息时设置了有效期，且优惠仍在有效期内，限时优惠组件会显示截止时间和优惠码。\
 如果模板中配置了“复制优惠码（Copy Code）”按钮，用户可以直接复制优惠码。
 
-<figure><img src="../../.gitbook/assets/limited-time offer-demo-2.png" alt="" width="311"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/limited-time offer-demo-2.png" alt="" width="156"><figcaption></figcaption></figure>
 
 **3. 设置有效期后，优惠已过期时**
 
 如果优惠已超过设置的有效期，限时优惠组件会显示 `Offer ended`。\
 同时，“复制优惠码（Copy Code）”按钮会消失，用户无法再复制优惠码。
 
-<figure><img src="../../.gitbook/assets/limited-time-offer-demo-3-expired.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/limited-time-offer-demo-3-expired.png" alt="" width="188"><figcaption></figcaption></figure>
 
 ### 创建限时优惠模版
 
