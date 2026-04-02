@@ -9,87 +9,6 @@
     "locale": "zh-CN"
   },
   {
-    "path": "chatbot",
-    "parent_path": null,
-    "display_title": "🤖 Chatbot",
-    "nav_order": 10,
-    "node_kind": "container",
-    "home_doc_path": null,
-    "locale": "zh-CN"
-  },
-  {
-    "path": "contact",
-    "parent_path": null,
-    "display_title": "📘 Contact",
-    "nav_order": 10,
-    "node_kind": "container",
-    "home_doc_path": null,
-    "locale": "zh-CN"
-  },
-  {
-    "path": "ctwa-click-to-whatsapp-ad",
-    "parent_path": null,
-    "display_title": "📢 CTWA（点击WhatsApp广告）",
-    "nav_order": 10,
-    "node_kind": "container",
-    "home_doc_path": null,
-    "locale": "zh-CN"
-  },
-  {
-    "path": "inbox",
-    "parent_path": null,
-    "display_title": "📫 Inbox",
-    "nav_order": 10,
-    "node_kind": "container",
-    "home_doc_path": null,
-    "locale": "zh-CN"
-  },
-  {
-    "path": "integrations",
-    "parent_path": null,
-    "display_title": "🔌 Integrations",
-    "nav_order": 10,
-    "node_kind": "container",
-    "home_doc_path": null,
-    "locale": "zh-CN"
-  },
-  {
-    "path": "journey",
-    "parent_path": null,
-    "display_title": "🧩 Journey",
-    "nav_order": 10,
-    "node_kind": "container",
-    "home_doc_path": null,
-    "locale": "zh-CN"
-  },
-  {
-    "path": "shop",
-    "parent_path": null,
-    "display_title": "Shop",
-    "nav_order": 10,
-    "node_kind": "container",
-    "home_doc_path": null,
-    "locale": "zh-CN"
-  },
-  {
-    "path": "whatsapp-accounts-zhang-hao-guan-li",
-    "parent_path": null,
-    "display_title": "💡 WhatsApp accounts (账号管理）",
-    "nav_order": 10,
-    "node_kind": "container",
-    "home_doc_path": null,
-    "locale": "zh-CN"
-  },
-  {
-    "path": "whatsapp-ji-chu",
-    "parent_path": null,
-    "display_title": "✅ WhatsApp 基础",
-    "nav_order": 10,
-    "node_kind": "container",
-    "home_doc_path": null,
-    "locale": "zh-CN"
-  },
-  {
     "path": "update-log",
     "parent_path": null,
     "display_title": "🆙 更新日志",
@@ -103,6 +22,42 @@
     "parent_path": null,
     "display_title": "🚀 快速入门",
     "nav_order": 30,
+    "node_kind": "container",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-ji-chu",
+    "parent_path": null,
+    "display_title": "✅ WhatsApp 基础",
+    "nav_order": 90,
+    "node_kind": "container",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-accounts-zhang-hao-guan-li",
+    "parent_path": null,
+    "display_title": "💡 WhatsApp accounts (账号管理）",
+    "nav_order": 180,
+    "node_kind": "container",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "inbox",
+    "parent_path": null,
+    "display_title": "📫 Inbox",
+    "nav_order": 230,
+    "node_kind": "container",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "contact",
+    "parent_path": null,
+    "display_title": "📘 Contact",
+    "nav_order": 380,
     "node_kind": "container",
     "home_doc_path": null,
     "locale": "zh-CN"
@@ -126,10 +81,55 @@
     "locale": "zh-CN"
   },
   {
+    "path": "journey",
+    "parent_path": null,
+    "display_title": "🧩 Journey",
+    "nav_order": 540,
+    "node_kind": "container",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "chatbot",
+    "parent_path": null,
+    "display_title": "🤖 Chatbot",
+    "nav_order": 580,
+    "node_kind": "container",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "ctwa-click-to-whatsapp-ad",
+    "parent_path": null,
+    "display_title": "📢 CTWA（点击WhatsApp广告）",
+    "nav_order": 700,
+    "node_kind": "container",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "shop",
+    "parent_path": null,
+    "display_title": "Shop",
+    "nav_order": 750,
+    "node_kind": "container",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
     "path": "whatsapp-pay",
     "parent_path": null,
     "display_title": "💰 WhatsApp pay",
     "nav_order": 810,
+    "node_kind": "container",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations",
+    "parent_path": null,
+    "display_title": "🔌 Integrations",
+    "nav_order": 850,
     "node_kind": "container",
     "home_doc_path": null,
     "locale": "zh-CN"
