@@ -9,12 +9,174 @@
     "locale": "zh-CN"
   },
   {
+    "path": "chatbot",
+    "parent_path": null,
+    "display_title": "🤖 Chatbot",
+    "nav_order": 10,
+    "node_kind": "container",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "contact",
+    "parent_path": null,
+    "display_title": "📘 Contact",
+    "nav_order": 10,
+    "node_kind": "container",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "ctwa-click-to-whatsapp-ad",
+    "parent_path": null,
+    "display_title": "📢 CTWA（点击WhatsApp广告） <a href=\"#ctwa-click-to-whatsapp-ad\" id=\"ctwa-click-to-whatsapp-ad\"></a>",
+    "nav_order": 10,
+    "node_kind": "container",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "inbox",
+    "parent_path": null,
+    "display_title": "📫 Inbox",
+    "nav_order": 10,
+    "node_kind": "container",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "integrations",
+    "parent_path": null,
+    "display_title": "🔌 Integrations",
+    "nav_order": 10,
+    "node_kind": "container",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "journey",
+    "parent_path": null,
+    "display_title": "🧩 Journey",
+    "nav_order": 10,
+    "node_kind": "container",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "shop",
+    "parent_path": null,
+    "display_title": "Shop",
+    "nav_order": 10,
+    "node_kind": "container",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-accounts-zhang-hao-guan-li",
+    "parent_path": null,
+    "display_title": "💡 WhatsApp accounts (账号管理）",
+    "nav_order": 10,
+    "node_kind": "container",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-ji-chu",
+    "parent_path": null,
+    "display_title": "✅ WhatsApp 基础",
+    "nav_order": 10,
+    "node_kind": "container",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
     "path": "update-log",
     "parent_path": null,
     "display_title": "🆙 更新日志",
     "nav_order": 20,
     "node_kind": "container",
     "home_doc_path": "update-log/index",
+    "locale": "zh-CN"
+  },
+  {
+    "path": "kuai-su-ru-men",
+    "parent_path": null,
+    "display_title": "🚀 快速入门",
+    "nav_order": 30,
+    "node_kind": "container",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "calling",
+    "parent_path": null,
+    "display_title": "📞 Calling",
+    "nav_order": 450,
+    "node_kind": "container",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "campaign",
+    "parent_path": null,
+    "display_title": "🎯 Campaign",
+    "nav_order": 510,
+    "node_kind": "container",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "whatsapp-pay",
+    "parent_path": null,
+    "display_title": "💰 WhatsApp pay",
+    "nav_order": 810,
+    "node_kind": "container",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "developer",
+    "parent_path": null,
+    "display_title": "Developer",
+    "nav_order": 930,
+    "node_kind": "container",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "zhang-hu-guan-li",
+    "parent_path": null,
+    "display_title": "⚙️ 账户管理",
+    "nav_order": 950,
+    "node_kind": "container",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "pricing-and-billing",
+    "parent_path": null,
+    "display_title": "💰 定价和计费 <a href=\"#pricing-and-billing\" id=\"pricing-and-billing\"></a>",
+    "nav_order": 1010,
+    "node_kind": "container",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "huo-ban",
+    "parent_path": null,
+    "display_title": "👐 伙伴",
+    "nav_order": 1070,
+    "node_kind": "container",
+    "home_doc_path": null,
+    "locale": "zh-CN"
+  },
+  {
+    "path": "zhi-chi",
+    "parent_path": null,
+    "display_title": "🆘 支持",
+    "nav_order": 1080,
+    "node_kind": "container",
+    "home_doc_path": null,
     "locale": "zh-CN"
   },
   {
