@@ -30,6 +30,12 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/CONTACT-SEGMENT=AD-CODE-T1.png" alt=""><figcaption></figcaption></figure>
 
+其中
+
+* Source = AD：代表这个联系人首次与您的号码联系时，是来自于Meta广告
+* Source URL：这个联系人首次与您的号码联系时，来自Meta的哪1个广告链接
+* Source ID：这个联系人首次与您的号码联系时，来自Meta的哪1个广告ID
+
 {% hint style="info" %}
 如果广告已经上线，但您暂时还没有看到任何会话或数据，请先检查：
 
