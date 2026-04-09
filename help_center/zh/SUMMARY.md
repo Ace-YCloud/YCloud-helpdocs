@@ -153,7 +153,7 @@
 * [Meta CTWA 广告](ctwa-click-to-whatsapp-ad/facebook-ads/README.md)
   * [连接Meta广告帐户](ctwa-click-to-whatsapp-ad/facebook-ads/connect-facebook-ad-account.md)
   * [创建点击WhatsApp广告（CTWA）](ctwa-click-to-whatsapp-ad/facebook-ads/chuang-jian-dian-ji-whatsapp-guang-gao-ctwa.md)
-  * [Meta广告: 流量承接 & 转化上报](ctwa-click-to-whatsapp-ad/facebook-ads/meta-guang-gao-liu-liang-cheng-jie-zhuan-hua-shang-bao.md)
+  * [Meta广告: 流量承接 & 转化回传](ctwa-click-to-whatsapp-ad/facebook-ads/meta-guang-gao-liu-liang-cheng-jie-zhuan-hua-hui-chuan.md)
 * [TikTok 消息广告](ctwa-click-to-whatsapp-ad/tiktok-messaging-ad/README.md)
   * [授权 TikTok 广告账户](ctwa-click-to-whatsapp-ad/tiktok-messaging-ad/tiktok-ad-introduction.md)
   * [创建TikTok 消息广告](ctwa-click-to-whatsapp-ad/tiktok-messaging-ad/create-tiktok-instant-messaging-ad.md)
