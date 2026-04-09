@@ -157,7 +157,7 @@
 * [TikTok 消息广告](ctwa-click-to-whatsapp-ad/tiktok-messaging-ad/README.md)
   * [授权 TikTok 广告账户](ctwa-click-to-whatsapp-ad/tiktok-messaging-ad/tiktok-ad-introduction.md)
   * [创建TikTok 消息广告](ctwa-click-to-whatsapp-ad/tiktok-messaging-ad/create-tiktok-instant-messaging-ad.md)
-  * [TikTok：流量承接、广告追踪与转化](ctwa-click-to-whatsapp-ad/tiktok-messaging-ad/tiktok-ad-traffic-delivery-tracking-and-conversion.md)
+  * [TikTok广告：流量承接、转化回传](ctwa-click-to-whatsapp-ad/tiktok-messaging-ad/tiktok-ad-traffic-delivery-tracking-and-conversion.md)
 * [接待CTWA的访客](ctwa-click-to-whatsapp-ad/jie-dai-ctwa-de-fang-ke.md)
 * [CTWA分析](ctwa-click-to-whatsapp-ad/ctwa-fen-xi.md)
 
