@@ -23,19 +23,21 @@ Flow 适用于固定、线性、规则明确的业务场景，通过可视化拖
 
 用户发送“退订”、“TD”等关键词，Flow 自动识别，将其加入退订名单，同步停止营销消息推送，并回复确认话术，全程无需人工干预。
 
-
+<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
 2. **自动通过欢迎语发送主菜单**
 
 用户首次对话，自动发送品牌欢迎语，展示业务主菜单（如“1 咨询产品、2 申请办理、3 联系人工”），根据用户点击选择，跳转对应分支流程。
 
+<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
 3. **通过多条 Chatbot Flow 联动，降低维护成本**
 
 将通用节点（如身份核验、信息确认）拆分为独立 Flow，其他场景直接引用联动，避免重复配置，统一维护入口，提升效率。
 
-
+<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
 ### 三、AI Agent：复杂场景，智能高效应对
 
@@ -53,25 +55,39 @@ AI Agent 具备意图理解、逻辑判断、多步骤任务执行能力，适�
 
 根据场景预设角色（客服、销售、导购等），确定核心职能与沟通风格，如客服侧重专业解答，销售侧重引导转化。
 
+<figure><img src="../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+
 2. **配置 Profile**
 
 完善角色基础信息，包括名称、头像、自我介绍、语言风格、服务范围，统一品牌形象。详细可参考：[快速配置 Profile](../ai-profile.md)
 
+<figure><img src="../../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
+
 3. **配置知识库**
 
-上传产品文档、FAQ、业务手册、政策条款等，支持文档、网页、Q\&A 格式，确保回答精准合规。 详细可参考：
+上传产品文档、FAQ、业务手册、政策条款等，支持文档、网页、Q\&A 格式，确保回答精准合规。 详细可参考：[AI知识库](../ai-knowledge-base.md)
+
+<figure><img src="../../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
 
 4. **配置 Actionbook**
 
-无需复杂配置，只需用自然语言描述业务需求，即可绘制专属业务蓝图；Actionbook帮您简单说明任务步骤，就能自动调用各类 Actions，将复杂业务流程转化为顺畅的自动化执行流程。详细可参考
+无需复杂配置，只需用自然语言描述业务需求，即可绘制专属业务蓝图；Actionbook帮您简单说明任务步骤，就能自动调用各类 Actions，将复杂业务流程转化为顺畅的自动化执行流程。详细可参考：[AI 行动指南](../ai-actionbooks.md)
+
+<figure><img src="../../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/9 ai效果演示.gif" alt=""><figcaption></figcaption></figure>
 
 需对接外部系统时，通过数据连接器（[Data Connector](https://helpdocs.ycloud.com/help-center/zh/integrations/data-connectors)）配置 API 接口，实现查询订单、核验信息等操作，赋予 AI 执行能力。推荐从标准、重复的流程切入，配置数据连接器，具体请参考[Data Connector](https://helpdocs.ycloud.com/help-center/zh/integrations/data-connectors?fallback=true)
 
+<figure><img src="../../.gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
 
 5. **配置分配规则**
 
-完成AI 配置后，在号码设置中将进线会话分配给对应的 AI 处理，提升服务效率。 详细可参考：
+完成AI 配置后，在号码设置中将进线会话分配给对应的 AI 处理，提升服务效率。 详细可参考：[对话分配规则](../../whatsapp-accounts-zhang-hao-guan-li/shou-ji-hao-ma-guan-li/dui-hua-fen-pei-gui-ze.md)
+
+<figure><img src="../../.gitbook/assets/12.png" alt=""><figcaption></figcaption></figure>
 
 #### （三）最佳实践
 

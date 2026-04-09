@@ -142,10 +142,10 @@
   * [Branch](chatbot/chatbot-components/branch.md)
   * [Send Shopify orders](chatbot/chatbot-components/send-shopify-orders.md)
 * [分析Chatbot数据](chatbot/fen-xi-chatbot-shu-ju.md)
-* [最佳实践](chatbot/zui-jia-shi-jian/README.md)
-  * [YCloud Chatbot 最佳实践](chatbot/zui-jia-shi-jian/ycloud-chatbot-zui-jia-shi-jian.md)
-  * [自动将客户添加到退订列表](chatbot/zui-jia-shi-jian/zi-dong-jiang-ke-hu-tian-jia-dao-tui-ding-lie-biao.md)
-  * [AI引导最佳实践](chatbot/zui-jia-shi-jian/guidance-best-practice.md)
+* [最佳实践](chatbot/best-practice/README.md)
+  * [YCloud Chatbot 最佳实践](chatbot/best-practice/ycloud-chatbot-best-practice.md)
+  * [自动将客户添加到退订列表](chatbot/best-practice/zi-dong-jiang-ke-hu-tian-jia-dao-tui-ding-lie-biao.md)
+  * [AI引导最佳实践](chatbot/best-practice/guidance-best-practice.md)
 
 ## 📢 CTWA（点击WhatsApp广告） <a href="#ctwa-click-to-whatsapp-ad" id="ctwa-click-to-whatsapp-ad"></a>
 

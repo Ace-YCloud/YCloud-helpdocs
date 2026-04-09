@@ -18,5 +18,5 @@
 {% hint style="info" %}
 YCloud 支持通过识别用户在 WhatsApp 上回复的关键词自动将用户添加到退订列表。在以后的营销活动中，这些未订阅的用户将被过滤掉。有关详细信息，请参考：
 
-[zi-dong-jiang-ke-hu-tian-jia-dao-tui-ding-lie-biao.md](../../chatbot/zui-jia-shi-jian/zi-dong-jiang-ke-hu-tian-jia-dao-tui-ding-lie-biao.md "mention")
+[zi-dong-jiang-ke-hu-tian-jia-dao-tui-ding-lie-biao.md](../../chatbot/best-practice/zi-dong-jiang-ke-hu-tian-jia-dao-tui-ding-lie-biao.md "mention")
 {% endhint %}
