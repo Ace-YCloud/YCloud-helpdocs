@@ -14,7 +14,7 @@ YCloud根据收件人的国家和消息类型进行收费。消息分为一下5�
 
 <table><thead><tr><th width="139.98046875">消息类型</th><th>解释</th></tr></thead><tbody><tr><td>营销</td><td>发送营销模板</td></tr><tr><td>通知</td><td>发送通知模板</td></tr><tr><td>验证码</td><td>发送验证码模板</td></tr><tr><td>国际验证码</td><td>被Meta认定为需要执行国际验证码价格的企业，在向适用该价格的国家发送验证码模板消息时，将按国际验证码价格收费。 <a href="billing-rule.md#guo-ji-yan-zheng-ma-jia-ge">详细解释</a></td></tr><tr><td>服务</td><td>发非模板消息</td></tr></tbody></table>
 
-具体价格可在我们官网查看：[http://www.ycloud.com/price](http://www.ycloud.com/price)
+具体价格可在我们官网查看：[http://www.ycloud.com/pricing](http://www.ycloud.com/pricing)
 
 ⚠️新价格将会在7月1日更新到官网上。您也可以联系您的客户经理获取新的价格。
 
