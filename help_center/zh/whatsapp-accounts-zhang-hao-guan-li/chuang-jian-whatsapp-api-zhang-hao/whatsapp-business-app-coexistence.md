@@ -33,8 +33,7 @@ description: 在不离开WhatsApp Business App的情况下，解锁使用高级A
 
 #### **限制**
 
-1. 此功能**不支持以下这些国家的商家** （根据Business App电话号码确定）：尼日利亚、南非。
-2. WhatsApp Business App账号每秒可发送消息上限为 5 条（包括手机端 app 发送的消息以及通过平台绑定后发出的消息，一起计算）
+1. WhatsApp Business App账号每秒可发送消息上限为 5 条（包括手机端 app 发送的消息以及通过平台绑定后发出的消息，一起计算）
 
 #### **App 版本要求**
 
