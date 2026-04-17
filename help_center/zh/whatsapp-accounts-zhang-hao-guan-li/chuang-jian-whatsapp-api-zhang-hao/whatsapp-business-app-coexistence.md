@@ -47,7 +47,7 @@ description: 在不离开WhatsApp Business App的情况下，解锁使用高级A
 
 以下表格描述了已加入Cloud API的企业客户可用的功能，以及在加入后WhatsApp Business应用功能的变化。注意：超过14天的媒体消息（如包含图片、视频、音频的消息）将无法进行同步。
 
-<figure><img src="../../.gitbook/assets/image (829).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/企业微信20260418-002633@2x.png" alt=""><figcaption></figcaption></figure>
 
 ## 如何使用WhatsApp Business app 共存？
 
