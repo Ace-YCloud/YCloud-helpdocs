@@ -39,21 +39,21 @@ description: 完成本页操作后，您可以在 YCloud 中连接用于投放�
 
 #### 2. 选择 Business Manager
 
-选择本次要操作的 Business Manager，然后点击继续。
+选择本次要操作的 Business Manager，然后点击继续。&#x20;
 
-<figure><img src="https://4253554051-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F78HV6e8vN6mhwsbohgTK%2Fuploads%2Fk20ejr2aRQuD6Dy4KKWW%2Fmeta-ad%20account-oauth-1%20select%20bm.png?alt=media&#x26;token=9344f80d-39cb-4f18-921d-309dd5db8a56" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/no-bm-permission .png" alt=""><figcaption></figcaption></figure>
 
 #### 3. 选择广告账户并完成授权
 
-在该 Business Manager 下，选择要授权给 YCloud 的广告账户。您可以按需多选，然后点击继续完成授权。
+在该 Business Manager 下，选择要授权给 YCloud 的广告账户。您可以按需多选，然后点击继续完成授权。&#x20;
 
-<figure><img src="https://4253554051-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F78HV6e8vN6mhwsbohgTK%2Fuploads%2FsXO3gt9483i2uVMLI2TX%2Fmeta-ad%20account-oauth3-select%20ad%20account(from%20the%20bm).png?alt=media&#x26;token=f09cff1b-9e71-4eba-9bfc-6bc55060d10b" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/FB广告账号授权-选择广告账号-T1.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-如果同一个 Business Manager 下有多个广告账户，建议：
+当有多个广告账户时：
 
 * 只勾选本次需要接入 YCloud 的目标广告账户。
-* **已默认勾选的广告账户不要取消勾选**。
+* **默认已勾选的广告账户不要取消勾选**。
 
 已默认勾选，通常表示这些广告账户此前已经授权给 YCloud。只有在您确认后续不再使用该广告账户时，才建议解除授权。
 {% endhint %}
@@ -91,28 +91,54 @@ description: 完成本页操作后，您可以在 YCloud 中连接用于投放�
 
 <details>
 
-<summary>Q：为什么我找不到想授权的 Business Manager 或广告账户？</summary>
+<summary>Q：授权流程，选择BM（业务资产组合） 时，下拉框找不到想选的BM 、或看得见BM但无法选中？</summary>
 
-通常是因为当前登录的 Meta 账号没有对应资产的管理权限。
 
-建议按以下情况排查：
 
-如果广告账户和您的 WhatsApp Business 资产属于同一个 Business Manager：
+<table><thead><tr><th width="154.72265625">BM的下拉框 分情况：</th><th width="278.0390625">原因分析</th><th>解决办法</th></tr></thead><tbody><tr><td>找不到想选的BM</td><td><p>当前FB账号，</p><p><strong>没有该BM的任何权限</strong></p></td><td>登录该bm后台，为当前登录的Meta账号 授权。</td></tr><tr><td>能看到某个BM 但无法选</td><td>当前FB账号，有该BM的部分/基本权限，但<strong>缺少权限：完全控制权/full control</strong></td><td>为该Meta账号，开通full control</td></tr></tbody></table>
 
-* 请让该 Business Manager 的管理员确认，当前 Meta 账号已拥有对应 Business Manager 和广告账户的管理权限。
+</details>
 
-如果广告账户和您的 WhatsApp Business 资产不属于同一个 Business Manager：
+<details>
 
-* 这类情况常见于通过代理开通广告账户的场景。
-* 您需要先确认承接 WhatsApp 号码所属的 Business Manager，以及广告账户所属的 Business Manager 是否已建立正确的资产授权关系。
+<summary>Q：授权流程，选择广告账号时，下拉框找不到想选的选项 、或看得见广告账号但无法选中？</summary>
+
+
+
+<table><thead><tr><th width="160.75390625">广告账号下拉框  分情况：</th><th width="278.0390625">原因分析</th><th>解决办法</th></tr></thead><tbody><tr><td>找不到想选的</td><td><p>当前登录的FB账号，</p><p><strong>没有该广告账号的权限</strong></p></td><td>登录该bm后台，为当前登录的Meta账号 授权。</td></tr><tr><td>能看到某广告账号 但不能选<br>（提示给予bm 完全控制权）</td><td>当前FB账号，有该<strong>广告账号</strong>的部分/基本权限，但<strong>缺少权限：完全控制权/full control</strong></td><td>为该Meta账号，开通full control</td></tr></tbody></table>
+
+#### 情况1、广告账号是归属您的BM
+
+联系BM的管理员确认，当前 Meta 账号已拥有对应 Business Manager 和广告账户的管理权限。
+
+BM后台-users-people，找到您的Meta账号，添加或编辑权限，找到广告账号，打开【完全控制权/full control】-保存。
+
+
+
+刷新浏览器页面，并尝试YC后台 重新开始授权。
+
+
+
+#### 情况2、广告账号和您的waba 属于不同的BM
+
+{% hint style="info" %}
+这类情况常见于**通过广告代理开通广告账户**的场景。
+
+* 您：对广告账号的使用权；
+* 广告代理：对广告账号的所有权；
+{% endhint %}
+
+您需要先确认承接 WhatsApp 号码所属的 Business Manager，以及广告账户所属的 Business Manager 是否已建立正确的资产授权关系。
+
+
 
 可参考以下处理方式：
 
-1. 登录承接 WhatsApp 资产的 Business Manager，找到该 Business Manager 的业务资产编号。
+1. 登录**承接 WhatsApp 资产**的 Business Manager，找到该 Business Manager 的业务资产编号。
 
 <figure><img src="https://4253554051-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F78HV6e8vN6mhwsbohgTK%2Fuploads%2Fq4pr8QW1LyImWd8Ln219%2Fmeta-bm-overview-1.png?alt=media&#x26;token=3c868dea-ae1e-4b93-8937-10c00b7d988d" alt=""><figcaption></figcaption></figure>
 
-2. 将该编号提供给代理或广告账户所属的 Business Manager 管理员。
+2. 将该编号提供给**代理或广告账户所属的 Business Manager 管理员**。
 3. 由对方在其 Business Manager 后台，将广告账户授权给您的 Business Manager，并勾选 **Full control** 权限。
 
 <figure><img src="https://4253554051-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F78HV6e8vN6mhwsbohgTK%2Fuploads%2F6Sw4tjO2r60hMh3ZSoTN%2Fmeta-bm-users%3Apartners-entrance-t1.png?alt=media&#x26;token=d97970f3-eb56-4ef1-8e0b-f37531212e61" alt=""><figcaption></figcaption></figure>
