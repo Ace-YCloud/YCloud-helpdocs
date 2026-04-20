@@ -39,9 +39,9 @@ description: 完成本页操作后，您可以在 YCloud 中连接用于投放�
 
 #### 2. 选择 Business Manager
 
-选择本次要操作的 Business Manager，然后点击继续。  ![](<../../.gitbook/assets/no-bm-permission -T1.png>)
+选择本次要操作的 Business Manager，然后点击继续。 &#x20;
 
-<figure><img src="../../.gitbook/assets/no-bm-permission .png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/no-bm-permission -T1.png" alt=""><figcaption></figcaption></figure>
 
 #### 3. 选择广告账户并完成授权
 
