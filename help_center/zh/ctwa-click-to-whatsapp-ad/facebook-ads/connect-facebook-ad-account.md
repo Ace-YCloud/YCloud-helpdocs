@@ -33,9 +33,9 @@ description: 完成本页操作后，您可以在 YCloud 中连接用于投放�
 
 #### 1. 登录 Meta 账号
 
-在跳转后的授权页面中，登录您的 Meta 账号。
+在跳转后的授权页面中，登录您的 Meta 账号。&#x20;
 
-<figure><img src="https://4253554051-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F78HV6e8vN6mhwsbohgTK%2Fuploads%2FDVaFuHgUUoKF8uo1Yuaj%2Fmeta%E5%B9%BF%E5%91%8A%E8%B4%A6%E5%8F%B7%E6%8E%88%E6%9D%83-0%EF%BC%9A%E7%99%BB%E9%99%86meta%E8%B4%A6%E5%8F%B7.png?alt=media&#x26;token=574d58d5-98d4-4483-8dbe-59992b6db55b" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/meta广告账号授权-0：登陆meta账号-T1.PNG" alt=""><figcaption></figcaption></figure>
 
 #### 2. 选择 Business Manager
 
