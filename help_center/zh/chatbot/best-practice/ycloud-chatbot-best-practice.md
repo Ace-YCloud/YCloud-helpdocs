@@ -23,7 +23,7 @@ Flow 适用于固定、线性、规则明确的业务场景，通过可视化拖
 
 用户发送“退订”、“TD”等关键词，Flow 自动识别，将其加入退订名单，同步停止营销消息推送，并回复确认话术，全程无需人工干预。
 
-<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 2. **自动通过欢迎语发送主菜单**
 

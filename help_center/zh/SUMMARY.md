@@ -73,6 +73,7 @@
 * [欢迎消息](inbox/huan-ying-xiao-xi.md)
 * [会话标签](inbox/hui-hua-biao-qian.md)
 * [AI助手](inbox/ai-copilot.md)
+* [搜索联系人和聊天记录](inbox/search-contacts-and-chat-history.md)
 * [会话日志](inbox/hui-hua-ri-zhi.md)
 * [消息翻译](inbox/message-translation.md)
 * [Inbox中发起语音通话](inbox/inbox-calling.md)
