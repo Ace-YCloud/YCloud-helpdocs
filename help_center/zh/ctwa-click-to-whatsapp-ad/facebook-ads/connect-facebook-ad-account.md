@@ -39,7 +39,7 @@ description: 完成本页操作后，您可以在 YCloud 中连接用于投放�
 
 #### 2. 选择 Business Manager
 
-选择本次要操作的 Business Manager，然后点击继续。&#x20;
+选择本次要操作的 Business Manager，然后点击继续。  ![](<../../.gitbook/assets/no-bm-permission -T1.png>)
 
 <figure><img src="../../.gitbook/assets/no-bm-permission .png" alt=""><figcaption></figcaption></figure>
 
@@ -91,7 +91,7 @@ description: 完成本页操作后，您可以在 YCloud 中连接用于投放�
 
 <details>
 
-<summary>Q：授权流程，选择BM（业务资产组合） 时，下拉框找不到想选的BM 、或看得见BM但无法选中？</summary>
+<summary>1、授权流程，选择BM（业务资产组合） 时，下拉框找不到想选的BM 、或看得见BM但无法选中？</summary>
 
 
 
@@ -101,7 +101,7 @@ description: 完成本页操作后，您可以在 YCloud 中连接用于投放�
 
 <details>
 
-<summary>Q：授权流程，选择广告账号时，下拉框找不到想选的选项 、或看得见广告账号但无法选中？</summary>
+<summary>2、授权流程，选择广告账号时，下拉框找不到想选的选项 、或看得见广告账号但无法选中？</summary>
 
 
 
@@ -151,7 +151,7 @@ BM后台-users-people，找到您的Meta账号，添加或编辑权限，找到�
 
 <details>
 
-<summary>Q：为什么进入 CTWA 页面后，系统提示我需要先绑定 WABA 号码？</summary>
+<summary>3、为什么进入 CTWA 页面后，系统提示我需要先绑定 WABA 号码？</summary>
 
 因为 Meta CTWA 广告最终需要通过 WhatsApp Business 号码承接用户会话。
 
@@ -161,7 +161,7 @@ BM后台-users-people，找到您的Meta账号，添加或编辑权限，找到�
 
 <details>
 
-<summary>Q：如何移除 Meta 广告账户对 YCloud 的授权？</summary>
+<summary>4、如何移除 Meta 广告账户对 YCloud 的授权？</summary>
 
 此操作需要在 Meta 的 Business Manager 后台完成，而不是在 YCloud 中完成。
 
