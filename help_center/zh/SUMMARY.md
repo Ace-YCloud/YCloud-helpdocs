@@ -132,7 +132,7 @@
 * [AI档案](chatbot/ai-profile.md)
 * [AI知识库](chatbot/ai-knowledge-base.md)
 * [AI建议](chatbot/ai-suggestions.md)
-* [AI行动指南](chatbot/ai-actionbooks.md)
+* [AI技能](chatbot/ai-actionbooks.md)
 * [创建一个Flow](chatbot/chuang-jian-yi-ge-flow.md)
 * [Chatbot组件](chatbot/chatbot-components/README.md)
   * [Trigger](chatbot/chatbot-components/trigger.md)
