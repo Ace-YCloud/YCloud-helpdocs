@@ -48,7 +48,7 @@ description: 由客服上行消息触发，适用于实时解答客户问题
 
 在可视化编辑器中编辑可以让 Chatbot 与用户在 WhatsApp 上沟通的工作流。
 
-#### [行动指南（Actionbooks）](ai-actionbooks.md)
+#### [技能（Skills）](reactive-ai-agent.md#ji-neng-skills)
 
 拆分复杂任务，输入完整执行逻辑，以便 AI 为您完成较复杂的任务。
 
