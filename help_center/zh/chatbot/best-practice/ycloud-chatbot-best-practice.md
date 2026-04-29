@@ -71,7 +71,7 @@ AI Agent 具备意图理解、逻辑判断、多步骤任务执行能力，适�
 
 4. **配置 Actionbook**
 
-无需复杂配置，只需用自然语言描述业务需求，即可绘制专属业务蓝图；Actionbook帮您简单说明任务步骤，就能自动调用各类 Actions，将复杂业务流程转化为顺畅的自动化执行流程。详细可参考：[AI 行动指南](../ai-actionbooks.md)
+无需复杂配置，只需用自然语言描述业务需求，即可绘制专属业务蓝图；Actionbook帮您简单说明任务步骤，就能自动调用各类 Actions，将复杂业务流程转化为顺畅的自动化执行流程。详细可参考：[AI 行动指南](../ai-skills.md)
 
 <figure><img src="../../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
 
