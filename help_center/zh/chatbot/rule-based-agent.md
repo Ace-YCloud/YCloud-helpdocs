@@ -12,7 +12,7 @@ description: 不含AI，简单明确的基于工作流的机器人，适用于�
 
 ## 如何配置一个规则机器人
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 档案（Profile）
 
@@ -20,7 +20,7 @@ description: 不含AI，简单明确的基于工作流的机器人，适用于�
 
 你可以根据需要设置规则机器人的头像和名称
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **当它不理解用户意图的时候应该怎么做（兜底行为）**
 

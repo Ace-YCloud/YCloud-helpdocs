@@ -14,17 +14,17 @@ description: 连接外部数据库并创建完全自动化的丝滑用户交互�
 
 首先，通过左侧菜单的集成>数据连接器访问该功能。
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 在这里，您可以设置数据连接器来连接外部数据。您可以通过点击\[+新建数据连接器]按钮来创建一个。您还可以按名称和状态搜索特定的数据连接器。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 名称和描述
 
 为你的数据连接器取一个能清晰表明其特定功能的名称（例如，“retrieve\_order\_id”）。在描述字段中，描述何时使用此连接器以及它将获取哪些数据（例如，“获取提供的订单 ID 的订单详情”）。
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## API 链接
 

@@ -8,7 +8,7 @@ description: 您的未来数字员工
 
 Chatbot是一款强大工具，集AI智能与基于规则的工作流程于一身。它能处理各类任务——从关键词触发响应，发送消息，给用户打标签等简单动作，到订单查询、更新外部数据库等复杂操作。通过在重复的常见问题中替代人工进行回答与操作，它能显著提升支持团队效率并降低成本，**由此成为您未来数字劳动力中不可或缺的重要成员**。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 价值
 

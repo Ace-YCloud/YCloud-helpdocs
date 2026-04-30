@@ -37,7 +37,7 @@
 
 2. &#x20;授权Hubspot账号完成授权
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 当看到以下页面时表示绑定成功，请等待5s后自动跳转到YCloud配置页面
 

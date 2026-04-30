@@ -79,9 +79,9 @@ WhatsApp 消息将引导你使用该应用扫描嵌入式注册页面中显示�
 
 <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 进入授权页面，点击继续按钮
 
@@ -91,7 +91,7 @@ WhatsApp 消息将引导你使用该应用扫描嵌入式注册页面中显示�
 
 如果您的业务有官网，请正确复制粘贴网站信息，否则请勾选“我的业务没有网站”
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 点击确认按钮完成授权绑定
 

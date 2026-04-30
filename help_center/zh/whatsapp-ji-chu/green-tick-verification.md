@@ -24,7 +24,7 @@ WhatsApp 官方商业帐号 (OBA) 标准根据众多因素制定，并且不同�
 * 已认证：已通过[公司验证](qi-ye-ren-zheng.md)
 * 设置双重验证 (2FA)：已设置两步验证。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 消息限制已达到1,000及以上
 
