@@ -4,8 +4,6 @@ description: 了解如何从头开始，创建一个meta的Whatsapp广告
 
 # 创建点击WhatsApp广告（CTWA）
 
-
-
 #### 步骤1：通过YCloud创建WhatsApp Business API账户
 
 您无法使用个人 WhatsApp 号码承接广告流量。在广告管理器中创建点击 WhatsApp 广告之前，请先通过 YCloud 创建 WhatsApp Business API 帐户。
@@ -118,7 +116,7 @@ Facebook 现在将审核您的广告。一旦获得批准，它将根据您的�
 
 <details>
 
-<summary><strong>Q: 什么是 CTWA 广告中的消息模板（Message templates）？</strong></summary>
+<summary><strong>Q：什么是 CTWA 广告中的消息模板（Message templates）？</strong></summary>
 
 CTWA 广告中的消息模板，是用户点击 Facebook 或 Instagram 广告并跳转到 WhatsApp 后，用来引导用户发起第一条消息的开场设置。
 
@@ -208,3 +206,27 @@ CTWA 广告中的消息模板，是用户点击 Facebook 或 Instagram 广告并
 
 </details>
 
+<details>
+
+<summary><strong>Q：</strong>Facebook 公共主页 <strong>绑定 WhatsApp Business API 号码时，收不到验证码？</strong></summary>
+
+#### 如果您使用的是 WhatsApp Business API 号码
+
+通常不能通过手机或 WhatsApp Business App 接收验证码（meta的限制）。
+
+只能通过BM对WhatsApp Business 号码 走资产授权的流程。
+
+根据资产归属bm情况，有不同的流程：
+
+* 如果号码和 Facebook 公共主页属于同一个 BM，会直接绑定成功。
+* 如果**号码和 Facebook 公共主页 属于不同 BM ：**
+* 页面会显示 **Connection request pending**，表示绑定申请已提交，需要 Facebook 公共主页所属 BM 审批：
+  * 进入 Meta Business Settings 的 **Requests** 菜单同意申请。
+
+#### 如果您使用的是 WhatsApp Business App 号码
+
+可以按页面提示点击 **Send WhatsApp code**，在手机上的 WhatsApp Business App 中查看验证码，并完成验证绑定。
+
+
+
+</details>
