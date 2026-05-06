@@ -1,4 +1,4 @@
-# 通过n8n集成
+# n8n集成
 
 ### 概述
 
@@ -45,8 +45,9 @@ n8n 是一款开源的可视化工作流自动化平台，可用于将 YCloud We
 
 在 YCloud 中，可将 Webhook 地址 配置为 n8n 的 Webhook URL，使 n8n 成为事件处理的中间层。
 
+您可以访问[https://n8n.io/integrations/ycloud-whatsapp](https://n8n.io/integrations/ycloud-whatsapp/) 获取安装，或直接在节点中搜索 YCloud WhatsApp。
+
 ### 说明
 
-* **n8n 为第三方工具，YCloud 不对其功能本身提供维护或支持**
 * 建议在 n8n 中区分 测试环境（Test URL） 与 生产环境（Production URL）
 * 请妥善管理 API Key、Webhook 地址等敏感信息

@@ -224,12 +224,13 @@
 * [Hubspot](integrations/hubspot.md)
 * [数据连接器](integrations/data-connectors.md)
 * [MM Lite API](integrations/mm-lite-api.md)
-* [通过n8n集成](integrations/integrate_with_n8n/README.md)
-  * [最佳实践：AI自动回复](integrations/integrate_with_n8n/n8n_aireply.md)
-  * [最佳实践：HubSpot留资工具](integrations/integrate_with_n8n/n8n_hubspot.md)
 
-## Developer
+## 🔭 Developer
 
+* [n8n集成](developer/n8n_integration/README.md)
+  * [最佳实践：AI自动回复](developer/n8n_integration/n8n_aireply.md)
+  * [最佳实践：HubSpot留资工具](developer/n8n_integration/n8n_hubspot.md)
+  * [示例1：AI自动回复](developer/n8n_integration/shi-li-1ai-zi-dong-hui-fu.md)
 * [Webhook](developer/webhook.md)
 * [IP 白名单](developer/ip_whitelist.md)
 
