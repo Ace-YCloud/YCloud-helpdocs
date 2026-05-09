@@ -209,6 +209,7 @@
       * [域名配置](integrations/qu-dao/you-jian/you-jian-gong-neng/yu-ming-pei-zhi.md)
       * [通过API发送邮件](integrations/qu-dao/you-jian/you-jian-gong-neng/tong-guo-api-fa-song-you-jian.md)
       * [监控和优化](integrations/qu-dao/you-jian/you-jian-gong-neng/jian-kong-he-you-hua.md)
+    * [邮件模板示例](integrations/qu-dao/you-jian/you-jian-mu-ban-shi-li.md)
     * [电子邮件的最佳实践](integrations/qu-dao/you-jian/dian-zi-you-jian-de-zui-jia-shi-jian/README.md)
       * [独立的营销子域名](integrations/qu-dao/you-jian/dian-zi-you-jian-de-zui-jia-shi-jian/du-li-de-ying-xiao-zi-yu-ming.md)
       * [预热发送](integrations/qu-dao/you-jian/dian-zi-you-jian-de-zui-jia-shi-jian/yu-re-fa-song.md)

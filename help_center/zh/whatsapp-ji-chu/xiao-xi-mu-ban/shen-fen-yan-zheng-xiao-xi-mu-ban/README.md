@@ -23,7 +23,7 @@ description: 如果您的移动应用程序为用户提供通过 WhatsApp 接收
 
 复制代码身份验证模板允许您向用户发送一次性密码或代码以及复制代码按钮。
 
-![](https://scontent-hkg1-2.xx.fbcdn.net/v/t39.2365-6/391709210_6733218460105388_4204949555628827374_n.png?stp=dst-webp&_nc_cat=107\&ccb=1-7&_nc_sid=e280be&_nc_ohc=krz-7v4xBIQQ7kNvgHdqrBW&_nc_ht=scontent-hkg1-2.xx\&oh=00_AYDAQ1dzpZiwvWmGy67v_uYh4zI5iqD1BdIyD24xn0pc6g\&oe=6694D0BD)
+<img src="https://scontent-hkg1-2.xx.fbcdn.net/v/t39.2365-6/391709210_6733218460105388_4204949555628827374_n.png?stp=dst-webp&#x26;_nc_cat=107&#x26;ccb=1-7&#x26;_nc_sid=e280be&#x26;_nc_ohc=krz-7v4xBIQQ7kNvgHdqrBW&#x26;_nc_ht=scontent-hkg1-2.xx&#x26;oh=00_AYDAQ1dzpZiwvWmGy67v_uYh4zI5iqD1BdIyD24xn0pc6g&#x26;oe=6694D0BD" alt="" width="375">
 
 当 WhatsApp 用户点击复制代码按钮时，WhatsApp 客户端会将密码或代码复制到设备的剪贴板。然后，用户可以切换到您的应用并将密码或代码粘贴到您的应用中。
 
@@ -35,7 +35,7 @@ description: 如果您的移动应用程序为用户提供通过 WhatsApp 接收
 
 身份验证模板包括一键自动填充按钮。
 
-![](https://scontent-hkg1-2.xx.fbcdn.net/v/t39.2365-6/393789031_872892117564016_6400271480127333734_n.png?stp=dst-webp&_nc_cat=104\&ccb=1-7&_nc_sid=e280be&_nc_ohc=YQvdnWWnjhYQ7kNvgF-Fdpy&_nc_ht=scontent-hkg1-2.xx\&oh=00_AYBD2XbjW4aCaL2vLfdKi2ym247Lt4J9K9Ha07LQ29ZmlA\&oe=6694C268)
+<img src="https://scontent-hkg1-2.xx.fbcdn.net/v/t39.2365-6/393789031_872892117564016_6400271480127333734_n.png?stp=dst-webp&#x26;_nc_cat=104&#x26;ccb=1-7&#x26;_nc_sid=e280be&#x26;_nc_ohc=YQvdnWWnjhYQ7kNvgF-Fdpy&#x26;_nc_ht=scontent-hkg1-2.xx&#x26;oh=00_AYBD2XbjW4aCaL2vLfdKi2ym247Lt4J9K9Ha07LQ29ZmlA&#x26;oe=6694C268" alt="" width="325">
 
 当 WhatsApp 用户点击自动填充按钮时，WhatsApp 客户端会触发一项活动，打开您的应用程序并向其提供密码或代码。
 
