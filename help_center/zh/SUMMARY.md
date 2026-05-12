@@ -222,7 +222,7 @@
     * [取消订单/订单履约 提醒](integrations/dian-zi-shang-wu/shopify/qu-xiao-ding-dan-ding-danlyue-ti-xing.md)
     * [Shopify最佳实践](integrations/dian-zi-shang-wu/shopify/shopify-zui-jia-shi-jian.md)
 * [Freshdesk](integrations/freshdesk.md)
-* [Hubspot](integrations/hubspot.md)
+* [HubSpot](integrations/hubspot.md)
 * [数据连接器](integrations/data-connectors.md)
 * [MM Lite API](integrations/mm-lite-api.md)
 
