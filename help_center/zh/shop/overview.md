@@ -8,7 +8,7 @@ SHOP店铺是YCloud推出的全新电商平台。
 
 您可以借此搭建自己的店铺，并在WhatsApp中 与您的客户建立联系，并完成转化；
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Shop功能的入口</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Shop功能的入口</p></figcaption></figure>
 
 Shop 我们将分为多个模块，进行介绍：
 

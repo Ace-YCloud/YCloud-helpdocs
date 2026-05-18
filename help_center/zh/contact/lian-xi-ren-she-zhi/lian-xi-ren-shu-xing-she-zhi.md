@@ -40,11 +40,11 @@
 | WhatsApp Business App | Whatsapp Business App | 联系人来自 WhatsApp Business App。 |
 | 未知                    | Unknown               | 系统无法识别来源，或历史数据中没有记录来源。       |
 
-例如，当你想查看 TikTok 广告带来的联系人时，可以筛选“TikTok 广告”。当你想查看通过 Shopify 同步或创建的联系人时，可以筛选“Shopify”。
+例如，
 
-{% hint style="warning" %}
-TODO: 插入截图 - 来源筛选下拉列表
-{% endhint %}
+当你想查看 TikTok 广告带来的联系人时，可以筛选“TikTok 广告”。当你想查看通过 Shopify 同步或创建的联系人时，可以筛选“Shopify”。
+
+<figure><img src="../../.gitbook/assets/image (920).png" alt=""><figcaption></figcaption></figure>
 
 ### 新增自定义属性
 

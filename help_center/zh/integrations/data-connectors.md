@@ -18,7 +18,7 @@ description: 连接外部数据库并创建完全自动化的丝滑用户交互�
 
 在这里，您可以设置数据连接器来连接外部数据。您可以通过点击\[+新建数据连接器]按钮来创建一个。您还可以按名称和状态搜索特定的数据连接器。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 名称和描述
 

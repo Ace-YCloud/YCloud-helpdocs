@@ -24,7 +24,7 @@ YCloud提供关于 WhatsaApp, SMS, Contact, Email等不同的事件选择。
 您可以在此处找到所有事件的相关载荷：[Webhook 事件载荷](https://docs.ycloud.com/reference/webhook-events-payloads)
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 3. 验证 Webhook签名（可选）
 

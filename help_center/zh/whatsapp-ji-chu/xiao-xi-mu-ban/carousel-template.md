@@ -6,7 +6,7 @@ description: 本文档介绍了轮播模板及其使用方法。
 
 轮播模板支持发送一条带多张轮播卡片的营销消息 ，这些卡片可在水平滚动视图中查看：
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 当用户点击商家提供的URL链接时，用户会跳转到浏览器， 这会导致用户离开WhatsApp。若您想让用户在WhatsApp内查看更多商品信息，建议使用轮播模版展示多个商品。注意：轮播模版仅适用于营销模版消息。
 
