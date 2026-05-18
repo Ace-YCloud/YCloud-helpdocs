@@ -18,7 +18,7 @@ description: 使用Inbox手机客户端
 
 ## 下载手机客户端口-Google Play
 
-<div align="left"><figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 &#x20;            [ **点击下载**](https://play.google.com/store/apps/details?id=com.ycloud.inbox)
 
@@ -30,7 +30,7 @@ description: 使用Inbox手机客户端
 
 ### 登录，通过您的账号密码登录移动端Inbox
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="236"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="236"><figcaption></figcaption></figure>
 
 ### 会话列表
 
@@ -42,9 +42,9 @@ description: 使用Inbox手机客户端
 6. 新增会话，点击加号按钮，向指定号码发送消息
 7. 查看会话，点击列表内具体会话查看聊天详情
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="240"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="240"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="238"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="238"><figcaption></figcaption></figure>
 
 ### 会话详情
 
@@ -52,7 +52,7 @@ description: 使用Inbox手机客户端
 2. 由其他坐席正在处理的会话可以通过点击【assign to me】按钮进行接入
 3. 已经不支持发送自由格式的会话可以通过点击下方【template message】按钮 发送模板消息
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="238"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="238"><figcaption></figcaption></figure>
 
 <div align="left"><figure><img src="https://ycloudteam.feishu.cn/space/api/box/stream/download/asynccode/?code=NzQxMDIxMWEyMjQ0ZDQ2NzhkNWY2YTUyNjNjZTI0OTdfSnFXTENmNFRTYXBreFdRRGFKaVJzek5vbk5PNmtmZmdfVG9rZW46TlVwOWJpTVRTbzN1b0J4REJNOGM2eVZVbnJGXzE3NDYwMDM1ODU6MTc0NjAwNzE4NV9WNA" alt="" width="188"><figcaption></figcaption></figure></div>
 

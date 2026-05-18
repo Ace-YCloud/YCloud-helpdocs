@@ -14,7 +14,7 @@ hidden: true
 
 ### 总体流程
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Webhook 事件触发
 
@@ -24,11 +24,11 @@ hidden: true
 请注意保护好您的Webhook URL，且勿必只返回**状态码200**。
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 您需要在YCloud Webhook event中选择 WhatsApp.inbound\_message.received。 当 YCloud Webhook 被触发后，n8n 的 Webhook 节点会接收到完整的 inbound\_message 数据，并自动解析为可用字段。如下图所示：
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 这些字段将作为后续节点（Data Table、AI Agent、HTTP Request 等）的输入数据，可通过 Expression 方式进行引用。
 
