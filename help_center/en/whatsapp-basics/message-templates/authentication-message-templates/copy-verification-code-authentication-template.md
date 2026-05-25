@@ -1,0 +1,21 @@
+---
+description: This article discusses WhatsApp's Copy Code Authentication Templates.
+---
+
+# Copy Verification Code Authentication Template
+
+The Copy Code Authentication Template allows you to send a one-time password or code along with a copy code button to users. When a WhatsApp user clicks the copy code button,  WhatsApp will copy the password or code to the device's clipboard. The user can then switch to your app and paste the password or code into it.
+
+<figure><img src="../../../.gitbook/assets/image (443).png" alt="" width="563"><figcaption></figcaption></figure>
+
+The Copy Code Button Authentication Template includes:
+
+* Preset text: _\<VERIFICATION\_CODE> is your verification code._
+* Optional security disclaimer: _For your safety, do not share this code._
+* Optional expiration warning (optional): _This code will expire in \<NUM\_MINUTES> minutes._
+* Copy code button.
+* Message validity: If the message is not delivered within the validity period, you will not be charged, and your customer will not see the message.
+
+#### Limitations <a href="#limitations" id="limitations"></a>
+
+URLs, media, and emojis are not supported.

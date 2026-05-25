@@ -1,0 +1,3 @@
+# Sending Emails via API
+
+Please refer to the API documentation: [https://docs.ycloud.com/reference/email-send](https://docs.ycloud.com/reference/email-send)

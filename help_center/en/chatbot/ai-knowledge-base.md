@@ -1,0 +1,13 @@
+# AI Knowledge Base
+
+### Configure Knowledge Base
+
+1. Click Add Knowledge button. Knowledge Base currently supports uploading multi-format documents, online data (web pages), and knowledge content in Q & A format.
+2. Select the document and click Next to upload your Knowledge Base document.
+3. Select Q & A, click Next to customize your Q & A, enter the questions you expect - the answers are correct
+4. Select the online data, click next, you can enter the webpage link that needs to be crawled for data, support two crawling modes: only this webpage or drill down pages containing webpages, set the update frequency, and click ok to start data crawling
+5. After uploading or crawling Knowledge Base, it will be displayed in the list. You can filter by the filter items above, and click on the specific item to display its details.
+
+<figure><img src="../.gitbook/assets/image (722).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/My_Photor_1739419530645.png" alt=""><figcaption></figcaption></figure>

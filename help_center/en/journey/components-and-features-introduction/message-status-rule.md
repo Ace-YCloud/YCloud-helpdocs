@@ -1,0 +1,34 @@
+# Message Status Rule
+
+A component for determining the status of template messages, supporting the judgment of read and replied statuses. It is used to divert customers who react differently after receiving messages.
+
+Example scenario: After sending a welcome message, for customers who reply, we automatically send an activation message. For those who receive the message but do not reply, we refrain from further disturbance.
+
+## Settings for Message Status Rule:
+
+**Template to be Judged**: Select the template whose status needs to be determined.
+
+**Waiting Time**: The status of the template message will be judged within the set time.
+
+**Subsequent Connection Nodes**:
+
+1. When the selected status is met within the waiting time.
+2. When the selected status is not met after the waiting time ends.
+
+<figure><img src="../../.gitbook/assets/image (525).png" alt=""><figcaption></figcaption></figure>
+
+## Addition Methods
+
+### Method 1: Direct Connection After Sending Template
+
+When you move the mouse over the connection node of Send template, two quick options appear, which are to judge whether the message has been read or replied. Clicking will automatically connect a new Message status rule component.
+
+<figure><img src="../../.gitbook/assets/image (520).png" alt=""><figcaption></figcaption></figure>
+
+### Method 2: Manually Adding the Component
+
+Manually added Message status rule will not automatically configure the template and connect. You need to manually select the template and the status to be judged in the settings page. When selecting a template, you can only choose templates that have already been selected in all Send template components within the current Journey. After selecting the template, you need to manually connect the preceding process.
+
+<figure><img src="../../.gitbook/assets/image (521).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (526).png" alt=""><figcaption></figcaption></figure>

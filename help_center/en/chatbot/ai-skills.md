@@ -1,0 +1,69 @@
+---
+description: >-
+  Skills break down the process into steps and help AI learn how to manage
+  complex tasks
+---
+
+# AI Skills
+
+## What to consider when setting up Skills
+
+Successfully implementing Skills and Data Connectors requires a combination of technical knowledge, process-oriented thinking, and teamwork. Although the process is increasingly user-friendly, the following areas deserve particular attention:&#x20;
+
+**Choose high-impact processes for AI:** Begin by pinpointing 1–2 workflows where automation could significantly lower support volume. Focus on repetitive, manual tasks that are currently handled by your team.
+
+**Understand your API requirements:** Many actions depend on connecting to APIs to fetch or update data (i.e Data connectors). Make sure you know which APIs are needed, what they return, and how they’ll be used within the skill.&#x20;
+
+**Collaborate cross-functionally:** Setting up Skills often requires input from product, engineering, or operations, particularly when building or updating APIs. Clear communication about the desired workflow is essential for putting the right systems in place.
+
+**Test and iterate:** Building effective Skills is an iterative process. It involves testing various instructions, troubleshooting edge cases, and ongoing refinement to enhance both reliability and the end-user experience.
+
+Getting these fundamentals right will help you launch faster and build more effective Skills.
+
+## Create and manage an skill
+
+Visit AI Agent - Capabilities - Skills, click to add a new skill
+
+<figure><img src="../.gitbook/assets/new skill.png" alt=""><figcaption></figcaption></figure>
+
+After creating the skill, you can manage these skills in the list, change their online status by switching the button, or delete them by clicking "Delete" button.
+
+<figure><img src="../.gitbook/assets/list.png" alt=""><figcaption></figcaption></figure>
+
+#### **Give your skill a title and trigger**
+
+Every skill should be given a **title** to identify it and a **trigger** telling AI when to trigger it. This is very important, so that AI triggers it at the right time. This clearly describes the situation AI should use the skill, and could also call out situations where AI should not use this skill.
+
+<figure><img src="../.gitbook/assets/blank.png" alt=""><figcaption></figcaption></figure>
+
+#### **Add instructions**
+
+Use the **instructions block** to give AI custom instructions to perform the skill. You can template the instructions with data, get AI to use Data connectors, store response data and reply to users.
+
+Use paragraph numbers to clearly distinguish steps, such as 1. Xxxx. 2. Xxxxx...Do not mix multiple steps together, as this will reduce the quality of AI responses.
+
+Provide as much information as possible in the instructions, any information not provided may be incorrectly inferred by AI.
+
+Start each instruction with a verb. Be clear, concise, and as complete as possible. Long instructions are less reliable so use multiple steps for each instruction if needed.
+
+#### **Use built-in actions**
+
+We offer system built-in actions for AI to use. Type "/" to call out the commands menu.
+
+<figure><img src="../.gitbook/assets/actions.png" alt=""><figcaption></figcaption></figure>
+
+If you want AI to actively close the conversation after completing all instructions, you can use the "Close Conversation" action.
+
+If you wish to transfer the conversation to a human agent for handling during a specific step, you can use the "Hand off" action in the corresponding step and select the specific transfer target.
+
+#### **Use data connectors**
+
+You can use the already configured data connectors to empower AI to query and update external data while enriching AI's responses. Simply type "/" and choose the data connector you need in the dropdown menu.
+
+<figure><img src="../.gitbook/assets/dataconnector.png" alt=""><figcaption></figcaption></figure>
+
+#### **Preview your actionbook and set it live**
+
+Test the configured skill within the preview window on the right, and you can adjust and optimize your configuration based on the AI's responses.When everything is set, you are now ready to click the "Set live" and make this skill effective.
+
+<figure><img src="../.gitbook/assets/预览.png" alt=""><figcaption></figcaption></figure>

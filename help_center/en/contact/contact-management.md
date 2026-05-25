@@ -1,0 +1,28 @@
+# Contact Management
+
+## Contact Management
+
+### Contact Import Conditions
+
+#### Manual Import
+
+* [Single Manual Import](https://helpdocs.ycloud.com/help-center/contact/create-import-contacts)
+* [Bulk Manual Import](https://helpdocs.ycloud.com/help-center/contact/create-import-contacts)
+
+#### API Import
+
+Click to view the [API Import](https://docs.ycloud.com/reference/contact-create) documentation.
+
+#### Inbound Message Entry
+
+When a customer sends an inbound message, YCloud automatically saves their phone number and name in the Contact list of your account, making it easier for you to manage contacts.
+
+### Filtering Contacts
+
+Contact supports [segmenting contacts by filter](https://helpdocs.ycloud.com/help-center/contact/contact-grouping), helping you classify and manage your Contact list more efficiently.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+### Contact Details
+
+Log in to your [YCloud account](https://www.ycloud.com), then go to **Contact > Contact list** to view your contact list. You can also search for contacts by parameters such as nickname and country.

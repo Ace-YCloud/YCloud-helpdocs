@@ -1,0 +1,27 @@
+# API Interface
+
+## Authentication
+
+Cloud uses API keys for authentication. An API key is a token provided by the client when making API calls. The key should be sent as a request header named X-API-Key:
+
+📚 How to get my API key? [Here](https://www.ycloud.com/console/#/app/developers/apikey?)\
+Get your API key
+
+📙 If you prefer SDKs, we offer multiple languages. Download our [SDKs](https://github.com/ycloud-developers) here.
+
+## Testing the API
+
+This is the SMS API documentation [https://ycloud.readme.io/reference/sms-send](https://ycloud.readme.io/reference/sms-send)\
+You can enter the API key and parameters to test the message
+
+<figure><img src="../../../../.gitbook/assets/image (472).png" alt=""><figcaption></figcaption></figure>
+
+## Response
+
+Open the response to view the full parameters.
+
+<figure><img src="../../../../.gitbook/assets/image (473).png" alt=""><figcaption></figcaption></figure>
+
+## Error Codes
+
+[If you receive any error codes, you can check their meanings here](https://ycloud.readme.io/reference/errors#error-codes)
