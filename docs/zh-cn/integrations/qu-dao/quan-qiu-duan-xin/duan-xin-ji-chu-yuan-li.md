@@ -1,0 +1,120 @@
+---
+doc_id: doc_integrations_qu_dao_quan_qiu_duan_xin_duan_xin_ji_chu_yuan_li
+language: zh-CN
+title: "短信基础原理"
+slug: duan-xin-ji-chu-yuan-li
+path: integrations/qu-dao/quan-qiu-duan-xin/duan-xin-ji-chu-yuan-li
+document_group: integrations
+path_in_group: qu-dao/quan-qiu-duan-xin/duan-xin-ji-chu-yuan-li
+parent_id: doc_integrations_qu_dao_quan_qiu_duan_xin
+order: 0
+status: published
+translation_status: source
+source_system: gitbook
+source_external_id: 
+source_revision: 
+created_at: 2026-04-02T07:27:42.922Z
+updated_at: 2026-04-02T07:27:42.922Z
+last_synced_at: 2026-04-02T07:27:42.922Z
+tags:
+---
+
+# 短信基础原理
+
+本节将展示 SMS 的工作原理并解释其相关基础，以便您做出最佳决策，包括：
+
+* 短信字符数限制
+* 短信状态
+* 发件人ID
+
+&#x20;
+
+## 短信字符数限制
+
+每条短信的字符限制为 160。未使用 GSM-7 编码的消息限制为 70 个字符。大型消息（超过 160 个字符）将拆分为多条单独的 SMS 消息，但大多数智能手机会将它们重新创建为一条消息。
+
+&#x20;
+
+## 短信编码
+
+### GSM-7
+
+GSM-7 是 GSM 消息的标准编码，是 7 位默认字母表。由于 SMS 消息一次传输 140 个 8 位八位字节，因此 GSM-7 编码的 SMS 消息最多可携带 160 个字符。大消息将被分段为每条 153 个字符。例如，163 个字符将作为两条消息发送。一个有 153 个字符，另一个有 10 个字符。GSM-7 是一个基本字符集，可以在这里找到。
+
+
+
+对于以下字符将使用两个字符进行编码：
+
+```
+|€^{}[]~\
+```
+
+&#x20;
+
+### **UCS-2**
+
+UCS-2 是一种字符编码标准，其中字符由固定长度的 16 位（2 个字节）表示。基本字符集可以在这里找到。\
+UCS-2编码消息每条70个字符，大消息将被分割成每条67个字符。例如，80 个字符将作为两条消息发送。一个有 67 个字符，另一个有 13 个字符。
+
+### **YCloud 如何对您的消息进行编码？**
+
+当您使用YCloud发送消息时，我们会自动以最紧凑的编码发送。如果您的消息中包含任何非 GSM-7 字符，我们将自动切换到 UCS-2。
+
+### **如何检查我的消息编码？**
+
+此页面提供了一个工具，可在您输入消息后显示编码类型和短信计数。
+
+&#x20;
+
+## 短信状态
+
+首先，让我们澄清一些关于短信发送报告及其含义的困惑。SMS 传送报告是您从 SMCS（短信服务中心）收到的一条消息，通知您从您的设备发送的 SMS 消息已传送至预期收件人。换句话说，短信发送报告显示您提交给运营商的短信的当前状态。
+
+&#x20;
+
+| 送达  | 是的 | 消息已发送，并且来自运营商的显示该消息的报告已送达。                                                                                                                                                                                               |
+| --- | -- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 未送达 | 是的 | <p>消息已发送，但运营商的报告显示消息未送达。<br>未送达原因包括：<br>1、设备问题：关机、无信号。<br>2.您的留言内容不恰当。<br>3. 您的消息发送时间不被允许。<br><br>每个国家/地区都有自己的短信规则，您可以<a href="https://help.ycloud.com/en/collections/1636318-country-restrictions">在此处查看国家/地区规则</a></p> |
+| 发送中 | 是的 | 消息已发送，运营商的报告尚未返回。这种状态通常会变成已送达或未送达。                                                                                                                                                                                       |
+| 失败  | 不  | 由于某种原因，YCloud 没有发送此消息。                                                                                                                                                                                                   |
+
+## Sender ID
+
+Sender  ID 显示谁发送了此消息。使用Sender ID，您可以从自定义发件人（品牌名称或网站名称）发送短信，而不是一串随机数字。
+
+<figure><img src="../../../.gitbook/assets/image (504).png" alt=""><figcaption></figcaption></figure>
+
+如果您没有注册Sender ID，YCloud 会为您随机分配一个 ID 来发送消息。因此，您无需注册发即可发送消息。
+
+每个国家的规则都大不相同，并非所有国家都提供Sender ID注册，部分国家ID需要收费，具体以当地运营商政策为准，因此在提交ID前，请先[查看各国限制](https://help.ycloud.com/en/collections/1636318-country-restrictions)或联系我们客服。
+
+
+
+### **创建我的Sender ID**
+
+#### **步骤1：**
+
+虽然Sender ID的注册是免费的，但该服务是针对账户余额超过100美元的客户。因此，您至少可以充值100美元。
+
+#### **步骤2：**
+
+进入Integration > SMS > [Sender ID](https://www.ycloud.com/console/#/app/sms/senderID)。
+
+报名需提供以下信息：
+
+1. 发件人ID;
+2. 目标国家；
+3. 公司网站;
+4. 典型模板；
+5. 行业;
+
+<figure><img src="../../../.gitbook/assets/image (505).png" alt=""><figcaption></figcaption></figure>
+
+#### **步骤3：**
+
+确认无误后提交Sener ID，等待注册和审核。YCloud会通过邮件跟您沟通提交的Sender ID问题，请注意您的邮箱。
+
+
+
+
+

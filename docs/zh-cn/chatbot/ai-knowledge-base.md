@@ -1,0 +1,34 @@
+---
+doc_id: doc_chatbot_ai_knowledge_base
+language: zh-CN
+title: "AI知识库"
+slug: ai-knowledge-base
+path: chatbot/ai-knowledge-base
+document_group: chatbot
+path_in_group: ai-knowledge-base
+parent_id: doc_chatbot
+order: 0
+status: published
+translation_status: source
+source_system: gitbook
+source_external_id: 
+source_revision: 
+created_at: 2026-04-02T07:22:17.753Z
+updated_at: 2026-04-02T07:22:17.753Z
+last_synced_at: 2026-04-02T07:22:17.753Z
+tags:
+---
+
+# AI知识库
+
+## 配置 AI 知识库
+
+1. 点击“添加知识”按钮。知识库目前支持上传多格式文档、在线数据（网页）以及问答格式的知识内容。
+2. 选择文档，然后点击“下一步”上传您的知识库文档。
+3. 选择问答，点击下一步自定义你的问答，输入你预期的问题 - 答案是正确的
+4. 选择在线数据，点击下一步，您可以输入需要进行数据爬取的网页链接，支持两种爬取模式：仅本网页或深入包含网页的页面，设置更新频率，点击确定即可开始数据爬取
+5. 上传或爬取知识库后，它将显示在列表中。您可以通过上方的筛选项进行筛选，并点击特定条目以显示其详细信息。
+
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (988).png" alt=""><figcaption></figcaption></figure>
