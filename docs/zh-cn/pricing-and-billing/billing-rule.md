@@ -1,0 +1,105 @@
+---
+doc_id: doc_pricing_and_billing_billing_rule
+language: zh-CN
+title: "WhatsApp消息计费规则"
+slug: billing-rule
+path: pricing-and-billing/billing-rule
+document_group: pricing-and-billing
+path_in_group: billing-rule
+parent_id: doc_pricing_and_billing
+order: 1020
+status: published
+translation_status: source
+source_system: gitbook
+source_external_id: 
+source_revision: 
+created_at: 2026-04-02T11:17:43.081Z
+updated_at: 2026-04-02T11:17:43.081Z
+last_synced_at: 2026-04-02T11:17:43.081Z
+tags:
+---
+
+# WhatsApp消息计费规则
+
+{% hint style="warning" %}
+所有 WhatsApp 企业账号采用按消息计费的方式。即：
+
+* 每条已送达的营销模板消息；
+* 每条已送达的身份验证模板消息；
+* 在客户服务窗口之外送达的通知类模板消息。
+{% endhint %}
+
+## 计费方式
+
+YCloud根据收件人的国家和消息类型进行收费。消息分为一下5种类型：
+
+<table><thead><tr><th width="139.98046875">消息类型</th><th>解释</th></tr></thead><tbody><tr><td>营销</td><td>发送营销模板</td></tr><tr><td>通知</td><td>发送通知模板</td></tr><tr><td>验证码</td><td>发送验证码模板</td></tr><tr><td>国际验证码</td><td>被Meta认定为需要执行国际验证码价格的企业，在向适用该价格的国家发送验证码模板消息时，将按国际验证码价格收费。 <a href="billing-rule.md#guo-ji-yan-zheng-ma-jia-ge">详细解释</a></td></tr><tr><td>服务</td><td>发非模板消息</td></tr></tbody></table>
+
+具体价格可在我们官网查看：[http://www.ycloud.com/price](http://www.ycloud.com/price)
+
+⚠️新价格将会在7月1日更新到官网上。您也可以联系您的客户经理获取新的价格。
+
+##
+
+## WhatsApp商业账号的发消息规则
+
+当您和客户之间不存在服务窗口时，您只能给客户发送**模板类消息**。模板类型有：**营销模板、通知模板、验证码模板**3种类型。&#x20;
+
+模板均由Meta进行审核。创建模板时，您可以根据内容选择模板的类型，若您选择的模板类型不服务Meta的[模板规则](https://developers.facebook.com/docs/whatsapp/updates-to-pricing/new-template-guidelines/#template-categorization)，则有可能被Meta自动变更模板类型。最终模板的类型和发往的国家决定了消息的价格。
+
+
+
+**什么是服务窗口？**
+
+当客户给您的WhatsApp商业账号发送了一条消息时，一个虚拟的24小时服务窗口就会开始，客户再次回复则会自动延长计时器。
+
+当您和用户之间存在客服窗口时，您可以向用户发送非模板类消息即自由格式的消息，当然您也可以继续发送模板消息。
+
+{% hint style="warning" %}
+在该窗口内，您发送非模板消息和通知类消息是免费的，继续发送营销、验证码类模板仍然收费。
+{% endhint %}
+
+
+
+## 国际验证码价格
+
+有国际验证码价格的地区：印度，印度尼西亚，埃及，马来西亚，尼日利亚，巴基斯坦，沙特阿拉伯，南非，阿拉伯联合酋长国
+
+#### 具体规则：
+
+被认证为国际企业的企业会被执行国际验证码价格。
+
+#### **国际企业认证**
+
+如果您的企业在连续 30 天（印度往前推180天）内所有 WABA 帐户产生验证码对话次数超过 **75 万**，且这些对话的WhatsApp用户是属于具有国际验证码价格的国家/地区，则您将被视为符合国际验证码的资格。
+
+一旦被认定符合条件，我们将会给您**发送邮件通知**，并尝试使用公开信息确定您的企业的**主要营业地点**。在30天后，您开启的非主营地区但具有国际验证码价格国家的验证码对话，我们将按照国际验证码价格收费。
+
+举例：
+
+_若您的主要营业地点被判为印尼，那你的印尼地区的验证码对话仍然按照普通验证码对话收费，但发往印度的则按国际验证码收费。_
+
+{% hint style="warning" %}
+请注意，资格是永久性的。一旦您的企业被视为符合资格，在适用国际验证码的市场中，在开始执行之后的验证对话都将按国际验证码价格进行收费。
+{% endhint %}
+
+
+
+## 免费对话入口
+
+如果客户使用 Android 或 iOS 设备的客户通过[点击 WhatsApp 广告](https://www.facebook.com/business/help/447934475640650/)或[Facebook 页面号召性用语](https://www.facebook.com/help/977869848936797)按钮向您发送消息。则会开启一个**72小时**的免费对话，在这72小时之内，你发送任何类型的消息为免费。 请注意，是否能发送自由格式的消息的规则仍然由服务窗口决定。
+
+{% hint style="info" %}
+每个广告对于1个客户的首次点击才会开启。若1个客户点击同一广告2次，则第2次点击并不会开启免费对话入口。
+{% endhint %}
+
+
+
+
+
+## 观看详细介绍视频👇
+
+{% embed url="https://www.bilibili.com/video/BV1KeuvzJEpG/?vd_source=44e98f98e97b561e59fd9562e8c794bf" %}
+
+
+

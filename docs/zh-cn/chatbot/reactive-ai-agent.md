@@ -1,0 +1,71 @@
+---
+doc_id: doc_chatbot_reactive_ai_agent
+language: zh-CN
+title: "AI智能体"
+slug: reactive-ai-agent
+path: chatbot/reactive-ai-agent
+document_group: chatbot
+path_in_group: reactive-ai-agent
+parent_id: doc_chatbot
+order: 600
+status: published
+translation_status: source
+source_system: gitbook
+source_external_id: 
+source_revision: 
+created_at: 2026-04-02T11:12:32.065Z
+updated_at: 2026-04-02T11:12:32.065Z
+last_synced_at: 2026-04-02T11:12:32.065Z
+tags:
+---
+
+# AI智能体
+
+## 什么是AI 智能体
+
+应答型AI智能体通过配置预设角色来响应上行消息，例如留资线索获取、店铺导购、客服，或根据您需求定制的专属角色。当您认真设置了AI档案，并为 AI提供全面引导，丰富其知识库和操作手册，它就能高效处理常见的重复性客户咨询。此外，它甚至能够完成复杂的数据交互任务，如查询订单、更新地址数据等信息，从而显著提升客户服务运营效率。
+
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+## 如何为您的业务配置定制化 AI
+
+### 概览（General）
+
+应答型AI 智能体的基础设置。
+
+#### [档案（Profile）](ai-profile.md)
+
+配置聊天机器人的个性与对话规则，以满足定制化品牌服务需求。
+
+在档案配置中，您可为应答型AI智能体设置头像、名称并选择相应角色：
+
+**留资线索获取**：该类型智能体通过对话式AI自动捕捉并筛选潜在客户信息。依托7×24小时即时响应与自动化流程，它不仅能提升转化率、优化线索质量，还能确保商机无一遗漏。
+
+**店铺导购**：智能店铺导购助手通过实时引导顾客找到心仪商品，有效提升购物体验。它可以解答产品特性、库存、价格及促销相关问题，通过洞察顾客需求提供个性化推荐，智能搭配关联商品。
+
+**客户服务**：客户服务助手提供7×24小时即时自动支持，快速解决常见咨询与问题。它能处理订单跟踪、退换货办理、常见问题解答及基础故障排查等高频任务，运用AI精准理解用户意图，即时提供解决方案或将复杂问题连同完整上下文无缝转接至人工坐席。
+
+**自定义助手**：根据您的业务需求，自由定制AI助手的功能角色。
+
+### 知识（Knowledge）
+
+您认为 AI 应该知道的知识，作为 AI 回答客户的素材库。
+
+#### [知识库（Knowledge base）](ai-knowledge-base.md)
+
+让AI学习知识，包括文件、在线网页、QA 对等形式的知识输入。自动回答常见问题，并执行重复性任务，使您的团队能够专注于业务增长。
+
+#### [建议（Suggestions）](ai-suggestions.md)
+
+为增强AI回答客户问题的能力，建议为这些未解决的查询提供相关知识。
+
+### 手册（Manuals）
+
+#### [流程（Flows）](chuang-jian-yi-ge-flow.md)
+
+在可视化编辑器中编辑可以让 Chatbot 与用户在 WhatsApp 上沟通的工作流。
+
+#### [行动指南（Actionbooks）](ai-actionbooks.md)
+
+拆分复杂任务，输入完整执行逻辑，以便 AI 为您完成较复杂的任务。
+

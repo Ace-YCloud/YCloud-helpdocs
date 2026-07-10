@@ -1,0 +1,58 @@
+---
+doc_id: doc_integrations_qu_dao_you_jian_you_jian_gong_neng_jian_kong_he_you_hua
+language: zh-CN
+title: "监控和优化"
+slug: jian-kong-he-you-hua
+path: integrations/qu-dao/you-jian/you-jian-gong-neng/jian-kong-he-you-hua
+document_group: integrations
+path_in_group: qu-dao/you-jian/you-jian-gong-neng/jian-kong-he-you-hua
+parent_id: doc_integrations_qu_dao_you_jian_you_jian_gong_neng
+order: 30
+status: published
+translation_status: source
+source_system: gitbook
+source_external_id: 
+source_revision: 
+created_at: 2026-04-02T11:16:45.857Z
+updated_at: 2026-04-02T11:16:45.857Z
+last_synced_at: 2026-04-02T11:16:45.857Z
+tags:
+---
+
+# 监控和优化
+
+借助 YCloud 的跟踪和分析功能，最大限度地提高电子邮件活动的有效性。获得有关收件人行为、活动绩效指标等的宝贵见解，以不断优化您的电子邮件策略并取得更好的结果。
+
+&#x20;
+
+## [电子邮件状态](https://helpcenter.ycloud.com/docs/XldbuM#ee3d27329d013840e7a2c0c3d7b266f0)
+
+为了确保有效的沟通，了解电子邮件发送后的状态非常重要。此信息可以帮助您确定收件人是否已收到您的电子邮件，以及他们是否单击了电子邮件中包含的任何 URL。我们通常将这些信息分为两类：发送数据和跟踪数据。通过分析这些数据，您可以获得有关沟通工作有效性的宝贵见解。
+
+&#x20;
+
+## 关于发送数据
+
+| 状态  | 定义                                                                                                                                                                                                           |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 发送中 | 邮件已发送，但状态信息尚未返回。                                                                                                                                                                                             |
+| 已送达 | 电子邮件已到达收件人的邮箱。                                                                                                                                                                                               |
+| 未送达 | <p>• 无法建立SMTP 连接：可能存在服务器错误或邮箱提供商的内部服务存在问题。<br>• 拒绝域名：由于IP 或域名相关原因，邮件发送被拒绝。<br>• 电子邮件地址不存在：电子邮件地址可能不存在。<br>• 邮件内容被拒绝：此电子邮件的发送行为或内容可能被确定为垃圾邮件。<br>• 已拒绝：电子邮件可能被异常拒绝或由于收件人设置而被拒绝。<br>• 其他：可能有其他原因导致电子邮件未送达。</p> |
+| 未发送 | <p>无效电子邮件，包括<br>• 黑名单，免费：该电子邮件地址位于黑名单中，不会被发送。YCloud 不会向您收取此电子邮件的费用。<br>• 取消订阅，免费：该电子邮件地址已被其用户取消订阅。YCloud 不会向您发送此电子邮件或向您收取费用。<br>• MX 查找错误：YCloud 发送池的临时或永久连接无法访问接收域的MX（邮件交换）服务。</p>                          |
+
+&#x20;
+
+## 关于追踪数据
+
+| 统计字段 | 定义                                                                                                                                                     |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 打开   | <p><strong>电子邮件打开跟踪。</strong><br>YCloud利用电子邮件领域常见的跟踪方法来监控电子邮件被打开的次数。每封电子邮件中都嵌入了一个小的透明图像，打开电子邮件后就会加载该图像。请注意，由于电子邮件技术的复杂性和电子邮件客户端的多样性，此方法并非 100% 准确。</p> |
+| 点击次数 | <p><strong>URL 点击跟踪</strong><br>每次收件人点击电子邮件中的 URL 时，跟踪器都会将其重定向并通过 YCloud 的服务器发送到预期网站。这样可以跟踪点击次数，可以在分析数据中查看。</p>                                        |
+
+
+
+## 统计
+
+在这里您可以查看您的电子邮件发送的分析和发送日志。[前往查看](https://www.ycloud.com/console/#/app/integrations/email/analytics/overview)
+
+<figure><img src="../../../../.gitbook/assets/image (572).png" alt=""><figcaption></figcaption></figure>
