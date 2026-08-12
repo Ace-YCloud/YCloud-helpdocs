@@ -32,7 +32,7 @@ description: 将过程分解为步骤，让AI帮助您完成复杂任务
 
 每个技能都应该有一个**标题** ，以便您找到它，以及触发条件的描述，用于告知AI何时触发它。这非常重要，这样AI才能在正确的时间触发它。这清楚地描述了AI智能体应该使用该技能的情况，也可以指出AI不应该使用该技能的情况。
 
-<figure><img src="../.gitbook/assets/image (851).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (993).png" alt=""><figcaption></figcaption></figure>
 
 #### 添加指令
 

@@ -8,13 +8,13 @@
 
 登陆您的YCloud账号 > Templates > Add Template
 
-<figure><img src="../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
 
 ## 步骤2:
 
 选择对应的您想要创建的带有WhatsApp Pay的模版类型。之后按照页面的引导，填写完消息模版内需要填写的信息，点击提交即可。
 
-<figure><img src="../../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -12,19 +12,19 @@
 
 点击Install
 
-<figure><img src="../../../.gitbook/assets/image (587).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (721).png" alt=""><figcaption></figcaption></figure>
 
 查看协议，确认无误后点击 安装 按钮。
 
-<figure><img src="../../../.gitbook/assets/image (588).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (722).png" alt=""><figcaption></figcaption></figure>
 
 ## 步骤2：绑定店铺
 
 跳转到Shopify app store 后点击安装软件。
 
-<figure><img src="../../../.gitbook/assets/image (589).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (723).png" alt=""><figcaption></figcaption></figure>
 
 ## 步骤3：同步店铺数据（可选）
 
-<figure><img src="../../../.gitbook/assets/image (590).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (724).png" alt=""><figcaption></figcaption></figure>
 

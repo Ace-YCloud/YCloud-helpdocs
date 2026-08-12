@@ -18,7 +18,7 @@ Inbox 作为一款强大的工具，能够显著提升销售团队的工作效�
 
 ### 设置分配规则
 
-<figure><img src="../../.gitbook/assets/image (541).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (675).png" alt=""><figcaption></figcaption></figure>
 
 * 为每个号码配置对应的销售，选中分配规则“依次将新会话自动分配给列表中的人员，无论是否在线”并将该号码对应的销售添加进列表。
 * 打开高级分配规则：会话进线是会判断客户是否有Owner，有Owner的情况下会将此会话强制分配给该Owner
@@ -43,7 +43,7 @@ Inbox 作为一款强大的工具，能够显著提升销售团队的工作效�
 
 定义团队重点跟进记录的信息，添加为contact属性。例如：定义“备注”，字段为“文本”。销售在聊天中可记录该项信息。更好的了解客户信息
 
-<figure><img src="../../.gitbook/assets/image (535).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (669).png" alt=""><figcaption></figcaption></figure>
 
 ### 导入客户
 
@@ -59,13 +59,13 @@ Inbox 作为一款强大的工具，能够显著提升销售团队的工作效�
 
 PS：销售仅可以看到分配给自己的和Owner归属是自己的对话。
 
-<figure><img src="../../.gitbook/assets/image (466).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (600).png" alt=""><figcaption></figcaption></figure>
 
 ### 用好客户详情
 
 回复内容要避免模板化，在与客户沟通时记录重要客户信息，充分利用 Inbox 中已记录的客户信息，提供个性化的解决方案和建议，让客户感受到被重视和关注。
 
-<figure><img src="../../.gitbook/assets/image (536).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (670).png" alt=""><figcaption></figcaption></figure>
 
 ### 利用Chat Links 获取更多客户
 

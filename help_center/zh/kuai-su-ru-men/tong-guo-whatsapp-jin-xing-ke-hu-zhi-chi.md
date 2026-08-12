@@ -24,7 +24,7 @@
     * 该电话号码必须能够接收语音呼叫或短信。
     * 该号码之前没有注册过 WhatsApp App 或者商业账户。
 
-    <figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
 
 详细操作参考：[创建WhatsApp Business API账户](https://helpdocs.ycloud.com/help-center/zh/kuai-su-ru-men/chuang-jian-whatsapp-business-api-zhang-hu?fallback=true)
 
@@ -38,7 +38,7 @@
 
 角色选择 Service
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
 详细操作参考：[邀请用户和团队](https://helpdocs.ycloud.com/help-center/zh/zhang-hu-guan-li/yong-hu-he-tuan-dui)
 
@@ -46,7 +46,7 @@
 
 将步骤一邀请的客服，配置到WhatsApp商业号码的分配规则中，以保证他们可以及时收到来自意向客户的咨询。
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
 详细操作参考：[对话分配规则](https://helpdocs.ycloud.com/help-center/zh/whatsapp-accounts-zhang-hao-guan-li/shou-ji-hao-ma-guan-li/dui-hua-fen-pei-gui-ze)
 
@@ -56,7 +56,7 @@
 
 操作路径： [WhatsApp accounts](https://www.ycloud.com/console/#/app/dashboard/account) > [号码的Settings ](https://www.ycloud.com/console/#/app/dashboard/accountSetting/profile?redirectPath=%2Fapp%2Fdashboard%2Faccount)> [Automation](https://www.ycloud.com/console/#/app/dashboard/accountSetting/automations?redirectPath=%2Fapp%2Fdashboard%2Faccount)
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
 详细操作参考：[自动化消息](https://helpdocs.ycloud.com/help-center/zh/whatsapp-accounts-zhang-hao-guan-li/shou-ji-hao-ma-guan-li/zi-dong-hua#ice-breakers-po-bing-ti-shi)
 
@@ -66,7 +66,7 @@ Chatbot是YCloud基于WhatsApp开发的自动化流程机器人。通过识别�
 
 1. [YCloud 后台](https://www.ycloud.com/console/#/app/getStarted) > [Chatbot](https://www.ycloud.com/console/#/app/chatbot/list) > [Create Chatbot](https://www.ycloud.com/console/#/app/chatbot/list) ,并设置Chatbot的基础配置
 
-<figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
 
 详细操作参考: [创建一个Chatbot](https://helpdocs.ycloud.com/help-center/zh/chatbot/chuang-jian-yi-ge-chatbot)
 
@@ -74,13 +74,13 @@ Chatbot是YCloud基于WhatsApp开发的自动化流程机器人。通过识别�
 
 * 设置 Flaw 的trigger
 
-<figure><img src="../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
 
 * 激活Flow
 
-<figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
 
 详细操作参考:[创建一个Flow](https://helpdocs.ycloud.com/help-center/zh/chatbot/chuang-jian-yi-ge-flow)
 
@@ -92,11 +92,11 @@ Chatbot是YCloud基于WhatsApp开发的自动化流程机器人。通过识别�
 
 添加要配置的Chatbot
 
-<figure><img src="../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
 
 设置Chatbot的接待时间
 
-<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
 
 详细操作参考：[Chatbot接待设置](https://helpdocs.ycloud.com/help-center/zh/whatsapp-accounts-zhang-hao-guan-li/shou-ji-hao-ma-guan-li/ji-qi-ren-jie-dai-she-zhi)
 
@@ -112,9 +112,9 @@ Inbox是YCloud的重要功能，为服务团队提供高效客户沟通与管理
 
 掌握如何通过Inbox统计报告了解团队表现至关重要，因为这能帮助管理者基于数据做出科学决策，优化资源分配，提升团队效率和绩效，及时发现并解决问题，从而推动团队和企业的发展。
 
-<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
 详细操作参考：[Inbox数据分析](https://helpdocs.ycloud.com/help-center/zh/inbox/inbox-shu-ju-fen-xi)
 
@@ -122,7 +122,7 @@ Inbox是YCloud的重要功能，为服务团队提供高效客户沟通与管理
 
 当团队主管需要对团队成员的会话进行定期巡检或抽查质检时，会话日志往往会派上很大的用场。 会话日志是会话记录的管理后台，所有发生过的会话都将被记录在其中。此外，会话日志还提供了便捷的检索功能，便于管理人员迅速定位具体对话，并通过会话详情页查看会话的具体详情。
 
-<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
 
 详细操作参考：[会话日志](https://helpdocs.ycloud.com/help-center/zh/inbox/hui-hua-ri-zhi)
 
@@ -143,7 +143,7 @@ Inbox是YCloud的重要功能，为服务团队提供高效客户沟通与管理
 
 通过这些设计，企业可以更好地利用WhatsApp的即时通讯功能，提升客户体验和业务效率。
 
-<figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
 
 ### **聊天接入点的常见渠道途径：**
 

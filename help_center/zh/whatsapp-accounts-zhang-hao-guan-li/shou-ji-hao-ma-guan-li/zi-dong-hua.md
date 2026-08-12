@@ -12,7 +12,7 @@
 
 自动化的设置入口：Home > WhatsApp accounts > 号码的Settings > Automation
 
-<figure><img src="../../.gitbook/assets/image (302).png" alt=""><figcaption><p>Automations</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (436).png" alt=""><figcaption><p>Automations</p></figcaption></figure>
 
 ##
 
@@ -24,11 +24,11 @@
 注意：是当客户首次打开跟您的聊天窗口时触发，他可能还未发送任何消息给您。
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (303).png" alt=""><figcaption><p>Welcome message</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (437).png" alt=""><figcaption><p>Welcome message</p></figcaption></figure>
 
 **发送的消息格式**：欢迎消息可发送自由格式的消息：文本、图文、带按钮的互动类消息。_例如：图文消息，可查看以下示例：_
 
-<figure><img src="../../.gitbook/assets/image (304).png" alt=""><figcaption><p>Media message as Welcome message</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (438).png" alt=""><figcaption><p>Media message as Welcome message</p></figcaption></figure>
 
 **使用场景**：欢迎消息非常适合服务互动，例如客户支持。例如，您可以在应用或网站上嵌入 WhatsApp 按钮。当用户点击该按钮时，他们将被引导到 WhatsApp，在那里他们将收到一条欢迎消息，其中提供了有关如何与您互动的背景信息。
 
@@ -38,7 +38,7 @@
 
 #### 步骤1：开启欢迎消息开关
 
-<figure><img src="../../.gitbook/assets/image (305).png" alt=""><figcaption><p>Enable welcome message</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (439).png" alt=""><figcaption><p>Enable welcome message</p></figcaption></figure>
 
 #### 步骤2：编辑自动回复的消息内容
 
@@ -52,7 +52,7 @@
 注意：互动类消息中，如果您想使用列表按钮，Header务必设置为None或者纯文本Header。
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (306).png" alt=""><figcaption><p>Save welcome message</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (440).png" alt=""><figcaption><p>Save welcome message</p></figcaption></figure>
 
 
 
@@ -60,7 +60,7 @@
 
 破冰提示为用户提供了一种通过常见问题列表与企业展开对话的方式。当用户打开您的对话窗口时，在用户的输入框内会出现一列预置的破冰语，用户点击后会立即发送消息。
 
-<figure><img src="../../.gitbook/assets/image (307).png" alt=""><figcaption><p>Ice breakers</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (441).png" alt=""><figcaption><p>Ice breakers</p></figcaption></figure>
 
 **规则**：您最多可以在一个电话号码上配置 4 个破冰提示。每个破冰游戏最多可以有 80 个字符。不支持表情符号。
 
@@ -68,25 +68,25 @@
 
 #### 步骤1：开启破冰提示开关
 
-<figure><img src="../../.gitbook/assets/image (308).png" alt=""><figcaption><p>Enable ice breaker</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (442).png" alt=""><figcaption><p>Enable ice breaker</p></figcaption></figure>
 
 #### 步骤2：设置选项
 
 设置完选项后点击保存。
 
-<figure><img src="../../.gitbook/assets/image (309).png" alt=""><figcaption><p>Edit and save Ice breaker</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (443).png" alt=""><figcaption><p>Edit and save Ice breaker</p></figcaption></figure>
 
 ## Auto-reply for unassigned conversations（自动回复未分配对话）
 
 当进入对话未分配，即无人接待时，系统自动给客户回复一条消息，确保及时响应客户。
 
-<figure><img src="../../.gitbook/assets/image (321).png" alt=""><figcaption><p>Auto-reply for unassigned message</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (455).png" alt=""><figcaption><p>Auto-reply for unassigned message</p></figcaption></figure>
 
 ### 操作步骤
 
 #### 步骤1：打开开关
 
-<figure><img src="../../.gitbook/assets/image (310).png" alt=""><figcaption><p>Enable auto-reply for unassigned conversations</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (444).png" alt=""><figcaption><p>Enable auto-reply for unassigned conversations</p></figcaption></figure>
 
 #### 步骤2：编辑自动回复内容
 
@@ -98,7 +98,7 @@
 
 设置完成后点击保存。
 
-<figure><img src="../../.gitbook/assets/image (320).png" alt=""><figcaption><p>Edit and save auto-reply for unassigned conversations</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (454).png" alt=""><figcaption><p>Edit and save auto-reply for unassigned conversations</p></figcaption></figure>
 
 ## Auto-reply for in queue conversations（自动回复在排队中的会话）
 
@@ -116,9 +116,9 @@
 
 当当前到达接待会话上限时，接待人员的Inbox界面上方会显示当前正在排队的人数。点击 people in queue，勾选想要转接给自己的会话，即可转接成功。
 
-<figure><img src="../../.gitbook/assets/image (651).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (785).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (652).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (786).png" alt=""><figcaption></figcaption></figure>
 
 **方法二：**
 
@@ -126,7 +126,7 @@ Inbox > Unassigned > In queue
 
 可以看到正在排队中的会话，点进会话后进行会话转接。
 
-<figure><img src="../../.gitbook/assets/image (654).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (788).png" alt=""><figcaption></figcaption></figure>
 
 ## Auto-reply for delayed agent responses（超时自动回复）
 
@@ -136,7 +136,7 @@ Inbox > Unassigned > In queue
 
 #### 步骤1：打开开关
 
-<figure><img src="../../.gitbook/assets/image (322).png" alt=""><figcaption><p>Enable Auto-reply for delayed agent responses</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (456).png" alt=""><figcaption><p>Enable Auto-reply for delayed agent responses</p></figcaption></figure>
 
 #### 步骤2：设置等待时间和回复内容
 
@@ -150,7 +150,7 @@ Inbox > Unassigned > In queue
 
 设置完成后点击保存。
 
-<figure><img src="../../.gitbook/assets/image (323).png" alt=""><figcaption><p>Edit and save Auto-reply for delayed agent responses</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (457).png" alt=""><figcaption><p>Edit and save Auto-reply for delayed agent responses</p></figcaption></figure>
 
 ## Auto-close Inbox conversations（超时自动关闭对话）
 
@@ -167,7 +167,7 @@ Inbox > Unassigned > In queue
 
 #### 步骤1：开启开关
 
-<figure><img src="../../.gitbook/assets/image (324).png" alt=""><figcaption><p>Enable auto-close Inbox conversation</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (458).png" alt=""><figcaption><p>Enable auto-close Inbox conversation</p></figcaption></figure>
 
 #### 步骤2：编辑自动关闭时间
 
@@ -177,7 +177,7 @@ Inbox > Unassigned > In queue
 
 配置完成后点击保存。
 
-<figure><img src="../../.gitbook/assets/image (325).png" alt=""><figcaption><p>Save auto-close Inbox conversations</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (459).png" alt=""><figcaption><p>Save auto-close Inbox conversations</p></figcaption></figure>
 
 ## CSAT (满意度调查问卷）
 
@@ -187,10 +187,10 @@ Inbox > Unassigned > In queue
 
 #### 步骤1：开启开关
 
-<figure><img src="../../.gitbook/assets/image (655).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (789).png" alt=""><figcaption></figcaption></figure>
 
 #### 步骤2：编辑文案
 
 如下图，支持配置发送消息的文案和按钮文字。展开按钮后，调查问卷的格式为固定格式，无法进行修改。
 
-<figure><img src="../../.gitbook/assets/image (656).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (790).png" alt=""><figcaption></figcaption></figure>

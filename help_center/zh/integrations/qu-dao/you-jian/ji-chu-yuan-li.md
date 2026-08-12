@@ -22,7 +22,7 @@ Gmail、Outlook 和 Yahoo Mail 等主要 ISP 采用先进的垃圾邮件过滤�
 
 发送邮件时，需要上传Sender name，Email address 和 Domain字段。图中显示的是一个发件人的信息，包含了以上3部分，可以在图中看到具体的区别：
 
-<figure><img src="../../../.gitbook/assets/image (567).png" alt=""><figcaption><p>What are the differences between the sender name, email address, and domain?</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (701).png" alt=""><figcaption><p>What are the differences between the sender name, email address, and domain?</p></figcaption></figure>
 
 ## 域名验证
 

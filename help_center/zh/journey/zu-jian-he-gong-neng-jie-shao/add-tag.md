@@ -4,7 +4,7 @@
 
 添加新标签：在输入框内直接输入新标签回车
 
-<figure><img src="../../.gitbook/assets/image (615).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (749).png" alt=""><figcaption></figcaption></figure>
 
 
 

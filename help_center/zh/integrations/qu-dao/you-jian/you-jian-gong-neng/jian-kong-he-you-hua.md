@@ -34,4 +34,4 @@
 
 在这里您可以查看您的电子邮件发送的分析和发送日志。[前往查看](https://www.ycloud.com/console/#/app/integrations/email/analytics/overview)
 
-<figure><img src="../../../../.gitbook/assets/image (572).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (706).png" alt=""><figcaption></figcaption></figure>

@@ -16,13 +16,13 @@ Cloud 使用 API 密钥进行身份验证。API 密钥是客户端在进行 API 
 这是 SMS API 文档[https://ycloud.readme.io/reference/sms-send](https://ycloud.readme.io/reference/sms-send)\
 您可以输入 API 密钥和参数来测试消息
 
-<figure><img src="../../../../.gitbook/assets/image (557).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (691).png" alt=""><figcaption></figcaption></figure>
 
 ## 响应
 
 打开响应以查看完整参数。
 
-<figure><img src="../../../../.gitbook/assets/image (558).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (692).png" alt=""><figcaption></figcaption></figure>
 
 ## 错误代码
 

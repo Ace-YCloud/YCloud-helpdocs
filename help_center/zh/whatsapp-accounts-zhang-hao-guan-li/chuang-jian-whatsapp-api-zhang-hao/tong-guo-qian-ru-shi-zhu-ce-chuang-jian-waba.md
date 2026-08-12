@@ -37,17 +37,17 @@ description: 快速创建WhatsApp business account
 
 访问 [WhatsApp accounts ](https://www.ycloud.com/console/#/app/dashboard/account)页面，点击WhatsApp Business API创建按钮。注意：请确保您的网络可以正常访问Facebook网站。
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
 
 滚动至最下方点击开始创建
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 
 ### 步骤2：登录Facebook
 
 点击登录后会出现Facebook 授权弹窗，请登录您准备好的Facebook账号。若账号不正确，可点击Log in another account 进行切换。确认账号无误后点击 Continue进行下一步骤。
 
-<figure><img src="../../.gitbook/assets/image (257).png" alt=""><figcaption><p>Login Facebook</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (391).png" alt=""><figcaption><p>Login Facebook</p></figcaption></figure>
 
 
 
@@ -55,7 +55,7 @@ description: 快速创建WhatsApp business account
 
 确认无误后点击 Get started 继续创建。
 
-<figure><img src="../../.gitbook/assets/image (258).png" alt=""><figcaption><p>Policy</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (392).png" alt=""><figcaption><p>Policy</p></figcaption></figure>
 
 ### 步骤4：创建BM账号
 
@@ -70,11 +70,11 @@ description: 快速创建WhatsApp business account
 若已有BM账号，可在Business portfolio选项中选择。
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (259).png" alt=""><figcaption><p>Create BM</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (393).png" alt=""><figcaption><p>Create BM</p></figcaption></figure>
 
 ### 步骤5：选择使用新的WhatsApp号码
 
-<figure><img src="../../.gitbook/assets/image (830).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (972).png" alt=""><figcaption></figcaption></figure>
 
 ###
 
@@ -82,7 +82,7 @@ description: 快速创建WhatsApp business account
 
 选择/创建新的WABA。已有WABA的情况下可以下拉框选择已有的WABA，否则选择 创建。
 
-<figure><img src="../../.gitbook/assets/image (247).png" alt=""><figcaption><p>Create WABA</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (381).png" alt=""><figcaption><p>Create WABA</p></figcaption></figure>
 
 ### 步骤7：设置WABA和号码信息
 
@@ -90,19 +90,19 @@ description: 快速创建WhatsApp business account
 2. WhatsApp business display name：号码的名称。客户最终看到的名称，需要跟企业的名称相关，或者跟品牌名称相关。点击查看[显示名称准则](https://www.facebook.com/business/help/757569725593362)。
 3. Category：行业
 
-<figure><img src="../../.gitbook/assets/image (832).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (974).png" alt=""><figcaption></figcaption></figure>
 
 ### 步骤8：添加WhatsApp 号码
 
 请确认该号码之前未注册过WhatsApp
 
-<figure><img src="../../.gitbook/assets/image (833).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (975).png" alt=""><figcaption></figcaption></figure>
 
 
 
 输入收到的验证码并完成验证
 
-<figure><img src="../../.gitbook/assets/image (834).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (976).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -110,7 +110,7 @@ description: 快速创建WhatsApp business account
 
 提示创建成功，请务必点击弹窗下方的 Finish 按钮。
 
-<figure><img src="../../.gitbook/assets/image (253).png" alt=""><figcaption><p>WABA created</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (387).png" alt=""><figcaption><p>WABA created</p></figcaption></figure>
 
 ## 下一步：绑定更多的WhatsApp手机号码
 

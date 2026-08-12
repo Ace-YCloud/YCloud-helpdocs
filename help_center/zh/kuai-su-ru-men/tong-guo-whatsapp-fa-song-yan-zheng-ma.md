@@ -47,9 +47,9 @@ WhatsApp 专为验证码类型的消息提供了特定的模板：
 
 * 点击Home > Templates >  + Add Template，前往[消息模板创建](https://www.ycloud.com/console/#/app/dashboard/templateSetting/add)。
 
-<figure><img src="../.gitbook/assets/image (771).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (905).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (772).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (906).png" alt=""><figcaption></figcaption></figure>
 
 #### 2.设置模板
 
@@ -57,7 +57,7 @@ WhatsApp 专为验证码类型的消息提供了特定的模板：
 
     * 请注意：**模版名称必须要唯一的**。名称仅支持小写字母a-z、0-9、 下划线（\_)。模版一旦提交，无法进行更改。
 
-    <figure><img src="../.gitbook/assets/image (633).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (767).png" alt=""><figcaption></figcaption></figure>
 * 选择发送方式：
   * Copy code（复制验证码）
   * Autofill-One tap（一键填充验证码）
@@ -65,7 +65,7 @@ WhatsApp 专为验证码类型的消息提供了特定的模板：
 
 在这里选择不同的发送方式，用户收到的界面按钮和使用方法也将有所不同。总的来说，**零点击验证码可提供最佳用户体验，所以是首选的解决方案。**  但是，目前仅 Android 且非印度地区支持该按钮按钮，而且此类按钮需要更改您应用的代码，才能执行“握手”，另外还需要更改应用的签名密钥哈希。  具体对比如下：
 
-<table data-header-hidden data-full-width="true"><thead><tr><th width="115">发送方式</th><th width="213"></th><th width="221"></th><th width="194"></th></tr></thead><tbody><tr><td><strong>发送方式</strong></td><td><strong>Copy code（复制验证码）</strong></td><td><strong>One tap（一键填充验证码）</strong></td><td><strong>Zero tap（零点击验证码）</strong></td></tr><tr><td><strong>界面展示</strong><br></td><td><img src="../.gitbook/assets/image (637).png" alt="" data-size="original"></td><td><img src="../.gitbook/assets/image (638).png" alt="" data-size="original"></td><td><img src="../.gitbook/assets/image (639).png" alt="" data-size="original"></td></tr><tr><td><strong>使用操作</strong></td><td>用户在WhatsApp点击该按钮进行复制，然后手动切换到您的应用页面，粘贴验证码至应用页面</td><td>用户在WhatsApp点击该按钮，会自动加载您的应用，并向该应用传递验证码，仅需点击一次</td><td>用户收到验证码后，您的应用界面会自动完成验证码的填写，无需任何点击或切换</td></tr><tr><td><strong>使用限制</strong></td><td>无设备或地区限制<br></td><td>目前仅支持安卓手机且非印度地区使用, 还需要更改应用程序的代码才能执行"握手", 以及应用程序的签名密钥哈希</td><td>目前仅支持安卓手机且非印度地区使用, 还需要更改应用程序的代码才能执行"握手", 以及应用程序的签名密钥哈希</td></tr></tbody></table>
+<table data-header-hidden data-full-width="true"><thead><tr><th width="115">发送方式</th><th width="213"></th><th width="221"></th><th width="194"></th></tr></thead><tbody><tr><td><strong>发送方式</strong></td><td><strong>Copy code（复制验证码）</strong></td><td><strong>One tap（一键填充验证码）</strong></td><td><strong>Zero tap（零点击验证码）</strong></td></tr><tr><td><strong>界面展示</strong><br></td><td><img src="../.gitbook/assets/image (771).png" alt="" data-size="original"></td><td><img src="../.gitbook/assets/image (772).png" alt="" data-size="original"></td><td><img src="../.gitbook/assets/image (773).png" alt="" data-size="original"></td></tr><tr><td><strong>使用操作</strong></td><td>用户在WhatsApp点击该按钮进行复制，然后手动切换到您的应用页面，粘贴验证码至应用页面</td><td>用户在WhatsApp点击该按钮，会自动加载您的应用，并向该应用传递验证码，仅需点击一次</td><td>用户收到验证码后，您的应用界面会自动完成验证码的填写，无需任何点击或切换</td></tr><tr><td><strong>使用限制</strong></td><td>无设备或地区限制<br></td><td>目前仅支持安卓手机且非印度地区使用, 还需要更改应用程序的代码才能执行"握手", 以及应用程序的签名密钥哈希</td><td>目前仅支持安卓手机且非印度地区使用, 还需要更改应用程序的代码才能执行"握手", 以及应用程序的签名密钥哈希</td></tr></tbody></table>
 
 * 添加安全提示和验证码过期时间提示（可选）
 

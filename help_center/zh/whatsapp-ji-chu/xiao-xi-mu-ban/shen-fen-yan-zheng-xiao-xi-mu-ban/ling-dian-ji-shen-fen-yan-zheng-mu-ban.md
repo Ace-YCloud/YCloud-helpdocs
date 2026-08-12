@@ -8,7 +8,7 @@
 
 与一键自动填充按钮身份验证模板一样，当 WhatsApp 客户端收到包含用户密码或代码的模板消息时，我们会执行一系列资格检查。如果消息未通过此检查，并且我们无法广播密码或代码，则该消息将显示一键自动填充按钮或复制代码按钮。因此，当您创建零点击身份验证模板时，您必须在帖子正文负载中包含一键自动填充和复制代码按钮，即使用户可能永远不会看到其中一个按钮。
 
-<figure><img src="../../../.gitbook/assets/image (530).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (664).png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### 限制 <a href="#limitations" id="limitations"></a>
 

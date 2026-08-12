@@ -4,7 +4,7 @@ description: 如果您的移动应用程序为用户提供通过 WhatsApp 接收
 
 # 身份验证消息模板
 
-<figure><img src="../../../.gitbook/assets/image (438).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (572).png" alt="" width="563"><figcaption></figcaption></figure>
 
 带有 OTP 按钮的身份验证模板由以下内容组成：
 
@@ -47,7 +47,7 @@ description: 如果您的移动应用程序为用户提供通过 WhatsApp 接收
 
 零点击身份验证模板允许您的用户通过 WhatsApp 接收一次性密码或代码，而无需离开您的应用程序。
 
-<figure><img src="../../../.gitbook/assets/image (531).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (665).png" alt="" width="375"><figcaption></figcaption></figure>
 
 当您应用中的用户请求密码或代码并且您使用零点击身份验证模板提供该密码或代码时，WhatsApp 客户端会广播所包含的密码或代码，然后您的应用可以使用广播接收器捕获该密码或代码。
 

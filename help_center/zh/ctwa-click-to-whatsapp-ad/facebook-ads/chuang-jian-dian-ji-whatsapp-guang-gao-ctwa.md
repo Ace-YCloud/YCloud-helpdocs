@@ -219,7 +219,7 @@ CTWA 广告中的消息模板，是用户点击 Facebook 或 Instagram 广告并
 
 设置时，建议让预填文本和广告内容保持一致。用户点击的是折扣广告，预填文本就应围绕折扣；用户点击的是报价广告，预填文本就应围绕询价。
 
-<figure><img src="../../.gitbook/assets/edit-message templates-beautified (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/edit-message templates-beautified (2).png" alt=""><figcaption></figcaption></figure>
 
 **应该选择哪一种？**
 

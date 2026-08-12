@@ -6,7 +6,7 @@
 
 在“Your preference > [Profile](https://www.ycloud.com/console/#/app/userSettings/myProfile)”中，您可以设置您的个人信息，包括您的姓名、头像、邮箱及手机号码，支持修改密码。
 
-<figure><img src="../.gitbook/assets/image (434).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (568).png" alt=""><figcaption></figcaption></figure>
 
 ### 头像
 
@@ -36,7 +36,7 @@
 
 支持切换您想要选择的系统语言
 
-<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
 
 ### 修改密码
 
@@ -53,7 +53,7 @@
 * 修改开关需要通过短信或者邮箱认证。
 * 2fa开启，则进入账号时需要进行邮箱或短信验证。
 
-<figure><img src="../.gitbook/assets/image (435).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (569).png" alt=""><figcaption></figcaption></figure>
 
 ## 通知
 
@@ -62,7 +62,7 @@
 * 设置声音提示触发时机
 * 设置浏览器弹出提示触发时机（需开启浏览器提示权限）
 
-<figure><img src="../.gitbook/assets/image (437).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (571).png" alt=""><figcaption></figcaption></figure>
 
 ## 个人快捷回复
 

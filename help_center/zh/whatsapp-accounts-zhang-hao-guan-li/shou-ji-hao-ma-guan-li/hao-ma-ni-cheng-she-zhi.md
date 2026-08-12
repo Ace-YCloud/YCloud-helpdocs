@@ -13,8 +13,8 @@ description: >-
 
 1. 登陆YCloud后台，WhatsApp Account > Phone numeber > 点击账号名称旁边的紫色图标
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
 
 2. 输入想要备注的号码昵称，点击Ok进行保存。如果需要删除昵称的话，把昵称去掉点击Ok保存，号码就会恢复到原始没有昵称的状态了。
 
-<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>

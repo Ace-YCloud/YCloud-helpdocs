@@ -40,11 +40,11 @@
 
 ### 步骤1：点击创建按钮
 
-<figure><img src="../../.gitbook/assets/image (777).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (911).png" alt=""><figcaption></figcaption></figure>
 
 ### 步骤2：选择类型QR code
 
-<figure><img src="../../.gitbook/assets/image (333).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (467).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -58,13 +58,13 @@
 
 设置完成后点击下一步。
 
-<figure><img src="../../.gitbook/assets/image (335).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (469).png" alt=""><figcaption></figcaption></figure>
 
 ### 步骤4：复制链接和二维码
 
 生成成功，下载二维码或链接。
 
-<figure><img src="../../.gitbook/assets/image (336).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (470).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -72,11 +72,11 @@
 
 ### 步骤1：点击创建按钮
 
-<figure><img src="../../.gitbook/assets/image (332).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (466).png" alt=""><figcaption></figcaption></figure>
 
 ### 步骤2：选择类型网页插件
 
-<figure><img src="../../.gitbook/assets/image (337).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (471).png" alt=""><figcaption></figcaption></figure>
 
 ### 步骤3：设置内容
 
@@ -88,7 +88,7 @@
 
 设置完成后点击下一步。
 
-<figure><img src="../../.gitbook/assets/image (338).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (472).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -100,9 +100,9 @@
 * 打招呼信息：自动浮出的打招呼信息。
 * 延迟显示的时间：客户进入页面后延迟多久打招呼信息。
 
-<figure><img src="../../.gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (474).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (475).png" alt=""><figcaption></figcaption></figure>
 
 ### 步骤5：配置插件信息
 
@@ -111,7 +111,7 @@
 * 主题色配置
 * 按钮文字配置
 
-<figure><img src="../../.gitbook/assets/image (343).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (477).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -119,7 +119,7 @@
 
 创建成功，复制生成的代码并将代码安装到您的网站上即可。
 
-<figure><img src="../../.gitbook/assets/image (344).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (478).png" alt=""><figcaption></figcaption></figure>
 
 
 

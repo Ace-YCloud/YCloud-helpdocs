@@ -12,7 +12,7 @@ description: 提供便捷的在线即时翻译功能，帮助坐席与客户进�
 4. “Automated Customer Message Translation”开关控制Inbox当前对话页面中，客户消息的自动翻译功能。打开后，可即时将客户发送的消息翻译为选择的目标语言，目标语言默认与系统工作台语言一致，允许手动调整；
 5. 开关上方显示当前租户翻译已使用的字符数。
 
-<figure><img src="../.gitbook/assets/image (691).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (825).png" alt=""><figcaption></figcaption></figure>
 
 ### 历史消息翻译
 
@@ -20,7 +20,7 @@ description: 提供便捷的在线即时翻译功能，帮助坐席与客户进�
 2. 在出现的弹窗中点击选择“Translate”按钮
 3. 在出现的翻译目标语言中选择需要的语言，点击后将完成消息内容的翻译
 
-<figure><img src="../.gitbook/assets/image (693).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (827).png" alt=""><figcaption></figcaption></figure>
 
 ### 自动翻译
 
@@ -33,7 +33,7 @@ description: 提供便捷的在线即时翻译功能，帮助坐席与客户进�
 3. 在输入框内输入想要发送的消息，点击图示【2】的翻译按钮，检查出现在翻译预览框内的翻译结果，可手动进行调整；
 4. 点击图示【3】的发送译文按钮，即可发送对应译文。
 
-<figure><img src="../.gitbook/assets/image (694).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (828).png" alt=""><figcaption></figcaption></figure>
 
 ### 翻译字符数
 

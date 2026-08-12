@@ -6,11 +6,11 @@
 
 进入[WhatsApp accounts](https://www.ycloud.com/console/#/app/dashboard/account) 页面，点击号码的Settings。
 
-<figure><img src="../../.gitbook/assets/image (264).png" alt=""><figcaption><p>WhatsApp accounts</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (398).png" alt=""><figcaption><p>WhatsApp accounts</p></figcaption></figure>
 
 ## 步骤2：编辑简介
 
 进入Profile（简介）中编辑资料。完成后点击下方的保存按钮。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 

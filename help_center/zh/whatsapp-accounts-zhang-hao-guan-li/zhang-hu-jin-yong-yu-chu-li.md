@@ -97,11 +97,11 @@ WhatsApp不接受[以下商品或者服务](https://business.whatsapp.com/policy
 
 **之后，你可以访问BM的**[**账户品质页面**](https://business.facebook.com/accountquality)，在这里你可以看到被禁用的WABA账户。
 
-<figure><img src="../.gitbook/assets/image (383).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (517).png" alt=""><figcaption></figcaption></figure>
 
 点击被封的WABA，进入详情页查看封号的原因和申诉操作。
 
-<figure><img src="../.gitbook/assets/image (382).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (516).png" alt=""><figcaption></figcaption></figure>
 
 上图显示了该帐户是因账号的公司信息不明确而被禁用的。在右侧的What can you do 中会显示您接下来该进行的操作。完成的要求更新资料后，&#x6709;**“1次”机会发起申诉**，建议在申诉内容中声情并茂向支持团队解释情况：
 

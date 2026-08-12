@@ -11,7 +11,7 @@
 
 查看冻结资金：可将鼠标移动至余额旁边的问号图标上查看。
 
-<figure><img src="../.gitbook/assets/image (585).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (719).png" alt=""><figcaption></figcaption></figure>
 
 ### 什么时候解冻资金？
 

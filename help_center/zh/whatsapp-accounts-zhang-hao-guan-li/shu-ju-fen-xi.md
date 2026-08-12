@@ -6,7 +6,7 @@
 
 点击左侧导航的Home > Analytics 进入数据分析页面。默认展示消息维度的到达情况
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 
 ##
 
@@ -16,7 +16,7 @@
 
 （由于Meta自2025年7月1日开始，停止了会话的计费规则，所以该页面仅统计2025年7月1日前的数据）
 
-<figure><img src="../.gitbook/assets/image (386).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (520).png" alt=""><figcaption></figcaption></figure>
 
 ## 消息记录
 
@@ -26,7 +26,7 @@
 
 User为客户的号码，Acount为发送消息的WhatsApp api账号。
 
-<figure><img src="../.gitbook/assets/image (373).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (507).png" alt=""><figcaption></figcaption></figure>
 
 ### 接收记录
 
@@ -34,7 +34,7 @@ Direction选择Inboud message，可以查看所有收到的消息。
 
 User为客户的号码，Acount为接收到消息WhatsApp api账号。
 
-<figure><img src="../.gitbook/assets/image (374).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (508).png" alt=""><figcaption></figcaption></figure>
 
 ## 常见问题
 

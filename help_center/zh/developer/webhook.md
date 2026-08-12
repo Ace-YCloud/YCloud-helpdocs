@@ -14,7 +14,7 @@ Webhook 是一种 **事件驱动的 HTTP 回调机制**。当YCloud系统中发�
 
 登陆YCloud后台，在 Developer - Webhooks中点击Add Endpoints 创建Webhook端点。
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 #### 2. 输入端点地址，监听相关事件。
 
@@ -24,7 +24,7 @@ YCloud提供关于 WhatsaApp, SMS, Contact, Email等不同的事件选择。
 您可以在此处找到所有事件的相关载荷：[Webhook 事件载荷](https://docs.ycloud.com/reference/webhook-events-payloads)
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 #### 3. 验证 Webhook签名（可选）
 

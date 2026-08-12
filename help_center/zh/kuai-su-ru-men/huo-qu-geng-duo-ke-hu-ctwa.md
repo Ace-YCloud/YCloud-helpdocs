@@ -2,7 +2,7 @@
 
 CTWA（Click-to-WhatsApp Ads）作为一种创新的广告形式，是获取新客户的绝佳工具，可帮助您最大限度地利用在 Facebook 和 Instagram 上的广告支出！
 
-<figure><img src="../.gitbook/assets/image (713).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (847).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## 什么是点击 WhatsApp 广告 (CTWA)？
 
@@ -12,7 +12,7 @@ CTWA 是 Facebook 和 Instagram 广告的一种形式，允许观众直接从 Fa
 营销人员一直在努力创建高转化率的登陆页面并生成潜在客户，但现在我们可以消除登陆页面以缩短用户旅程，取而代之的是实时、个性化的对话体验，使营销变得更容易。
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (714).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (848).png" alt=""><figcaption></figcaption></figure>
 
 ## 为什么要使用点击 WhatsApp 广告 (CTWA)？
 
@@ -46,7 +46,7 @@ CTWA 是 Facebook 和 Instagram 广告的一种形式，允许观众直接从 Fa
   * 该电话号码必须能够接收语音呼叫或短信。
   * 该号码之前没有注册过 WhatsApp App 或者商业账户。
 
-<figure><img src="../.gitbook/assets/image (715).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (849).png" alt=""><figcaption></figcaption></figure>
 
 详细操作参考：[创建WhatsApp Business API账户](https://helpdocs.ycloud.com/help-center/zh/kuai-su-ru-men/chuang-jian-whatsapp-business-api-zhang-hu?fallback=true)
 
@@ -56,7 +56,7 @@ CTWA 是 Facebook 和 Instagram 广告的一种形式，允许观众直接从 Fa
 
 * 左下角账户 > [Company settings](https://www.ycloud.com/console/#/app/globalSettings/general/companyInfo) > [Users and teams](https://www.ycloud.com/console/#/app/globalSettings/general/usersAndTeams) > [Invite user](https://www.ycloud.com/console/#/app/globalSettings/general/usersAndTeams)。
 
-<figure><img src="../.gitbook/assets/image (716).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (850).png" alt=""><figcaption></figcaption></figure>
 
 详细操作参考：[邀请用户和团队](https://helpdocs.ycloud.com/help-center/zh/zhang-hu-guan-li/yong-hu-he-tuan-dui)
 
@@ -64,7 +64,7 @@ CTWA 是 Facebook 和 Instagram 广告的一种形式，允许观众直接从 Fa
 
 再将步骤三邀请的销售/客服，配置到WhatsApp商业号码的分配规则中，以保证他们可以及时收到来自意向客户的咨询。
 
-<figure><img src="../.gitbook/assets/image (717).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (851).png" alt=""><figcaption></figcaption></figure>
 
 详细操作参考：[对话分配规则](https://helpdocs.ycloud.com/help-center/zh/whatsapp-accounts-zhang-hao-guan-li/shou-ji-hao-ma-guan-li/dui-hua-fen-pei-gui-ze)
 
@@ -78,7 +78,7 @@ CTWA 是 Facebook 和 Instagram 广告的一种形式，允许观众直接从 Fa
 
 YCloud会自动关联您WhatsApp business account所属BM下的所有广告账户。您可以在Ad acount中查看
 
-<figure><img src="../.gitbook/assets/image (718).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (852).png" alt=""><figcaption></figcaption></figure>
 
 _YCloud未来会支持您绑定不同BM的Facebook广告账户，敬请期待。_
 
@@ -91,7 +91,7 @@ _YCloud未来会支持您绑定不同BM的Facebook广告账户，敬请期待。
   * 若您的WhatsApp账号跟广告账户归属于同一个BM，可直接完成绑定
   * 若您的WhatsApp账号跟广告账户不属于同一个BM, 则重新登录WhatsApp的BM账号，访问[Request](https://business.facebook.com/latest/settings/bm_requests) 页面，批准绑定的请求
 
-<figure><img src="../.gitbook/assets/image (719).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (853).png" alt=""><figcaption></figcaption></figure>
 
 如果您希望在 Instagram 上开展广告活动，您还应该将您的 Instagram 帐户与 Facebook 页面相关联。完成以上步骤后，您就可以开始设置您的第一个 Click-to-WhatsApp 广告了。
 
@@ -105,11 +105,11 @@ _YCloud未来会支持您绑定不同BM的Facebook广告账户，敬请期待。
 
 要与 WhatsApp 一起使用，选择“Engagment”
 
-<figure><img src="../.gitbook/assets/image (867).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1009).png" alt=""><figcaption></figcaption></figure>
 
 选择Manual sales campaign
 
-<figure><img src="../.gitbook/assets/image (721).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (855).png" alt=""><figcaption></figcaption></figure>
 
 3. 填写相关基础信息以创建您的广告系列。这包括：
 
@@ -118,7 +118,7 @@ _YCloud未来会支持您绑定不同BM的Facebook广告账户，敬请期待。
 * 定义是否要对广告进行 A/B 测试
 * 注意：该步骤中需要关闭 Advantage+ catalog ads
 
-<figure><img src="../.gitbook/assets/image (722).png" alt=""><figcaption><p>创建广告系列</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (856).png" alt=""><figcaption><p>创建广告系列</p></figcaption></figure>
 
 4. 配置广告组详细信息
 
@@ -132,9 +132,9 @@ _YCloud未来会支持您绑定不同BM的Facebook广告账户，敬请期待。
 只有完成上述步骤二：将 WhatsApp Business API 帐户连接到您的 Facebook 页面后，您才会看到 WhatsApp 号码。广告只有在 Performance goal 选择了 Maximize number of purchases through messaging 时，才会根据 YCloud回传的客户转化（Converted）数据自动优化投放。[点击了解CTWA 的客户转化追踪](https://helpdocs.ycloud.com/help-center/zh/ctwa-dian-ji-whatsapp-guang-gao/ctwa-fen-xi#ctwa-fen-xi-zi-ding-yi-gen-zong-shi-jian-1)
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (723).png" alt=""><figcaption><p>选择 WhatsApp 号码</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (857).png" alt=""><figcaption><p>选择 WhatsApp 号码</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (724).png" alt=""><figcaption><p>选择performance goal</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (858).png" alt=""><figcaption><p>选择performance goal</p></figcaption></figure>
 
 5. 选择您的受众、展示位置、预算和时间表
 
@@ -154,7 +154,7 @@ _YCloud未来会支持您绑定不同BM的Facebook广告账户，敬请期待。
 
 点击“新建”并创建欢迎消息模板，以便在人们点击您的广告后快速聊天。
 
-<figure><img src="../.gitbook/assets/image (725).png" alt=""><figcaption><p>欢迎消息模板</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (859).png" alt=""><figcaption><p>欢迎消息模板</p></figcaption></figure>
 
 8. 发布您的广告
 
@@ -177,7 +177,7 @@ Facebook 现在将审核您的广告。一旦获得批准，它将根据您的�
 
 在这里您可以选择追踪方法，包括标记潜在客户或在聊天中触发关键字。
 
-<figure><img src="../.gitbook/assets/image (726).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (860).png" alt=""><figcaption></figcaption></figure>
 
 ### **步骤二：查看追踪数据**
 
@@ -185,15 +185,15 @@ Facebook 现在将审核您的广告。一旦获得批准，它将根据您的�
 
 点击广告活动右侧的“Track events”。
 
-<figure><img src="../.gitbook/assets/image (727).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (861).png" alt=""><figcaption></figcaption></figure>
 
 选择想要查看的 Track events，点击“View Leads” 。
 
-<figure><img src="../.gitbook/assets/image (728).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (862).png" alt=""><figcaption></figcaption></figure>
 
 查看触发该跟踪事件的Leads 。
 
-<figure><img src="../.gitbook/assets/image (729).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (863).png" alt=""><figcaption></figcaption></figure>
 
 ### **步骤三：设置转化归因**
 
@@ -203,7 +203,7 @@ Facebook 现在将审核您的广告。一旦获得批准，它将根据您的�
 
 您可以点击界面上的“设置为转化”按钮，将该事件定义为广告系列的“转化”。
 
-<figure><img src="../.gitbook/assets/image (730).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (864).png" alt=""><figcaption></figcaption></figure>
 
 ## 转化客户
 
@@ -215,7 +215,7 @@ Facebook 现在将审核您的广告。一旦获得批准，它将根据您的�
 
 操作路径：[登录您的 YCloud 帐户](https://www.ycloud.com/console/#/app/getStarted) > [Inbox](https://www.ycloud.com/console/#/app/inbox/chat)
 
-<figure><img src="../.gitbook/assets/image (731).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (865).png" alt=""><figcaption></figcaption></figure>
 
 详细操作参考：[Inbox快速入门](https://helpdocs.ycloud.com/help-center/zh/inbox/chu-shi-inbox-jie-mian)
 
@@ -227,7 +227,7 @@ Facebook 现在将审核您的广告。一旦获得批准，它将根据您的�
 
 在非工作时间，Chatbot 可以收集潜在客户的信息和需求，为销售团队提供宝贵的数据，以便在工作时间内进行跟进。这不仅提高了客户满意度，还能在非工作时间捕捉潜在客户获取新商机。
 
-<figure><img src="../.gitbook/assets/image (732).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (866).png" alt=""><figcaption></figcaption></figure>
 
 详细操作参考：[Chatbot快速入门](https://helpdocs.ycloud.com/help-center/zh/chatbot/chuang-jian-yi-ge-chatbot)
 
@@ -241,11 +241,11 @@ Facebook 现在将审核您的广告。一旦获得批准，它将根据您的�
   * 通过 Contact 属性筛选，包括来源、标签等，筛选出目标客户
   * 从 CTWA 广告跟踪事件中下载 leads
 
-<figure><img src="../.gitbook/assets/image (733).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (867).png" alt=""><figcaption></figcaption></figure>
 
 * 利用 [Campaign](https://www.ycloud.com/console/#/app/bulkMessages/logs) 功能，企业可以向那些已经表现出购买意向的客户发送定制化的消息。这种批量群发可以是促销活动、特别优惠或新产品信息，旨在激发客户的购买欲望。
 
-<figure><img src="../.gitbook/assets/image (734).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (868).png" alt=""><figcaption></figcaption></figure>
 
 详细操作参考：[Campaign快速入门](https://helpdocs.ycloud.com/help-center/zh/campaign/chuang-jian-whatsapp-ying-xiao-huo-dong)
 
@@ -255,7 +255,7 @@ Facebook 现在将审核您的广告。一旦获得批准，它将根据您的�
 
 使用 Journey 工具，可以自动化地跟进潜在客户，通过一系列的互动和信息传递，逐步引导他们走向购买决策。这种方法可以帮助企业更好地理解客户的需求，并在正确的时间提供正确的信息。
 
-<figure><img src="../.gitbook/assets/image (735).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (869).png" alt=""><figcaption></figcaption></figure>
 
 详细操作参考：[Journey快速入门](https://helpdocs.ycloud.com/help-center/zh/journey/chuang-jian-yi-ge-journey)
 
@@ -267,7 +267,7 @@ Facebook 现在将审核您的广告。一旦获得批准，它将根据您的�
 
 你可以将承接的意向线索交给销售，由他们进行一对一的沟通，或拉群、或展示动态增强信任，从而建立长时间的信任并完成转化。
 
-<figure><img src="../.gitbook/assets/image (736).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (870).png" alt=""><figcaption></figcaption></figure>
 
 ### **Calling在线语音通话**
 
@@ -275,7 +275,7 @@ Calling 功能允许您直接通过 WhatsApp 与客户进行语音通话，这�
 
 Calling目前还在Beta测试，仅允许**巴西、墨西哥、印度或印度尼西亚**国家的客户试用，如您感兴趣，联系YCloud Service。
 
-<figure><img src="../.gitbook/assets/image (738).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (872).png" alt=""><figcaption></figcaption></figure>
 
 详细流程参考：[可以和客户通话了！Inbound Calling（呼入通话）功能上线啦](https://ycloudteam.feishu.cn/docx/BqfAdJnesoZlLfxJx7nclj8MnDo?from=from_copylink)
 

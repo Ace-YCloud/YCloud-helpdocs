@@ -8,13 +8,13 @@
 
 * 登录[YCloud账号](https://www.ycloud.com/console/#/entry/login)，导航至Home > Templates > Add Template
 
-<figure><img src="../.gitbook/assets/image (415).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (549).png" alt=""><figcaption></figcaption></figure>
 
 * Category选择Marketing，并命名模版名称和选择模版语言
 
 请注意：**模版名称必须要唯一的**。名称仅支持小写字母a-z、0-9、 下划线（\_)。模版一旦提交，无法进行更改 &#x20;
 
-<figure><img src="../.gitbook/assets/image (417).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (551).png" alt=""><figcaption></figcaption></figure>
 
 * 输入要发送的内容\
   营销类消息用于发送促销优惠、产品公告和其他营销相关消息，以提高认知度和参与度。包括但不仅限于：
@@ -22,11 +22,11 @@
   * 欢迎语/结束语：i.e.: Thank you for shopping at XXX, wish you have a good day&#x20;
   * 更新，邀请，建议：i.e: Hey members, join us tonight for this event
 
-<figure><img src="../.gitbook/assets/image (420).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (554).png" alt=""><figcaption></figcaption></figure>
 
 * 点击Submit，并等待审核通过
 
-<figure><img src="../.gitbook/assets/image (421).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (555).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -42,7 +42,7 @@
 
 登录[YCloud账号](https://www.ycloud.com/console/#/entry/login), 导航至Campaign > + Add Campaign > WhatsApp
 
-<figure><img src="../.gitbook/assets/image (422).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (556).png" alt=""><figcaption></figcaption></figure>
 
 #### 2. 填写Campaign相关信息
 
@@ -54,7 +54,7 @@
 
 2.4 发送时间：立即发送或预约发送时间
 
-<figure><img src="../.gitbook/assets/image (423).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (557).png" alt=""><figcaption></figcaption></figure>
 
 2.5 点击 Next，配置收件人
 
@@ -74,12 +74,12 @@ YCloud为您提供了多种方式，选择campaign活动的收件人：
 
 {% hint style="info" %}
 **请注意，**&#x5982;果模板中有变量，我们建议使用上传文件来设置收件人。手动输入仅支持将这些变量设置为固定值。\
-&#xNAN;_&#x4F8B;如，模板是“Hi，\{{name\}} ”，而您选择使用手动输入来上传收件人，那么您只能将\{{name\}}设置为固定值，例如“there”。发送给所有收件人的最终消息将是“Hi, there”。_
+_&#x4F8B;如，模板是“Hi，\{{name\}} ”，而您选择使用手动输入来上传收件人，那么您只能将\{{name\}}设置为固定值，例如“there”。发送给所有收件人的最终消息将是“Hi, there”。_
 {% endhint %}
 
 在框中输入电话号码，每行只能输入一个号码。并且请确保号码为国际格式，以国家代码开头。例如，英国号码是44，电话号码是7759398257，则应输入+447759398257。 如果您已经有excel文件，则可以复制电话号码栏并粘贴到框中。
 
-<figure><img src="../.gitbook/assets/image (516).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (650).png" alt=""><figcaption></figcaption></figure>
 
 **3.2 上传csv文件**
 
@@ -97,7 +97,7 @@ YCloud为您提供了多种方式，选择campaign活动的收件人：
 
     _例如，短信是 “嗨，\{{name\}}熊猫袜子到了！有几种颜色”。然后你可以设置一个名为“ name ”的变量_
 
-<figure><img src="../.gitbook/assets/image (519).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (653).png" alt=""><figcaption></figcaption></figure>
 
 **3.3 筛选联系人**
 
@@ -157,17 +157,17 @@ YCloud提供 2种筛选方式
 
 YCloud会提供默认的示例媒体配置文件，建议更改此媒体，以便更容易通过审核。
 
-<figure><img src="../.gitbook/assets/image (522).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (656).png" alt=""><figcaption></figcaption></figure>
 
 ### Variables（变量）
 
 如果模板中存在变量，请上传您的带变量的文件，然后手动将模板中的变量与文件中的变量值进行匹配。
 
-<figure><img src="../.gitbook/assets/image (524).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (658).png" alt=""><figcaption></figcaption></figure>
 
 将变量设置为固定值。选择Set a fixed text并为其指定一个值。
 
-<figure><img src="../.gitbook/assets/image (525).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (659).png" alt=""><figcaption></figcaption></figure>
 
 单击Next查看活动详细信息。
 
@@ -178,7 +178,7 @@ YCloud会提供默认的示例媒体配置文件，建议更改此媒体，以�
 确认详细信息并预览消息。\
 确保您已点击Submit按钮以完成提交。
 
-<figure><img src="../.gitbook/assets/image (526).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (660).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (527).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (661).png" alt=""><figcaption></figcaption></figure>
 

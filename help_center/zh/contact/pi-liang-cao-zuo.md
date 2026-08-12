@@ -8,10 +8,10 @@
 
 登录[YCloud账号](https://www.ycloud.com/console/#/entry/login)，导航至Contact > Export，可批量导出联系人
 
-<figure><img src="../.gitbook/assets/image (843).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (985).png" alt=""><figcaption></figcaption></figure>
 
 ## 批量筛选联系人
 
 登录[YCloud账号](https://www.ycloud.com/console/#/entry/login)，导航至Contact > 点击右上角图标："设置显示的属性"，选择想要查看的属性，或者隐藏暂时不看的属性。
 
-<figure><img src="../.gitbook/assets/image (844).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (986).png" alt=""><figcaption></figcaption></figure>

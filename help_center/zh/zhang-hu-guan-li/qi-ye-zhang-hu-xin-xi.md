@@ -8,7 +8,7 @@
 
 ## 企业相关信息
 
-<figure><img src="../.gitbook/assets/image (514).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (648).png" alt=""><figcaption></figcaption></figure>
 
 ### 账号ID
 
@@ -34,7 +34,7 @@
 
 接收账单的邮寄地址，用于发送发票和费用明细。
 
-<figure><img src="../.gitbook/assets/image (515).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (649).png" alt=""><figcaption></figcaption></figure>
 
 
 

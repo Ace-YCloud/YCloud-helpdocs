@@ -37,7 +37,7 @@
 
 ### 如何配置虚拟坐席？
 
-<figure><img src="../.gitbook/assets/image (915).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1057).png" alt=""><figcaption></figcaption></figure>
 
 1. 进入YCloud控制台，在 Users and Teams 中绑定 WhatsApp Business 账号
 2. 在 邀请用户（Invite user） 或 编辑用户（Edit user） 时：

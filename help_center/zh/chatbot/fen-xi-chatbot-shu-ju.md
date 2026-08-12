@@ -8,7 +8,7 @@ YCloud支持查看Chatbot的详细触发数据。
 
 登录YCloud后台 > Chatbot > Flows > Analytics
 
-<figure><img src="../.gitbook/assets/image (641).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (775).png" alt=""><figcaption></figcaption></figure>
 
 在这里，会提供两个维度的Chatbot分析数据：
 
@@ -16,10 +16,10 @@ YCloud支持查看Chatbot的详细触发数据。
 
 在Flow Overview中，您可以根据时间和用户国家的筛选方式，来查看满足该筛选条件的flow被触发的次数。您可以浏览Flow被触发的曲线图，还能看到触发该flow的用户的基本信息。
 
-<figure><img src="../.gitbook/assets/image (643).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (777).png" alt=""><figcaption></figcaption></figure>
 
 ## 查看按钮被触发的信息
 
 在Reply logs中，您可以查看这个flow里“Ask a question"组件中按钮被触发的具体信息，了解该用户在这个flow中具体的需求。另外，您还可以点击右上角的“Export”进行数据导出，便于您之后进行用户行为的分析和统计。
 
-<figure><img src="../.gitbook/assets/image (644).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (778).png" alt=""><figcaption></figcaption></figure>

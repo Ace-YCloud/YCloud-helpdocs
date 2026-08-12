@@ -14,7 +14,7 @@ description: 要创建WhatsApp商业帐号，你必须要知道它上下所关�
 
 如果您满足所有这些要求，您可以开始通过 WhatsApp 商业平台向客户发送消息
 
-<figure><img src="../.gitbook/assets/image (440).png" alt=""><figcaption><p>帐户结构</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (574).png" alt=""><figcaption><p>帐户结构</p></figcaption></figure>
 
 ## **BM帐户** <a href="#facebook-business-manager-account" id="facebook-business-manager-account"></a>
 

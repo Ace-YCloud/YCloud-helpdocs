@@ -8,13 +8,13 @@ hidden: true
 
 当 YCloud 收到 inbound message 后，通过 Webhook 触发 n8n 工作流，调用大模型生成回复内容，并通过 YCloud API 将消息返回给用户。
 
-> YCloud Chatbot 为您构建了完整的AI工作流，提供全链路简单易懂的AI知识库，语料，自动化流程。您可以[点此链接](/broken/pages/PhbyQBXo6pcfsOKRwZ6O)查看详情。
+> YCloud Chatbot 为您构建了完整的AI工作流，提供全链路简单易懂的AI知识库，语料，自动化流程。您可以[点此链接](https://app.gitbook.com/s/78HV6e8vN6mhwsbohgTK/chatbot)查看详情。
 
 ***
 
 ### 总体流程
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 ### Webhook 事件触发
 
@@ -24,11 +24,11 @@ hidden: true
 请注意保护好您的Webhook URL，且勿必只返回**状态码200**。
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 您需要在YCloud Webhook event中选择 WhatsApp.inbound\_message.received。 当 YCloud Webhook 被触发后，n8n 的 Webhook 节点会接收到完整的 inbound\_message 数据，并自动解析为可用字段。如下图所示：
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 这些字段将作为后续节点（Data Table、AI Agent、HTTP Request 等）的输入数据，可通过 Expression 方式进行引用。
 
@@ -48,13 +48,13 @@ hidden: true
 * 自动匹配要求字段名称完全一致
 * 可直接将 Input 面板中的字段拖入配置项，n8n 会自动生成 Expression
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 #### Get Row
 
 该节点用于从 Data Table 中读取已存在的数据。
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 在该节点中，通常需要配置 匹配条件（Condition），例如：
 
@@ -73,7 +73,7 @@ hidden: true
 
 此处Credential不进行截图配置，使用来自OpenRouter的相关API即可。您可以选择您想要的模型与返回格式，在此最佳实践中选择grok-3与TXT格式。
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -84,11 +84,11 @@ hidden: true
 * 编写 Prompt
 * 使用 Expression 引用 Webhook 或 Data Table 中的字段作为输入。您可以编写您想要的Prompt，此处不进行添加。Prompt 内容可根据业务需求自由定制。
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 您可以选择不同的工具来接入AI Agent节点，将其与节点相连即可。
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -96,7 +96,7 @@ hidden: true
 
 您可以在此处看到模型最终输出的信息。
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -104,7 +104,7 @@ hidden: true
 
 Merge 节点用于合并多个节点的输出数据，为后续 API 请求做准备。
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 常见模式包括：
 
@@ -120,7 +120,7 @@ Merge 节点用于合并多个节点的输出数据，为后续 API 请求做准
 
 最后，通过 HTTP Request 节点调用 YCloud 消息发送接口。
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 * 可直接使用 YCloud API 文档中的 cURL 示例 进行快速配置，将APIkey插入 X-API-KEY所对应的位置。
 * 将上一步合并后的字段拖入请求体中

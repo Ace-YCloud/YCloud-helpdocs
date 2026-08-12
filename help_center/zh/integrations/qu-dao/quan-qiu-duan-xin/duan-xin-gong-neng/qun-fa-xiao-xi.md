@@ -16,7 +16,7 @@
 
 点击创建按钮，选择SMS群发
 
-<figure><img src="../../../../.gitbook/assets/image (559).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (693).png" alt=""><figcaption></figcaption></figure>
 
 ## 步骤3: 设置收件人
 
@@ -30,7 +30,7 @@
 
 在多行文本字段中输入电话号码，每一行只能输入一个号码。请确保该号码采用国际格式，并应以国家/地区代码开头。例如，如果英国号码是 44，电话号码是 7759398257，那么您应该输入 +447759398257。 如果您已有 Excel 文件，则可以复制电话号码列并将其粘贴到框中。
 
-<figure><img src="../../../../.gitbook/assets/image (560).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (694).png" alt=""><figcaption></figcaption></figure>
 
 #### 上传手机号码文件
 
@@ -41,13 +41,13 @@
    * 如果消息中有变量，则可以从第二列第一行开始输入变量名称。\
      例如，短信是“_嗨#name#，您的余额低于#balance#_ ”。然后你可以设置一个名为“ _name_ ”的变量和一个名为“ _balance_ ”的变量
 
-<figure><img src="../../../../.gitbook/assets/image (561).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (695).png" alt=""><figcaption></figcaption></figure>
 
 #### 选择Contact中的人群
 
 若您还未创建人群，可在Cotact中添加Segment。相关操作请查看[联系人分组](../../../../contact/lian-xi-ren-fen-zu.md)
 
-<figure><img src="../../../../.gitbook/assets/image (562).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (696).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -66,15 +66,15 @@
 
 内容填写完成后，可点击下一步。<br>
 
-<figure><img src="../../../../.gitbook/assets/image (563).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (697).png" alt=""><figcaption></figcaption></figure>
 
 ## 步骤5：确认信息
 
 确认信息后点击 提交 按钮
 
-<figure><img src="../../../../.gitbook/assets/image (565).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (699).png" alt=""><figcaption></figcaption></figure>
 
 提交成功提示
 
-<figure><img src="../../../../.gitbook/assets/image (566).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (700).png" alt=""><figcaption></figcaption></figure>
 

@@ -29,7 +29,7 @@ _\*请注意，此功能正在由 Meta 逐步推出。我们尚不清楚它是�
 
 您需要提前准备好以下信息：
 
-<table><thead><tr><th width="277">资料</th><th>要求</th><th>示例</th></tr></thead><tbody><tr><td><strong>官网</strong></td><td><ol><li>必须是HTTPS加密</li><li>网站中需要包含公司的名称</li></ol></td><td><p>网址示例：https://www.ycloud.com </p><p></p><p>网站包含公司名称示例：© 2024 YCloud International Pte. Ltd. All rights reserved</p></td></tr><tr><td><strong>包含企业法定名称的官方文件，例如：</strong>营业执照，公司章程或者企业税务登记证明</td><td>文件中必须包含公司完整的名称、公司地址。公司的电话号码</td><td><img src="../.gitbook/assets/image (33).png" alt="" data-size="original"></td></tr><tr><td><strong>公司网址同一域名的邮箱地址</strong></td><td>它将被用来接收一次验证邮件（通过域名认证或手机号认证的方式不需要，但一般情况下，我们建议通过邮箱认证）</td><td>service@ycloud.com</td></tr></tbody></table>
+<table><thead><tr><th width="277">资料</th><th>要求</th><th>示例</th></tr></thead><tbody><tr><td><strong>官网</strong></td><td><ol><li>必须是HTTPS加密</li><li>网站中需要包含公司的名称</li></ol></td><td><p>网址示例：https://www.ycloud.com </p><p></p><p>网站包含公司名称示例：© 2024 YCloud International Pte. Ltd. All rights reserved</p></td></tr><tr><td><strong>包含企业法定名称的官方文件，例如：</strong>营业执照，公司章程或者企业税务登记证明</td><td>文件中必须包含公司完整的名称、公司地址。公司的电话号码</td><td><img src="../.gitbook/assets/image (167).png" alt="" data-size="original"></td></tr><tr><td><strong>公司网址同一域名的邮箱地址</strong></td><td>它将被用来接收一次验证邮件（通过域名认证或手机号认证的方式不需要，但一般情况下，我们建议通过邮箱认证）</td><td>service@ycloud.com</td></tr></tbody></table>
 
 
 
@@ -44,7 +44,7 @@ _\*请注意，此功能正在由 Meta 逐步推出。我们尚不清楚它是�
 转至商务管理平台的[“安全中心”部分。](https://business.facebook.com/settings/security)\
 如果您没有看到“验证”按钮，请访问 YCloud 控制台并完成[嵌入式注册流程](../whatsapp-accounts-zhang-hao-guan-li/chuang-jian-whatsapp-api-zhang-hao/tong-guo-qian-ru-shi-zhu-ce-chuang-jian-waba.md)。
 
-<figure><img src="../.gitbook/assets/image (553).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (687).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. 提交组织基础信息
 
@@ -58,7 +58,7 @@ _\*请注意，此功能正在由 Meta 逐步推出。我们尚不清楚它是�
 * 提交的网站必须有证明域名所有权的文字内容，例如，在页脚处输入“所属于公司 ABC”，该公司名称与您填写的公司名称必须一致。
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (554).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (688).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. 选择一种验证方式
 
@@ -75,13 +75,13 @@ _\*请注意，此功能正在由 Meta 逐步推出。我们尚不清楚它是�
 
 &#x20;选择邮箱验证。输入完整的邮箱地址，收到验证码后完成邮箱验证。
 
-<figure><img src="../.gitbook/assets/image (555).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (689).png" alt=""><figcaption></figcaption></figure>
 
 #### 3.2 域认证
 
 3.2.1 进入[域名认证页面](https://business.facebook.com/settings/owned-domains/)，添加域名。例如：ycloud.com
 
-<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
 
 3.2.2 验证域名
 
@@ -89,11 +89,11 @@ _\*请注意，此功能正在由 Meta 逐步推出。我们尚不清楚它是�
 
 完成安装后点击该页面的Verify domain。
 
-<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
 
 3.2.3 回到验证BM的页面，选择域名验证。
 
-<figure><img src="../.gitbook/assets/image (555).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (689).png" alt=""><figcaption></figcaption></figure>
 
 ### 4. 上传证明文件
 
@@ -101,7 +101,7 @@ _\*请注意，此功能正在由 Meta 逐步推出。我们尚不清楚它是�
 
 该文件必须显示您公司的法定名称和地址，最好该文件中包含公司的电话号码。
 
-<figure><img src="../.gitbook/assets/image (556).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (690).png" alt=""><figcaption></figcaption></figure>
 
 #### 4.2 上传公司地址和电话的文件
 

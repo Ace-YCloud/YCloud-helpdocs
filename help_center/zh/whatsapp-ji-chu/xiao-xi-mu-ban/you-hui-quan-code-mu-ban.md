@@ -2,7 +2,7 @@
 
 优惠券代码模板归属于营销模板，是显示单个复制代码按钮的营销模板。点击后，代码将复制到客户的剪贴板。
 
-<figure><img src="../../.gitbook/assets/image (549).png" alt="" width="192"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (683).png" alt="" width="192"><figcaption></figcaption></figure>
 
 ### 限制 <a href="#limitations" id="limitations"></a>
 

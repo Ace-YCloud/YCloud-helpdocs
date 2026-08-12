@@ -11,7 +11,7 @@
 | `completed`         | 订单已完成       |
 | `canceled`          | 订单已取消       |
 
-<figure><img src="../.gitbook/assets/image (689).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (823).png" alt=""><figcaption></figcaption></figure>
 
 ## 如何通知客户通知订单状态的变更？
 
@@ -41,7 +41,7 @@
 
 访问：[https://www.ycloud.com/console/#/app/dashboard/template](https://www.ycloud.com/console/#/app/dashboard/template)
 
-<figure><img src="../.gitbook/assets/image (690).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (824).png" alt=""><figcaption></figcaption></figure>
 
 
 

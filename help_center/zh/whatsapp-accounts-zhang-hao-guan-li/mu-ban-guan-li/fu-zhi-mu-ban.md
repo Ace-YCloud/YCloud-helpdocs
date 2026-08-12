@@ -8,7 +8,7 @@
 
 ## 步骤1：点击复制按钮
 
-<figure><img src="../../.gitbook/assets/image (289).png" alt=""><figcaption><p>Copy template button</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (423).png" alt=""><figcaption><p>Copy template button</p></figcaption></figure>
 
 ## 步骤2：设置复制信息
 
@@ -18,10 +18,10 @@
 
 内容设置完成后点击提交。
 
-<figure><img src="../../.gitbook/assets/image (290).png" alt=""><figcaption><p>Set copy info</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (424).png" alt=""><figcaption><p>Set copy info</p></figcaption></figure>
 
 ## 步骤3：编辑新模板
 
 进入新模板的编辑页面，确认无误后点击提交。
 
-<figure><img src="../../.gitbook/assets/image (292).png" alt=""><figcaption><p>Edit template</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (426).png" alt=""><figcaption><p>Edit template</p></figcaption></figure>

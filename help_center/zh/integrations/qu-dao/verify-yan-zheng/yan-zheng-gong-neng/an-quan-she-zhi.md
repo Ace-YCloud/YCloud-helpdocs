@@ -14,5 +14,5 @@
 
 &#x20;Integrations>Verify>Security, [点击访问](https://www.ycloud.com/console/#/app/integrations/verify/security)
 
-<figure><img src="../../../../.gitbook/assets/image (575).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (709).png" alt=""><figcaption></figcaption></figure>
 

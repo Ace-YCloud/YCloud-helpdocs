@@ -10,13 +10,13 @@ Owner是归属人的Email邮箱。在Contact中支持给每个客户设置1个Ow
 
 在Contact中找到客户的信息，点击后展开编辑页面。
 
-<figure><img src="../.gitbook/assets/image (389).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (523).png" alt=""><figcaption></figcaption></figure>
 
 找到Owner设置项，设置Owner。
 
 输入Owner的email邮箱后点击保存，同时也支持下拉选择已存在的Agent（Inbox中的Agent）
 
-<figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -24,7 +24,7 @@ Owner是归属人的Email邮箱。在Contact中支持给每个客户设置1个Ow
 
 登录Inbox后，展开用户信息栏。点击Owner，选择想要转接的Owner，即刻完成转接。
 
-<figure><img src="../.gitbook/assets/image (395).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (529).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -32,27 +32,27 @@ Owner是归属人的Email邮箱。在Contact中支持给每个客户设置1个Ow
 
 点击 Contact > Contact list > + New contacts > Upload a file
 
-<figure><img src="../.gitbook/assets/image (396).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (530).png" alt=""><figcaption></figcaption></figure>
 
 点击 【Download Template】 进行模板下载
 
-<figure><img src="../.gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (532).png" alt=""><figcaption></figcaption></figure>
 
 编辑模板。保存后上传至YCloud。
 
-<figure><img src="../.gitbook/assets/image (399).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (533).png" alt=""><figcaption></figcaption></figure>
 
 上传完成后确认匹配字段无误，后点击【Next】
 
-<figure><img src="../.gitbook/assets/image (400).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (534).png" alt=""><figcaption></figcaption></figure>
 
 确认能够成功上传的数量，确认无误后点击 【Next】
 
-<figure><img src="../.gitbook/assets/image (401).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (535).png" alt=""><figcaption></figcaption></figure>
 
 完成上传
 
-<figure><img src="../.gitbook/assets/image (402).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (536).png" alt=""><figcaption></figcaption></figure>
 
 
 

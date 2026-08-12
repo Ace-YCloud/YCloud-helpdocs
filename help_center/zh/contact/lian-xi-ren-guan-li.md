@@ -51,7 +51,7 @@ Contact 支持按过滤器对联系人进行 segment 操作，便于对 Contact 
 
 登录 [YCloud 账号](https://www.ycloud.com)，导航至 **Contact > Contact list**，可查看你的联系人列表。你也可以根据昵称、国家 / 地区等参数搜索联系人。
 
-<figure><img src="../.gitbook/assets/image (919).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1061).png" alt=""><figcaption></figcaption></figure>
 
 进入联系人详情后，你可以查看该联系人的基础资料、来源、标签和互动信息。常见信息包括：
 

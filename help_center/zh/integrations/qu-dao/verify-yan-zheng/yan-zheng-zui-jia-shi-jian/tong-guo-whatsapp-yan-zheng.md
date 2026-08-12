@@ -44,7 +44,7 @@ WhatsApp 还提供更多安全优势：每个 WhatsApp 用户都可以通过创�
 | <p>默认通过 WhatsApp 发送 OTP<br>在 WhatsApp 发送失败后立即通过短信发送（很可能是因为目标电话号码尚未注册个人 WhatsApp 帐户）。</p> | 您的受众主要集中在 WhatsApp 覆盖率较高的国家/地区，例如印度尼西亚、印度、巴西和哥伦比亚。 |
 | 提供接收 OTP 消息通道的按钮选项，允许用户选择自己的 OTP 接收通道。                                                   | 您的受众位于 WhatsApp 覆盖率不够高的国家/地区，或者您的应用程序覆盖了许多国家/地区。   |
 
-<figure><img src="../../../../.gitbook/assets/image (576).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (710).png" alt=""><figcaption></figcaption></figure>
 
 OTP 默认通过 WhatsApp 发送。如果发送失败，会立即通过短信重发。
 

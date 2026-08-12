@@ -14,11 +14,11 @@
 4. 询问到客户的订单号后，通过该信息继续查看Shopify的订单并反馈给客户。
 5. 查询失败时，及时通过[Agent takeover](agent-takeover.md) 组件将到客户转人工进行对接。
 
-<figure><img src="../../.gitbook/assets/image (796).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (938).png" alt=""><figcaption></figcaption></figure>
 
 ## 组件设置项
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
 
 ### 搜索方式：
 

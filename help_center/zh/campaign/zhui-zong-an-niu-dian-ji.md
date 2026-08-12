@@ -6,13 +6,13 @@
 
 ## 步骤1：创建模板，打开按钮的点击追踪功能
 
-<figure><img src="../.gitbook/assets/image (618).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (752).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (619).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (753).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (620).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (754).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (621).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (755).png" alt=""><figcaption></figcaption></figure>
 
 ## 步骤2：发起Campaign
 
@@ -20,6 +20,6 @@
 
 ## 步骤3：查看按钮点击数据
 
-<figure><img src="../.gitbook/assets/image (622).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (756).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (623).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (757).png" alt=""><figcaption></figcaption></figure>

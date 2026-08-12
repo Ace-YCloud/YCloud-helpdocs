@@ -6,7 +6,7 @@ description: 本文档介绍了轮播模板及其使用方法。
 
 轮播模板支持发送一条带多张轮播卡片的营销消息 ，这些卡片可在水平滚动视图中查看：
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33).png" alt="" width="375"><figcaption></figcaption></figure>
 
 当用户点击商家提供的URL链接时，用户会跳转到浏览器， 这会导致用户离开WhatsApp。若您想让用户在WhatsApp内查看更多商品信息，建议使用轮播模版展示多个商品。注意：轮播模版仅适用于营销模版消息。
 
@@ -19,7 +19,7 @@ description: 本文档介绍了轮播模板及其使用方法。
 * 卡片可包含1个访问网站按钮和一个快捷回复按钮
 * 一个轮播模版里的所有卡片的组件需一致。
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 ### 创建轮播模版
 
@@ -29,7 +29,7 @@ description: 本文档介绍了轮播模板及其使用方法。
 
 在营销模版库中选择轮播模版。
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 然后，依次填充正文和卡片。
 
@@ -37,7 +37,7 @@ description: 本文档介绍了轮播模板及其使用方法。
 
 ⚠️  请确保您在每个卡片标题里上传的媒体类型是一致的。
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 💡模板审核通过后，您可以使用 3 种方式发送此模板消息：
 

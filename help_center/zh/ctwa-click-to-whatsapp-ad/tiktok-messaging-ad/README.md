@@ -74,7 +74,7 @@ YCloud 当前支持的是第二种，即跳转到 WhatsApp 的即时消息广告
 
 ### 操作步骤
 
-1. 步骤1、2：在YCloud后台配置：[链接广告账户](tiktok-ad-introduction.md)、[绑定WhatsApp号码](tiktok-ad-introduction.md)
+1. 步骤1、2：在YCloud后台配置：[链接广告账户](connect-tiktok-ad-account.md)、[绑定WhatsApp号码](connect-tiktok-ad-account.md)
 2. 步骤3、4、5：[在TikTok 广告后台 创建TikTok 消息广告](create-tiktok-instant-messaging-ad.md)；
 3. 步骤6、7、8：[YCloud承接广告流量、广告追踪&转化](tiktok-ad-traffic-delivery-tracking-and-conversion.md)
 

@@ -25,7 +25,7 @@ description: 使用模板发送 WhatsApp 消息。
 * 页脚：页脚可以包含其他消息，例如号召性用语或联系信息。
 * 按钮：按钮是可选元素，可包含在您的消息中，以鼓励收件人采取特定的操作，例如访问网站或进行购买。
 
-<figure><img src="../../.gitbook/assets/image (512).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (646).png" alt=""><figcaption></figcaption></figure>
 
 ## 创建模板
 
@@ -113,4 +113,4 @@ description: 使用模板发送 WhatsApp 消息。
 4. 提交后，请求和问题将移&#x81F3;**“In Review”**&#x9009;项中。
 5. 申诉审核决定将通过业务经理发送，通常需要 24 到 48 小时。申诉的违规行为将保&#x6301;**“Unchanged”（不变）**&#x6216;被设置&#x4E3A;**“Reversed”（撤销）**。
 
-<figure><img src="../../.gitbook/assets/image (513).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (647).png" alt=""><figcaption></figcaption></figure>

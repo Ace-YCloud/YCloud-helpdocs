@@ -16,7 +16,7 @@ description: >-
 
 {% embed url="https://ycloud-team.gitbook.io/help-center/~/changes/IqNHz5fsbvP791RHlujH/inbox/inbox-jie-shao" %}
 
-<figure><img src="../.gitbook/assets/image (404).png" alt=""><figcaption><p>YCloud Inbox</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (538).png" alt=""><figcaption><p>YCloud Inbox</p></figcaption></figure>
 
 ## 使用ChatBot接待访客 <a href="#id-jie-dai-ctwa-de-fang-ke-shi-yong-chatbot-jie-dai-fang-ke" id="id-jie-dai-ctwa-de-fang-ke-shi-yong-chatbot-jie-dai-fang-ke"></a>
 
@@ -34,4 +34,4 @@ description: >-
 
 {% embed url="https://ycloud-team.gitbook.io/help-center/~/changes/IqNHz5fsbvP791RHlujH/chatbot/shen-me-shi-chatbot" %}
 
-<figure><img src="../.gitbook/assets/image (405).png" alt=""><figcaption><p>YCloud Chatbot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (539).png" alt=""><figcaption><p>YCloud Chatbot</p></figcaption></figure>

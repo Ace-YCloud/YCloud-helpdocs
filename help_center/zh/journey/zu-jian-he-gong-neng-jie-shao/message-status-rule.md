@@ -17,7 +17,7 @@
 1. 在等待的时间内，满足了选择的状态时。
 2. 在等待时间结束后，还未满足选择的状态时。
 
-<figure><img src="../../.gitbook/assets/image (610).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (744).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -27,7 +27,7 @@
 
 将鼠标移动到Send template的连接节点上时，会出现两个快捷选项，分别是判断这条消息已读时或者回复时。点击后会自动连接一个新的Message statues rule组件。
 
-<figure><img src="../../.gitbook/assets/image (605).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (739).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -35,6 +35,6 @@
 
 手动添加的Message status rule是不会自动配置模板并连接。您需要在设置页面中手动选择模板和需要判断的状态。选择模板时，只能选择当前Journey中所有Send template已经选择了的模板。模板选择后，需要手动连接前置流程。
 
-<figure><img src="../../.gitbook/assets/image (606).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (740).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (611).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (745).png" alt=""><figcaption></figcaption></figure>

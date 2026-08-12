@@ -8,7 +8,7 @@
 2. 指定给固定的团队进行接待
 3. 指定给固定的客服/销售进行接待
 
-<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
 
 
 

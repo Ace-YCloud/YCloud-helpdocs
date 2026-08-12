@@ -6,7 +6,7 @@ description: 本篇讲述WhatsApp复制验证码模板，即Copy Code Authentica
 
 复制代码身份验证模板允许您向用户发送一次性密码或代码以及复制代码按钮。当 WhatsApp 用户点击复制代码按钮时，WhatsApp 客户端会将密码或代码复制到设备的剪贴板。然后，用户可以切换到您的应用并将密码或代码粘贴到您的应用中。
 
-<figure><img src="../../../.gitbook/assets/image (528).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (662).png" alt="" width="563"><figcaption></figcaption></figure>
 
 复制代码按钮身份验证模板包括：
 

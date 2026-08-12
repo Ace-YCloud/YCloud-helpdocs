@@ -36,7 +36,7 @@ Marketing message Lite API（“简称MM Lite API ”）是Meta最新推出的�
 注意，在授权时，您必须是此WABA的管理员。
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
 
 
 

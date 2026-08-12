@@ -8,7 +8,7 @@ description: 由客服上行消息触发，适用于实时解答客户问题
 
 应答型AI智能体通过配置预设角色来响应上行消息，例如留资线索获取、店铺导购、客服，或根据您需求定制的专属角色。当您认真设置了AI档案，并为 AI提供全面引导，丰富其知识库和操作手册，它就能高效处理常见的重复性客户咨询。此外，它甚至能够完成复杂的数据交互任务，如查询订单、更新地址数据等信息，从而显著提升客户服务运营效率。
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 ## 如何为您的业务配置定制化 AI
 

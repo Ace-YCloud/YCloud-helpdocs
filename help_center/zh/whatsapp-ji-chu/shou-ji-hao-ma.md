@@ -41,9 +41,9 @@ WhatsApp 商业帐户 (WABA) 需要一个有效的电话号码才可以与客户
 
 在YCloud里，您可以通过以下路径更改显示名称：YCloud > WhatsApp accounts > Number settings > Business Profile > Display name > Edit.&#x20;
 
-<figure><img src="../.gitbook/assets/image (838).png" alt="111"><figcaption><p>在YCloud更改显示名称</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (980).png" alt="111"><figcaption><p>在YCloud更改显示名称</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (841).png" alt=""><figcaption><p>点击Edit弹出弹窗</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (983).png" alt=""><figcaption><p>点击Edit弹出弹窗</p></figcaption></figure>
 
 ⚠️注意：
 
@@ -84,7 +84,7 @@ WhatsApp 商业帐户 (WABA) 需要一个有效的电话号码才可以与客户
 
 您可以在YCloud > WhatsApp accounts，查看电话号码质量：
 
-<figure><img src="../.gitbook/assets/image (507).png" alt=""><figcaption><p>电话号码质量</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (641).png" alt=""><figcaption><p>电话号码质量</p></figcaption></figure>
 
 #### **保持高质量评级的一些建议** <a href="#maintain-high-quality-rating" id="maintain-high-quality-rating"></a>
 
@@ -107,7 +107,7 @@ WhatsApp 商业帐户 (WABA) 需要一个有效的电话号码才可以与客户
 
 您可以在YCloud > WhatsApp accounts，查看电话号码消息限制：
 
-<figure><img src="../.gitbook/assets/image (508).png" alt=""><figcaption><p>电话号码消息限制</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (642).png" alt=""><figcaption><p>电话号码消息限制</p></figcaption></figure>
 
 
 
@@ -119,7 +119,7 @@ WhatsApp 商业帐户 (WABA) 需要一个有效的电话号码才可以与客户
 
 在达到 1000个/天 消息限制之前，[**WhatsApp 管理器**](https://business.facebook.com/wa/manage/home/)>**概览**>**限制**面板会显示有关如何增加限制的有用信息。
 
-<figure><img src="../.gitbook/assets/image (510).png" alt="" width="319"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (644).png" alt="" width="319"><figcaption></figcaption></figure>
 
 ### 提升限额
 
@@ -143,7 +143,7 @@ WhatsApp 商业帐户 (WABA) 需要一个有效的电话号码才可以与客户
 
 你也可以在前往 [**WhatsApp 管理器**](https://business.facebook.com/wa/manage/home/)>**帐户工具**> **Insights，**&#x4E86;解您的企业电话号码将如何提升到下一个水平：
 
-<figure><img src="../.gitbook/assets/image (511).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (645).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -153,7 +153,7 @@ WhatsApp 商业帐户 (WABA) 需要一个有效的电话号码才可以与客户
 
 找到您想要删除的电话号码。点击垃圾桶图标。
 
-<figure><img src="../.gitbook/assets/image (506).png" alt=""><figcaption><p>删除电话号码</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (640).png" alt=""><figcaption><p>删除电话号码</p></figcaption></figure>
 
 {% hint style="warning" %}
 删除注意：

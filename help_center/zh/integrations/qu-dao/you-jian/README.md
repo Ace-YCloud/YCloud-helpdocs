@@ -17,7 +17,7 @@ YCloud Email是一种更快、更简单的大规模交付方式，适合发送�
 
 开通Email功能，在[Integrations](https://www.ycloud.com/console/#/app/integrations/all)页面中点击Enable按钮开通此功能。
 
-<figure><img src="../../../.gitbook/assets/image (568).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (702).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 

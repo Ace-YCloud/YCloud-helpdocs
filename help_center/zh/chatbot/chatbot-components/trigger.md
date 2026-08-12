@@ -36,7 +36,7 @@
 您可以在"Conversation topic"中选择YCloud系统中默认的触发主题，如：打招呼，查询订单状态，转接人工等等；也可以选择定制特定的主题；\
 同时，您可以在下方添加一些其他您认为需要补充的关键词，来帮助更好的识别到客户的语义，进而触发对应的chatbot。
 
-<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
 
 ## 快速回复按钮触发 (Click button trigger)
 
@@ -44,7 +44,7 @@
 
 适用于企业向用户发送带有快捷回复按钮的营销/通知类型的消息时，用户点击了对应按钮，会跳转到对应的chatbot flow，在flow中进行与用户的活动。
 
-<figure><img src="../../.gitbook/assets/image (631).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (765).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (632).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (766).png" alt=""><figcaption></figcaption></figure>
 

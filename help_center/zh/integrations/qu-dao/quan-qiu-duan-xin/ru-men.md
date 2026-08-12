@@ -17,7 +17,7 @@
 
 成功开通后在Integration（集成）中可以看到短信的导航。
 
-<figure><img src="../../../.gitbook/assets/image (375).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (509).png" alt=""><figcaption></figcaption></figure>
 
 ## 试用账户需知
 
@@ -44,7 +44,7 @@
 
 [点击访问发送记录页面](https://www.ycloud.com/console/#/app/integrations/sms/analytics/logs)
 
-<figure><img src="../../../.gitbook/assets/image (379).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (513).png" alt=""><figcaption></figcaption></figure>
 
 
 

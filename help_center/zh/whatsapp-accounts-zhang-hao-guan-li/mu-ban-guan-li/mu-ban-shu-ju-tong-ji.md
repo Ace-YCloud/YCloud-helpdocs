@@ -11,11 +11,11 @@
 
 ## 步骤1：点击模板
 
-<figure><img src="../../.gitbook/assets/image (285).png" alt=""><figcaption><p>Click template</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (419).png" alt=""><figcaption><p>Click template</p></figcaption></figure>
 
 ## 步骤2：查看模板数据
 
 1. Performance ：消息的到达已读数据统计。
 2. Button clicks ：消息的按钮点击数据。若模板中不含有可统计的按钮，则不显示此板块。
 
-<figure><img src="../../.gitbook/assets/image (287).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (421).png" alt=""><figcaption></figcaption></figure>

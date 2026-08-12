@@ -10,7 +10,7 @@ YCloud提供了多种发送WhatsApp Flows的方式，本文将分别介绍使用
 
 登陆您的YCloud账号 > Templates > 选择好对应的模版类型并编辑好内容后， 点击 Buttons > Call to action > WhatsApp Flow > 选择想要插入的WhatsApp Flow > 编辑按钮中展示的文字  > 点击 "Submit" 提交模版申请。
 
-<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
 
 ### 步骤2: <a href="#bu-zhou-2" id="bu-zhou-2"></a>
 
@@ -28,5 +28,5 @@ YCloud提供了多种发送WhatsApp Flows的方式，本文将分别介绍使用
 
 请注意：如果终端用户在chatbot发送WhatsApp Flow消息后没有进行选择和填写，chatbot将不会进行到下一个步骤，会终止在WhatsApp Flow消息这里。
 
-<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
 

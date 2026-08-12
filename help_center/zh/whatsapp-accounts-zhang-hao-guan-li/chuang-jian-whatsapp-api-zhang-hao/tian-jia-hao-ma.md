@@ -12,7 +12,7 @@ description: 在已有的WABA上注册更多的手机号码
 
 
 
-<figure><img src="../../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (301).png" alt=""><figcaption></figcaption></figure>
 
 <br>
 
@@ -24,13 +24,13 @@ description: 在已有的WABA上注册更多的手机号码
 2. 行业属性：选择行业。
 3. 企业简介（选填）：可描述下此号码的简介。
 
-<figure><img src="../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (303).png" alt=""><figcaption></figcaption></figure>
 
 ## 步骤3:
 
 输入新注册的手机号码，完成后点击继续。
 
-<figure><img src="../../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (304).png" alt=""><figcaption></figcaption></figure>
 
 ## 步骤4:
 
@@ -38,7 +38,7 @@ description: 在已有的WABA上注册更多的手机号码
 
 Tip：中国大陆地区（+86）建议使用语音电话来接收验证码。
 
-<figure><img src="../../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (395).png" alt=""><figcaption></figcaption></figure>
 
 ## 相关阅读
 

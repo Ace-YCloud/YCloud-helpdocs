@@ -35,7 +35,7 @@ _例如：您在使用YCloud之前就已经在其他服务商处注册了WhatsAp
 
 选择要迁移的号码的归属WABA > Settings > WhatsApp manager。
 
-<figure><img src="../../.gitbook/assets/image (591).png" alt=""><figcaption><p>Business Manager settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (725).png" alt=""><figcaption><p>Business Manager settings</p></figcaption></figure>
 
 ####
 
@@ -43,13 +43,13 @@ _例如：您在使用YCloud之前就已经在其他服务商处注册了WhatsAp
 
 点击导航栏的 Phone numbers，选择要迁移的号码，点击号码的设置图标。
 
-<figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption><p>WABA settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (249).png" alt=""><figcaption><p>WABA settings</p></figcaption></figure>
 
 #### 步骤1.4：关闭号码的两步验证&#x20;
 
 在号码管理页面中找到 Two-step verification，点击 Turn off two-step verification
 
-<figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption><p>Phone number settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (251).png" alt=""><figcaption><p>Phone number settings</p></figcaption></figure>
 
 
 
@@ -61,29 +61,29 @@ _例如：您在使用YCloud之前就已经在其他服务商处注册了WhatsAp
 
 访问[WhatsApp accounts](https://www.ycloud.com/console/#/app/dashboard/account)页面 ，点击 **添加号码**
 
-<figure><img src="../../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (301).png" alt=""><figcaption></figcaption></figure>
 
 #### 步骤2.2：选择迁移号码
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
 
 #### 步骤2.3：确认迁移
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
 
 #### 步骤2.4：确认已关闭2fa
 
-<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
 
 #### 步骤2.5：输入需要迁移的号码
 
-<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
 
 #### 步骤2.6：输入验证码完成验证
 
 Tip：中国大陆地区（+86）建议使用语音电话来接收验证码。
 
-<figure><img src="../../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (395).png" alt=""><figcaption></figcaption></figure>
 
 
 

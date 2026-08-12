@@ -16,7 +16,7 @@ description: 本文主要介绍如何利用YCloud Journey来唤起Shopify订单�
 * 设置好模版内容
 * 在Buttons中选择Call to action > Visit Website > Shopify link, 设置好后保存即可。
 
-<figure><img src="../../../.gitbook/assets/image (661).png" alt=""><figcaption><p>带有Shopify支付链接的消息模版</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (795).png" alt=""><figcaption><p>带有Shopify支付链接的消息模版</p></figcaption></figure>
 
 ## Trigger设置
 
@@ -46,4 +46,4 @@ description: 本文主要介绍如何利用YCloud Journey来唤起Shopify订单�
 
 选择提前预设好的带有Shopify支付链接的消息模版，并选择好模版中变量对应的属性。连接Wait组件，点击保存完成Journey创建。
 
-<figure><img src="../../../.gitbook/assets/image (662).png" alt=""><figcaption><p>选择对应的变量的模版</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (796).png" alt=""><figcaption><p>选择对应的变量的模版</p></figcaption></figure>

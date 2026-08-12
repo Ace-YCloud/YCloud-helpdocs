@@ -20,13 +20,13 @@
 
 邀请入口： 点击 WhatsApp Calling > 邀请用户呼入
 
-<figure><img src="../.gitbook/assets/image (894).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1036).png" alt=""><figcaption></figcaption></figure>
 
 
 
 输入请求通话的原因，确认无误后点击发送
 
-<figure><img src="../.gitbook/assets/image (895).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1037).png" alt=""><figcaption></figcaption></figure>
 
 发送后客户手机上会收到一条类似下图的邀请呼入的消息，客户点击呼入按钮即可发起呼入。
 
@@ -36,7 +36,7 @@
 
 当客户通过你发送的邀请链接发起语音通话，您将在Inbox平台上看到提醒，点击 接听键 开始接听。
 
-<figure><img src="../.gitbook/assets/image (897).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1039).png" alt=""><figcaption></figcaption></figure>
 
 ##
 
@@ -52,11 +52,11 @@
 
 发起入口：WhatsApp Calling > 发起语音通话
 
-<figure><img src="../.gitbook/assets/image (898).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1040).png" alt=""><figcaption></figcaption></figure>
 
 YCloud会引导你先发送一条外呼请求消息。
 
-<figure><img src="../.gitbook/assets/image (899).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1041).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -64,13 +64,13 @@ YCloud会引导你先发送一条外呼请求消息。
 
 当用户同意后，你将收到一条系统消息提醒。
 
-<figure><img src="../.gitbook/assets/image (901).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1043).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. 外呼
 
 获得授权后即可再次点击此按钮发起语音外呼
 
-<figure><img src="../.gitbook/assets/image (898).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1040).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -80,4 +80,4 @@ YCloud会引导你先发送一条外呼请求消息。
 
 打开右侧通话记录板块可看到详细的通话记录。
 
-<figure><img src="../.gitbook/assets/image (900).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1042).png" alt=""><figcaption></figcaption></figure>

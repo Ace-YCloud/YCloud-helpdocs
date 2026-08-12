@@ -4,8 +4,8 @@ YCloud 为客户提供 2 种模板供测试。您可以点击图片下载 HTML �
 
 1\. [Sign up](https://oss-publicread.oss-cn-hangzhou.aliyuncs.com/yunpian/ycloud/webfront/email/template-samples/SignUp.txt).
 
-<figure><img src="../../../.gitbook/assets/image (917).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1059).png" alt=""><figcaption></figcaption></figure>
 
 2.[Password reset](https://oss-publicread.oss-cn-hangzhou.aliyuncs.com/yunpian/ycloud/webfront/email/template-samples/Password.txt)
 
-<figure><img src="../../../.gitbook/assets/image (918).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1060).png" alt=""><figcaption></figcaption></figure>

@@ -8,7 +8,7 @@
 
 **充值入口**：左下角头像>Billing>[Buy credits](https://www.ycloud.com/console/#/app/billing/buyCredits)，或将鼠标移动至左下角的余额，点击余额右侧的箭头进入。
 
-<figure><img src="../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -22,7 +22,7 @@
 
 点击下载按钮，可导出账单。
 
-<figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -32,5 +32,5 @@
 
 配置入口：左下角头像>Billing>[Notifications](https://www.ycloud.com/console/#/app/billing/notification)
 
-<figure><img src="../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
 

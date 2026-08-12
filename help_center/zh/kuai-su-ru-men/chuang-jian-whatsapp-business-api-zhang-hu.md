@@ -20,7 +20,7 @@
 * 访问YCloud后台，[点击访问](https://www.ycloud.com/console/?redirect=/edit/getting-started#/app/dashboard/getStarted)&#x20;
 * 点击下图按钮，开始嵌入式注册流程
 
-<figure><img src="../.gitbook/assets/image (233).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
 
 * 创建成功后，可以在WhatsApp Account检查账户，[前往👉](https://www.ycloud.com/console/?redirect=/edit/getting-started#/app/dashboard/account)
 
@@ -54,7 +54,7 @@
 
 确保您是BM账户的管理员，然后[前往BM后台安全中心](https://business.facebook.com/settings/security)发起验证：
 
-<figure><img src="../.gitbook/assets/image (262).png" alt=""><figcaption><p>BM账号安全中心页面</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (396).png" alt=""><figcaption><p>BM账号安全中心页面</p></figcaption></figure>
 
 
 

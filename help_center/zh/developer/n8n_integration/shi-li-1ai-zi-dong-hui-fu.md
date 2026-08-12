@@ -4,11 +4,11 @@
 
 当 YCloud 平台收到 inbound message 后，将通过 Webhook 触发 n8n 工作流。调用大模型生成回复内容，并通过 YCloud 节点将消息返回给用户。
 
-> YCloud Chatbot 为您构建了完整的AI工作流，提供全链路简单易懂的AI知识库，语料，自动化流程。您可以[点此链接](/broken/pages/PhbyQBXo6pcfsOKRwZ6O)查看详情。
+> YCloud Chatbot 为您构建了完整的AI工作流，提供全链路简单易懂的AI知识库，语料，自动化流程。您可以[点此链接](https://app.gitbook.com/s/78HV6e8vN6mhwsbohgTK/chatbot)查看详情。
 
 ### 总体流程
 
-<figure><img src="../../.gitbook/assets/image (916).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1058).png" alt=""><figcaption></figcaption></figure>
 
 ### Webhook 事件触发
 
