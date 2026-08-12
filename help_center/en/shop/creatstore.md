@@ -35,7 +35,7 @@ Customers may see this shop name in the order or whatsapp messages
 * **Market**: Choose the countries/regions where you will sell products.
   * **Global**: Your store will sell to all countries worldwide.
   * **Target Sales Markets**: Only sell to specific countries/regions.\
-    &#xNAN;_&#x45;xample: If you select the U.S. and Canada, customers can only choose these countries as shipping addresses. Orders from other regions will be restricted._
+    _&#x45;xample: If you select the U.S. and Canada, customers can only choose these countries as shipping addresses. Orders from other regions will be restricted._
 
 ### currency
 

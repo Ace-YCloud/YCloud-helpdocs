@@ -8,7 +8,7 @@ This example will demonstrate how to implement a basic automated response workfl
 
 Upon receiving an inbound message, YCloud triggers an n8n workflow via a webhook, invokes a large language model to generate a response, and returns the message to the user through the YCloud API.
 
-> YCloud Chatbot has built a comprehensive AI workflow for you, providing a fully integrated, straightforward AI knowledge base, corpora, and automated processes. You may click [this link ](/broken/pages/bJV1L3TuAvr6q0yPEQXi)to view details.
+> YCloud Chatbot has built a comprehensive AI workflow for you, providing a fully integrated, straightforward AI knowledge base, corpora, and automated processes. You may click [this link ](https://app.gitbook.com/s/SIAnjLP6KQY5rvyuaq5K/chatbot)to view details.
 
 ## Overall
 
