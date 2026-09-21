@@ -1,11 +1,7 @@
 # WhatsApp消息计费规则
 
 {% hint style="warning" %}
-所有 WhatsApp 企业账号采用按消息计费的方式。即：
-
-* 每条已送达的营销模板消息；
-* 每条已送达的身份验证模板消息；
-* 在客户服务窗口之外送达的通知类模板消息。
+自 2026 年 10 月 1 日起，服务消息将按与通知（Utility）消息相同的费率计费，每个电话号码每月可享 1,000 条免费服务消息。在 24 小时服务窗口内发送的通知消息将不再免费。Meta 还将更新部分市场的营销（Marketing）、通知（Utility）和身份验证（Authentication）费率，并为 9 个国家/地区新增国际身份验证（Authentication-International）费率。[了解更多](https://www.ycloud.com/blog/whatsapp-api-message-pricing-update-effective-october-1-2026)
 {% endhint %}
 
 ## 计费方式
@@ -14,9 +10,17 @@ YCloud根据收件人的国家和消息类型进行收费。消息分为一下5�
 
 <table><thead><tr><th width="139.98046875">消息类型</th><th>解释</th></tr></thead><tbody><tr><td>营销</td><td>发送营销模板</td></tr><tr><td>通知</td><td>发送通知模板</td></tr><tr><td>验证码</td><td>发送验证码模板</td></tr><tr><td>国际验证码</td><td>被Meta认定为需要执行国际验证码价格的企业，在向适用该价格的国家发送验证码模板消息时，将按国际验证码价格收费。 <a href="billing-rule.md#guo-ji-yan-zheng-ma-jia-ge">详细解释</a></td></tr><tr><td>服务</td><td>发非模板消息</td></tr></tbody></table>
 
+所有 WhatsApp 企业账号采用按消息计费的方式。即：
+
+* 每条已送达的营销模板消息；
+* 每条已送达的身份验证模板消息；
+* 在客户服务窗口之外送达的通知类模板消息。
+
+
+
 具体价格可在我们官网查看：[http://www.ycloud.com/pricing](http://www.ycloud.com/pricing)
 
-⚠️新价格将会在7月1日更新到官网上。您也可以联系您的客户经理获取新的价格。
+
 
 ##
 
