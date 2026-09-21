@@ -53,6 +53,7 @@
     * [AI generates marketing templates](whatsapp-accounts-management/template-management/create-template/ai-generates-marketing-templates.md)
   * [Copy Template](whatsapp-accounts-management/template-management/copy-template.md)
   * [Template Data Statistics](whatsapp-accounts-management/template-management/template-data-statistics.md)
+  * [Conversion](whatsapp-accounts-management/template-management/conversion.md)
 * [Phone Number Management](whatsapp-accounts-management/phone-number-management/README.md)
   * [Phone Number Nickname Settings](whatsapp-accounts-management/phone-number-management/phone-number-nickname-settings.md)
   * [Phone Number Profile Settings](whatsapp-accounts-management/phone-number-management/phone-number-profile-settings.md)

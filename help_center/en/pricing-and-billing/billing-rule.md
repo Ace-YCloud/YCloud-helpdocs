@@ -1,13 +1,7 @@
 # WhatsApp billing rules
 
 {% hint style="warning" %}
-All WhatsApp Business accounts operate on a per-message billing model. The following message types will now be charged individually once delivered:
-
-• Marketing template messages
-
-• Authentication template messages
-
-• Utility template messages sent outside the service window
+Starting October 1, 2026, service messages will be billed at the same rate as Utility messages, with 1,000 free Service messages per phone number each month. Utility messages sent within a 24-hour service window will no longer be free. Meta will also update Marketing, Utility, and Authentication rates in selected markets and add Authentication-International rates for 9 countries. [Learn more](https://www.ycloud.com/blog/whatsapp-api-message-pricing-update-effective-october-1-2026)
 {% endhint %}
 
 
@@ -17,6 +11,20 @@ All WhatsApp Business accounts operate on a per-message billing model. The follo
 YCloud charges are based on the recipient country and message type. WhatsApp classifies template messages into 5 categories as below.
 
 <table><thead><tr><th width="251.7109375">Category</th><th>Explaination</th></tr></thead><tbody><tr><td>Marketing</td><td>Sending marketing template messages</td></tr><tr><td>Utility</td><td>Sending utility template messages</td></tr><tr><td>Authentication</td><td>Sending authentication template messages</td></tr><tr><td>International-Authentication</td><td><p>Companies identified by Meta as eligible for the Authentication-International rate will be charged this rate when initiating authentication template messages to countries where the Authentication-International rate applies. </p><p><a href="billing-rule.md#international-authentication-pricing">Detailed Explanation</a></p></td></tr><tr><td>Service</td><td>Sending free-form messages</td></tr></tbody></table>
+
+All WhatsApp Business accounts operate on a per-message billing model. The following message types will now be charged individually once delivered:
+
+• Marketing template messages
+
+• Authentication template messages
+
+• Utility template messages sent out of the service window.
+
+
+
+
+
+
 
 You can view the full pricing here:
 
